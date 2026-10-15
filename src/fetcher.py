@@ -16,7 +16,7 @@ INDEX_FILE = DATA_DIR / "index.json"
 
 
 def normalize_logo(path: str) -> str:
-    """تحويل المسار النسبي إلى رابط كامل"""
+    """تحويل مسار الشعار النسبي إلى رابط كامل"""
     if not path:
         return ""
     if path.startswith("http"):
@@ -27,7 +27,7 @@ def normalize_logo(path: str) -> str:
 
 
 def fetch_today_matches():
-    """جلب مباريات اليوم من phantom-pro-theme"""
+    """جلب مباريات اليوم من phantom-pro-theme.malik-web.net"""
 
     headers = {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
@@ -47,15 +47,19 @@ def fetch_today_matches():
         return None
     except json.JSONDecodeError as e:
         print(f"[ERROR] Failed to parse JSON: {e}")
+        print(f"[DEBUG] Response preview: {response.text[:300]}")
         return None
 
     raw_competitions = raw.get("competitions", [])
-    matches = []
+    print(f"[INFO] Received {len(raw_competitions)} competitions")
 
+    matches = []
     for comp in raw_competitions:
         comp_id = comp.get("id")
         comp_name = comp.get("competition_name")
         comp_logo = normalize_logo(comp.get("competition_img", ""))
+        comp_url_name = comp.get("competition_url_name")
+        has_standings = comp.get("has_standings", False)
 
         for m in comp.get("matches", []):
             matches.append({
@@ -64,8 +68,8 @@ def fetch_today_matches():
                     "id": comp_id,
                     "name": comp_name,
                     "logo": comp_logo,
-                    "url_name": comp.get("competition_url_name"),
-                    "has_standings": comp.get("has_standings", False),
+                    "url_name": comp_url_name,
+                    "has_standings": has_standings,
                 },
                 "home_team": {
                     "name": m.get("team1_name"),
@@ -89,7 +93,7 @@ def fetch_today_matches():
                     "countdown_seconds": m.get("countdown_seconds"),
                 },
                 "status": {
-                    "code": m.get("status_class", "").upper(),
+                    "code": (m.get("status_class") or "").upper(),
                     "text_ar": m.get("match_status"),
                     "phase": m.get("phase"),
                     "progress_percentage": m.get("progress_percentage", 0),
@@ -119,20 +123,16 @@ def fetch_today_matches():
         "matches": matches,
     }
 
-    # 1. ملف اليوم
     with open(TODAY_FILE, "w", encoding="utf-8") as f:
         json.dump(output, f, ensure_ascii=False, indent=2)
-    print(f"[OK] Today file: {len(matches)} matches")
+    print(f"[OK] Saved {len(matches)} matches to today_matches.json")
 
-    # 2. أرشيف اليوم
     daily_file = DAILY_DIR / f"{today_str}.json"
     with open(daily_file, "w", encoding="utf-8") as f:
         json.dump(output, f, ensure_ascii=False, indent=2)
-    print(f"[OK] Daily archive: {daily_file}")
+    print(f"[OK] Archived to daily/{today_str}.json")
 
-    # 3. تحديث الفهرس
     update_index()
-
     return output
 
 
@@ -147,6 +147,7 @@ def update_index():
             days.append({
                 "date": date_str,
                 "total_matches": content.get("meta", {}).get("total_matches", 0),
+                "total_competitions": content.get("meta", {}).get("total_competitions", 0),
                 "generated_at": content.get("meta", {}).get("generated_at"),
                 "url": f"https://raw.githubusercontent.com/MaxTV0/Mody-API/main/data/daily/{date_str}.json",
             })
@@ -166,7 +167,7 @@ def update_index():
 
     with open(INDEX_FILE, "w", encoding="utf-8") as f:
         json.dump(index_data, f, ensure_ascii=False, indent=2)
-    print(f"[OK] Index: {len(days)} days")
+    print(f"[OK] Index updated: {len(days)} days")
 
 
 if __name__ == "__main__":
