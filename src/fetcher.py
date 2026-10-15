@@ -7,8 +7,12 @@ SOURCE_URL = "https://www.messisporat.com/matches/npm/"
 BASE_URL = "https://www.messisporat.com"
 
 DATA_DIR = Path(__file__).resolve().parent.parent / "data"
+DAILY_DIR = DATA_DIR / "daily"
 DATA_DIR.mkdir(exist_ok=True)
-OUTPUT_FILE = DATA_DIR / "today_matches.json"
+DAILY_DIR.mkdir(exist_ok=True)
+
+TODAY_FILE = DATA_DIR / "today_matches.json"
+INDEX_FILE = DATA_DIR / "index.json"
 
 STATUS_MAP = {
     "لم تبدأ": "SCHEDULED",
@@ -87,21 +91,67 @@ def fetch_today_matches():
             },
         })
 
-    output = {
+    now = datetime.now(timezone.utc)
+    today_str = now.strftime("%Y-%m-%d")
+    generated_at = now.isoformat()
+
+    # 1. حفظ ملف اليوم (يُستبدل كل مرة)
+    today_data = {
         "meta": {
-            "generated_at": datetime.now(timezone.utc).isoformat(),
-            "date": datetime.now(timezone.utc).strftime("%Y-%m-%d"),
+            "generated_at": generated_at,
+            "date": today_str,
             "total_matches": len(matches),
             "source": "messisporat.com",
         },
         "matches": matches,
     }
+    with open(TODAY_FILE, "w", encoding="utf-8") as f:
+        json.dump(today_data, f, ensure_ascii=False, indent=2)
+    print(f"[OK] Today file updated: {TODAY_FILE} ({len(matches)} matches)")
 
-    with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
-        json.dump(output, f, ensure_ascii=False, indent=2)
+    # 2. حفظ نسخة في مجلد daily (تُستبدل كل مرة أيضاً)
+    daily_file = DAILY_DIR / f"{today_str}.json"
+    with open(daily_file, "w", encoding="utf-8") as f:
+        json.dump(today_data, f, ensure_ascii=False, indent=2)
+    print(f"[OK] Daily archive updated: {daily_file}")
 
-    print(f"[OK] Saved {len(matches)} matches to {OUTPUT_FILE}")
-    return output
+    # 3. تحديث الفهرس (index.json) بكل الأيام المتاحة
+    update_index()
+
+    return today_data
+
+
+def update_index():
+    """يبني فهرساً بكل الأيام الموجودة في مجلد daily"""
+    days = []
+    for f in sorted(DAILY_DIR.glob("*.json"), reverse=True):
+        date_str = f.stem  # اسم الملف بدون .json = التاريخ
+        try:
+            with open(f, "r", encoding="utf-8") as fh:
+                content = json.load(fh)
+            days.append({
+                "date": date_str,
+                "total_matches": content.get("meta", {}).get("total_matches", 0),
+                "generated_at": content.get("meta", {}).get("generated_at"),
+                "url": f"https://raw.githubusercontent.com/MaxTV0/Mody-API/main/data/daily/{date_str}.json",
+            })
+        except Exception as e:
+            print(f"[WARN] Skipped {f}: {e}")
+            continue
+
+    index_data = {
+        "meta": {
+            "updated_at": datetime.now(timezone.utc).isoformat(),
+            "total_days": len(days),
+            "oldest_date": days[-1]["date"] if days else None,
+            "newest_date": days[0]["date"] if days else None,
+        },
+        "days": days,
+    }
+
+    with open(INDEX_FILE, "w", encoding="utf-8") as f:
+        json.dump(index_data, f, ensure_ascii=False, indent=2)
+    print(f"[OK] Index updated: {INDEX_FILE} ({len(days)} days)")
 
 
 if __name__ == "__main__":
