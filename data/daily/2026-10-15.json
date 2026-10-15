@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-15T18:47:41.320879+00:00",
+    "generated_at": "2026-10-15T18:49:27.038500+00:00",
     "date": "2026-10-15",
     "total_matches": 91,
     "total_competitions": 17,
@@ -564,7 +564,7 @@
         "start_timestamp": 1792090800000,
         "estimated_end_timestamp": 1792097100000,
         "current_minute": 0,
-        "countdown_seconds": 739
+        "countdown_seconds": 634
       },
       "status": {
         "code": "UPCOMING",
@@ -608,7 +608,7 @@
         "start_timestamp": 1792090800000,
         "estimated_end_timestamp": 1792097100000,
         "current_minute": 0,
-        "countdown_seconds": 739
+        "countdown_seconds": 634
       },
       "status": {
         "code": "UPCOMING",
@@ -652,7 +652,7 @@
         "start_timestamp": 1792090800000,
         "estimated_end_timestamp": 1792097100000,
         "current_minute": 0,
-        "countdown_seconds": 739
+        "countdown_seconds": 634
       },
       "status": {
         "code": "UPCOMING",
@@ -696,7 +696,7 @@
         "start_timestamp": 1792090800000,
         "estimated_end_timestamp": 1792097100000,
         "current_minute": 0,
-        "countdown_seconds": 739
+        "countdown_seconds": 634
       },
       "status": {
         "code": "UPCOMING",
@@ -740,7 +740,7 @@
         "start_timestamp": 1792090800000,
         "estimated_end_timestamp": 1792097100000,
         "current_minute": 0,
-        "countdown_seconds": 739
+        "countdown_seconds": 634
       },
       "status": {
         "code": "UPCOMING",
@@ -784,7 +784,7 @@
         "start_timestamp": 1792090800000,
         "estimated_end_timestamp": 1792097100000,
         "current_minute": 0,
-        "countdown_seconds": 739
+        "countdown_seconds": 634
       },
       "status": {
         "code": "UPCOMING",
@@ -828,7 +828,7 @@
         "start_timestamp": 1792090800000,
         "estimated_end_timestamp": 1792097100000,
         "current_minute": 0,
-        "countdown_seconds": 739
+        "countdown_seconds": 634
       },
       "status": {
         "code": "UPCOMING",
@@ -872,7 +872,7 @@
         "start_timestamp": 1792090800000,
         "estimated_end_timestamp": 1792097100000,
         "current_minute": 0,
-        "countdown_seconds": 739
+        "countdown_seconds": 634
       },
       "status": {
         "code": "UPCOMING",
@@ -916,7 +916,7 @@
         "start_timestamp": 1792090800000,
         "estimated_end_timestamp": 1792097100000,
         "current_minute": 0,
-        "countdown_seconds": 739
+        "countdown_seconds": 634
       },
       "status": {
         "code": "UPCOMING",
@@ -960,7 +960,7 @@
         "start_timestamp": 1792090800000,
         "estimated_end_timestamp": 1792097100000,
         "current_minute": 0,
-        "countdown_seconds": 739
+        "countdown_seconds": 634
       },
       "status": {
         "code": "UPCOMING",
@@ -1399,14 +1399,14 @@
         "start": "2026-10-15T19:45:00+03:00",
         "start_timestamp": 1792082700000,
         "estimated_end_timestamp": 1792089000000,
-        "current_minute": 90,
+        "current_minute": 92,
         "countdown_seconds": null
       },
       "status": {
         "code": "LIVE",
         "text_ar": "الشوط الثاني",
         "phase": "second_half",
-        "progress_percentage": 100
+        "progress_percentage": 102.22222222222223
       },
       "penalty": {
         "home": 0,
@@ -1444,7 +1444,7 @@
         "start_timestamp": 1792090800000,
         "estimated_end_timestamp": 1792097100000,
         "current_minute": 0,
-        "countdown_seconds": 739
+        "countdown_seconds": 634
       },
       "status": {
         "code": "UPCOMING",
@@ -1488,7 +1488,7 @@
         "start_timestamp": 1792090800000,
         "estimated_end_timestamp": 1792097100000,
         "current_minute": 0,
-        "countdown_seconds": 739
+        "countdown_seconds": 634
       },
       "status": {
         "code": "UPCOMING",
@@ -1532,7 +1532,7 @@
         "start_timestamp": 1792090800000,
         "estimated_end_timestamp": 1792097100000,
         "current_minute": 0,
-        "countdown_seconds": 739
+        "countdown_seconds": 634
       },
       "status": {
         "code": "UPCOMING",
@@ -1576,7 +1576,7 @@
         "start_timestamp": 1792090800000,
         "estimated_end_timestamp": 1792097100000,
         "current_minute": 0,
-        "countdown_seconds": 739
+        "countdown_seconds": 634
       },
       "status": {
         "code": "UPCOMING",
@@ -1620,7 +1620,7 @@
         "start_timestamp": 1792090800000,
         "estimated_end_timestamp": 1792097100000,
         "current_minute": 0,
-        "countdown_seconds": 739
+        "countdown_seconds": 634
       },
       "status": {
         "code": "UPCOMING",
@@ -1664,7 +1664,7 @@
         "start_timestamp": 1792090800000,
         "estimated_end_timestamp": 1792097100000,
         "current_minute": 0,
-        "countdown_seconds": 739
+        "countdown_seconds": 634
       },
       "status": {
         "code": "UPCOMING",
@@ -1708,7 +1708,7 @@
         "start_timestamp": 1792090800000,
         "estimated_end_timestamp": 1792097100000,
         "current_minute": 0,
-        "countdown_seconds": 739
+        "countdown_seconds": 634
       },
       "status": {
         "code": "UPCOMING",
@@ -1752,7 +1752,7 @@
         "start_timestamp": 1792090800000,
         "estimated_end_timestamp": 1792097100000,
         "current_minute": 0,
-        "countdown_seconds": 739
+        "countdown_seconds": 634
       },
       "status": {
         "code": "UPCOMING",
