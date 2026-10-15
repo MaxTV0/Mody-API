@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-15T19:07:11.237705+00:00",
+    "generated_at": "2026-10-15T19:10:39.748591+00:00",
     "date": "2026-10-15",
     "total_matches": 91,
     "total_competitions": 17,
@@ -563,14 +563,14 @@
         "start": "2026-10-15T22:00:00+03:00",
         "start_timestamp": 1792090800000,
         "estimated_end_timestamp": 1792093500000,
-        "current_minute": 5,
+        "current_minute": 9,
         "countdown_seconds": null
       },
       "status": {
         "code": "LIVE",
         "text_ar": "الشوط الأول",
         "phase": "first_half",
-        "progress_percentage": 5.555555555555555
+        "progress_percentage": 10
       },
       "penalty": {
         "home": 0,
@@ -607,14 +607,14 @@
         "start": "2026-10-15T22:00:00+03:00",
         "start_timestamp": 1792090800000,
         "estimated_end_timestamp": 1792093500000,
-        "current_minute": 7,
+        "current_minute": 10,
         "countdown_seconds": null
       },
       "status": {
         "code": "LIVE",
         "text_ar": "الشوط الأول",
         "phase": "first_half",
-        "progress_percentage": 7.777777777777778
+        "progress_percentage": 11.11111111111111
       },
       "penalty": {
         "home": 0,
@@ -651,14 +651,14 @@
         "start": "2026-10-15T22:00:00+03:00",
         "start_timestamp": 1792090800000,
         "estimated_end_timestamp": 1792093500000,
-        "current_minute": 6,
+        "current_minute": 9,
         "countdown_seconds": null
       },
       "status": {
         "code": "LIVE",
         "text_ar": "الشوط الأول",
         "phase": "first_half",
-        "progress_percentage": 6.666666666666667
+        "progress_percentage": 10
       },
       "penalty": {
         "home": 0,
@@ -695,14 +695,14 @@
         "start": "2026-10-15T22:00:00+03:00",
         "start_timestamp": 1792090800000,
         "estimated_end_timestamp": 1792093500000,
-        "current_minute": 7,
+        "current_minute": 10,
         "countdown_seconds": null
       },
       "status": {
         "code": "LIVE",
         "text_ar": "الشوط الأول",
         "phase": "first_half",
-        "progress_percentage": 7.777777777777778
+        "progress_percentage": 11.11111111111111
       },
       "penalty": {
         "home": 0,
@@ -739,14 +739,14 @@
         "start": "2026-10-15T22:00:00+03:00",
         "start_timestamp": 1792090800000,
         "estimated_end_timestamp": 1792093500000,
-        "current_minute": 7,
+        "current_minute": 10,
         "countdown_seconds": null
       },
       "status": {
         "code": "LIVE",
         "text_ar": "الشوط الأول",
         "phase": "first_half",
-        "progress_percentage": 7.777777777777778
+        "progress_percentage": 11.11111111111111
       },
       "penalty": {
         "home": 0,
@@ -776,21 +776,21 @@
         "name": "أوفي كريت",
         "url_name": "ofi-crete",
         "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/1032",
-        "score": 0,
+        "score": 1,
         "is_winner": false
       },
       "time": {
         "start": "2026-10-15T22:00:00+03:00",
         "start_timestamp": 1792090800000,
         "estimated_end_timestamp": 1792093500000,
-        "current_minute": 7,
+        "current_minute": 11,
         "countdown_seconds": null
       },
       "status": {
         "code": "LIVE",
         "text_ar": "الشوط الأول",
         "phase": "first_half",
-        "progress_percentage": 7.777777777777778
+        "progress_percentage": 12.222222222222221
       },
       "penalty": {
         "home": 0,
@@ -827,14 +827,14 @@
         "start": "2026-10-15T22:00:00+03:00",
         "start_timestamp": 1792090800000,
         "estimated_end_timestamp": 1792093500000,
-        "current_minute": 7,
+        "current_minute": 10,
         "countdown_seconds": null
       },
       "status": {
         "code": "LIVE",
         "text_ar": "الشوط الأول",
         "phase": "first_half",
-        "progress_percentage": 7.777777777777778
+        "progress_percentage": 11.11111111111111
       },
       "penalty": {
         "home": 0,
@@ -871,14 +871,14 @@
         "start": "2026-10-15T22:00:00+03:00",
         "start_timestamp": 1792090800000,
         "estimated_end_timestamp": 1792093500000,
-        "current_minute": 7,
+        "current_minute": 11,
         "countdown_seconds": null
       },
       "status": {
         "code": "LIVE",
         "text_ar": "الشوط الأول",
         "phase": "first_half",
-        "progress_percentage": 7.777777777777778
+        "progress_percentage": 12.222222222222221
       },
       "penalty": {
         "home": 0,
@@ -915,14 +915,14 @@
         "start": "2026-10-15T22:00:00+03:00",
         "start_timestamp": 1792090800000,
         "estimated_end_timestamp": 1792093500000,
-        "current_minute": 7,
+        "current_minute": 11,
         "countdown_seconds": null
       },
       "status": {
         "code": "LIVE",
         "text_ar": "الشوط الأول",
         "phase": "first_half",
-        "progress_percentage": 7.777777777777778
+        "progress_percentage": 12.222222222222221
       },
       "penalty": {
         "home": 0,
@@ -959,14 +959,14 @@
         "start": "2026-10-15T22:00:00+03:00",
         "start_timestamp": 1792090800000,
         "estimated_end_timestamp": 1792093500000,
-        "current_minute": 7,
+        "current_minute": 10,
         "countdown_seconds": null
       },
       "status": {
         "code": "LIVE",
         "text_ar": "الشوط الأول",
         "phase": "first_half",
-        "progress_percentage": 7.777777777777778
+        "progress_percentage": 11.11111111111111
       },
       "penalty": {
         "home": 0,
@@ -1443,14 +1443,14 @@
         "start": "2026-10-15T22:00:00+03:00",
         "start_timestamp": 1792090800000,
         "estimated_end_timestamp": 1792093500000,
-        "current_minute": 7,
+        "current_minute": 10,
         "countdown_seconds": null
       },
       "status": {
         "code": "LIVE",
         "text_ar": "الشوط الأول",
         "phase": "first_half",
-        "progress_percentage": 7.777777777777778
+        "progress_percentage": 11.11111111111111
       },
       "penalty": {
         "home": 0,
@@ -1487,14 +1487,14 @@
         "start": "2026-10-15T22:00:00+03:00",
         "start_timestamp": 1792090800000,
         "estimated_end_timestamp": 1792093500000,
-        "current_minute": 7,
+        "current_minute": 11,
         "countdown_seconds": null
       },
       "status": {
         "code": "LIVE",
         "text_ar": "الشوط الأول",
         "phase": "first_half",
-        "progress_percentage": 7.777777777777778
+        "progress_percentage": 12.222222222222221
       },
       "penalty": {
         "home": 0,
@@ -1517,7 +1517,7 @@
         "name": "سينت ترويدن",
         "url_name": "stvv",
         "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/1185",
-        "score": 1,
+        "score": 0,
         "is_winner": false
       },
       "away_team": {
@@ -1531,14 +1531,14 @@
         "start": "2026-10-15T22:00:00+03:00",
         "start_timestamp": 1792090800000,
         "estimated_end_timestamp": 1792093500000,
-        "current_minute": 7,
+        "current_minute": 11,
         "countdown_seconds": null
       },
       "status": {
         "code": "LIVE",
         "text_ar": "الشوط الأول",
         "phase": "first_half",
-        "progress_percentage": 7.777777777777778
+        "progress_percentage": 12.222222222222221
       },
       "penalty": {
         "home": 0,
@@ -1575,14 +1575,14 @@
         "start": "2026-10-15T22:00:00+03:00",
         "start_timestamp": 1792090800000,
         "estimated_end_timestamp": 1792093500000,
-        "current_minute": 7,
+        "current_minute": 11,
         "countdown_seconds": null
       },
       "status": {
         "code": "LIVE",
         "text_ar": "الشوط الأول",
         "phase": "first_half",
-        "progress_percentage": 7.777777777777778
+        "progress_percentage": 12.222222222222221
       },
       "penalty": {
         "home": 0,
@@ -1619,14 +1619,14 @@
         "start": "2026-10-15T22:00:00+03:00",
         "start_timestamp": 1792090800000,
         "estimated_end_timestamp": 1792093500000,
-        "current_minute": 7,
+        "current_minute": 11,
         "countdown_seconds": null
       },
       "status": {
         "code": "LIVE",
         "text_ar": "الشوط الأول",
         "phase": "first_half",
-        "progress_percentage": 7.777777777777778
+        "progress_percentage": 12.222222222222221
       },
       "penalty": {
         "home": 0,
@@ -1663,14 +1663,14 @@
         "start": "2026-10-15T22:00:00+03:00",
         "start_timestamp": 1792090800000,
         "estimated_end_timestamp": 1792093500000,
-        "current_minute": 7,
+        "current_minute": 10,
         "countdown_seconds": null
       },
       "status": {
         "code": "LIVE",
         "text_ar": "الشوط الأول",
         "phase": "first_half",
-        "progress_percentage": 7.777777777777778
+        "progress_percentage": 11.11111111111111
       },
       "penalty": {
         "home": 0,
@@ -1707,14 +1707,14 @@
         "start": "2026-10-15T22:00:00+03:00",
         "start_timestamp": 1792090800000,
         "estimated_end_timestamp": 1792093500000,
-        "current_minute": 4,
+        "current_minute": 8,
         "countdown_seconds": null
       },
       "status": {
         "code": "LIVE",
         "text_ar": "الشوط الأول",
         "phase": "first_half",
-        "progress_percentage": 4.444444444444445
+        "progress_percentage": 8.88888888888889
       },
       "penalty": {
         "home": 0,
@@ -1751,14 +1751,14 @@
         "start": "2026-10-15T22:00:00+03:00",
         "start_timestamp": 1792090800000,
         "estimated_end_timestamp": 1792093500000,
-        "current_minute": 6,
+        "current_minute": 10,
         "countdown_seconds": null
       },
       "status": {
         "code": "LIVE",
         "text_ar": "الشوط الأول",
         "phase": "first_half",
-        "progress_percentage": 6.666666666666667
+        "progress_percentage": 11.11111111111111
       },
       "penalty": {
         "home": 0,
