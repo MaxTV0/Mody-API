@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-15T18:49:27.038500+00:00",
+    "generated_at": "2026-10-15T19:07:11.237705+00:00",
     "date": "2026-10-15",
     "total_matches": 91,
     "total_competitions": 17,
@@ -562,15 +562,15 @@
       "time": {
         "start": "2026-10-15T22:00:00+03:00",
         "start_timestamp": 1792090800000,
-        "estimated_end_timestamp": 1792097100000,
-        "current_minute": 0,
-        "countdown_seconds": 634
+        "estimated_end_timestamp": 1792093500000,
+        "current_minute": 5,
+        "countdown_seconds": null
       },
       "status": {
-        "code": "UPCOMING",
-        "text_ar": "10:00 م",
-        "phase": "pre_match",
-        "progress_percentage": 0
+        "code": "LIVE",
+        "text_ar": "الشوط الأول",
+        "phase": "first_half",
+        "progress_percentage": 5.555555555555555
       },
       "penalty": {
         "home": 0,
@@ -606,15 +606,15 @@
       "time": {
         "start": "2026-10-15T22:00:00+03:00",
         "start_timestamp": 1792090800000,
-        "estimated_end_timestamp": 1792097100000,
-        "current_minute": 0,
-        "countdown_seconds": 634
+        "estimated_end_timestamp": 1792093500000,
+        "current_minute": 7,
+        "countdown_seconds": null
       },
       "status": {
-        "code": "UPCOMING",
-        "text_ar": "10:00 م",
-        "phase": "pre_match",
-        "progress_percentage": 0
+        "code": "LIVE",
+        "text_ar": "الشوط الأول",
+        "phase": "first_half",
+        "progress_percentage": 7.777777777777778
       },
       "penalty": {
         "home": 0,
@@ -650,15 +650,15 @@
       "time": {
         "start": "2026-10-15T22:00:00+03:00",
         "start_timestamp": 1792090800000,
-        "estimated_end_timestamp": 1792097100000,
-        "current_minute": 0,
-        "countdown_seconds": 634
+        "estimated_end_timestamp": 1792093500000,
+        "current_minute": 6,
+        "countdown_seconds": null
       },
       "status": {
-        "code": "UPCOMING",
-        "text_ar": "10:00 م",
-        "phase": "pre_match",
-        "progress_percentage": 0
+        "code": "LIVE",
+        "text_ar": "الشوط الأول",
+        "phase": "first_half",
+        "progress_percentage": 6.666666666666667
       },
       "penalty": {
         "home": 0,
@@ -694,15 +694,15 @@
       "time": {
         "start": "2026-10-15T22:00:00+03:00",
         "start_timestamp": 1792090800000,
-        "estimated_end_timestamp": 1792097100000,
-        "current_minute": 0,
-        "countdown_seconds": 634
+        "estimated_end_timestamp": 1792093500000,
+        "current_minute": 7,
+        "countdown_seconds": null
       },
       "status": {
-        "code": "UPCOMING",
-        "text_ar": "10:00 م",
-        "phase": "pre_match",
-        "progress_percentage": 0
+        "code": "LIVE",
+        "text_ar": "الشوط الأول",
+        "phase": "first_half",
+        "progress_percentage": 7.777777777777778
       },
       "penalty": {
         "home": 0,
@@ -738,15 +738,15 @@
       "time": {
         "start": "2026-10-15T22:00:00+03:00",
         "start_timestamp": 1792090800000,
-        "estimated_end_timestamp": 1792097100000,
-        "current_minute": 0,
-        "countdown_seconds": 634
+        "estimated_end_timestamp": 1792093500000,
+        "current_minute": 7,
+        "countdown_seconds": null
       },
       "status": {
-        "code": "UPCOMING",
-        "text_ar": "10:00 م",
-        "phase": "pre_match",
-        "progress_percentage": 0
+        "code": "LIVE",
+        "text_ar": "الشوط الأول",
+        "phase": "first_half",
+        "progress_percentage": 7.777777777777778
       },
       "penalty": {
         "home": 0,
@@ -782,15 +782,15 @@
       "time": {
         "start": "2026-10-15T22:00:00+03:00",
         "start_timestamp": 1792090800000,
-        "estimated_end_timestamp": 1792097100000,
-        "current_minute": 0,
-        "countdown_seconds": 634
+        "estimated_end_timestamp": 1792093500000,
+        "current_minute": 7,
+        "countdown_seconds": null
       },
       "status": {
-        "code": "UPCOMING",
-        "text_ar": "10:00 م",
-        "phase": "pre_match",
-        "progress_percentage": 0
+        "code": "LIVE",
+        "text_ar": "الشوط الأول",
+        "phase": "first_half",
+        "progress_percentage": 7.777777777777778
       },
       "penalty": {
         "home": 0,
@@ -813,7 +813,7 @@
         "name": "بنفيكا",
         "url_name": "benfica",
         "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/888",
-        "score": 0,
+        "score": 1,
         "is_winner": false
       },
       "away_team": {
@@ -826,15 +826,15 @@
       "time": {
         "start": "2026-10-15T22:00:00+03:00",
         "start_timestamp": 1792090800000,
-        "estimated_end_timestamp": 1792097100000,
-        "current_minute": 0,
-        "countdown_seconds": 634
+        "estimated_end_timestamp": 1792093500000,
+        "current_minute": 7,
+        "countdown_seconds": null
       },
       "status": {
-        "code": "UPCOMING",
-        "text_ar": "10:00 م",
-        "phase": "pre_match",
-        "progress_percentage": 0
+        "code": "LIVE",
+        "text_ar": "الشوط الأول",
+        "phase": "first_half",
+        "progress_percentage": 7.777777777777778
       },
       "penalty": {
         "home": 0,
@@ -870,15 +870,15 @@
       "time": {
         "start": "2026-10-15T22:00:00+03:00",
         "start_timestamp": 1792090800000,
-        "estimated_end_timestamp": 1792097100000,
-        "current_minute": 0,
-        "countdown_seconds": 634
+        "estimated_end_timestamp": 1792093500000,
+        "current_minute": 7,
+        "countdown_seconds": null
       },
       "status": {
-        "code": "UPCOMING",
-        "text_ar": "10:00 م",
-        "phase": "pre_match",
-        "progress_percentage": 0
+        "code": "LIVE",
+        "text_ar": "الشوط الأول",
+        "phase": "first_half",
+        "progress_percentage": 7.777777777777778
       },
       "penalty": {
         "home": 0,
@@ -914,15 +914,15 @@
       "time": {
         "start": "2026-10-15T22:00:00+03:00",
         "start_timestamp": 1792090800000,
-        "estimated_end_timestamp": 1792097100000,
-        "current_minute": 0,
-        "countdown_seconds": 634
+        "estimated_end_timestamp": 1792093500000,
+        "current_minute": 7,
+        "countdown_seconds": null
       },
       "status": {
-        "code": "UPCOMING",
-        "text_ar": "10:00 م",
-        "phase": "pre_match",
-        "progress_percentage": 0
+        "code": "LIVE",
+        "text_ar": "الشوط الأول",
+        "phase": "first_half",
+        "progress_percentage": 7.777777777777778
       },
       "penalty": {
         "home": 0,
@@ -958,15 +958,15 @@
       "time": {
         "start": "2026-10-15T22:00:00+03:00",
         "start_timestamp": 1792090800000,
-        "estimated_end_timestamp": 1792097100000,
-        "current_minute": 0,
-        "countdown_seconds": 634
+        "estimated_end_timestamp": 1792093500000,
+        "current_minute": 7,
+        "countdown_seconds": null
       },
       "status": {
-        "code": "UPCOMING",
-        "text_ar": "10:00 م",
-        "phase": "pre_match",
-        "progress_percentage": 0
+        "code": "LIVE",
+        "text_ar": "الشوط الأول",
+        "phase": "first_half",
+        "progress_percentage": 7.777777777777778
       },
       "penalty": {
         "home": 0,
@@ -1329,6 +1329,50 @@
       "has_lineups": true
     },
     {
+      "match_id": 4828940,
+      "competition": {
+        "id": 7685,
+        "name": "دوري المؤتمر الأوروبي",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/league-logo/7685",
+        "url_name": "uefa-conference-league",
+        "has_standings": true
+      },
+      "home_team": {
+        "name": "هايدوك سبليت",
+        "url_name": "hnk-hajduk-split",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/2249",
+        "score": 2,
+        "is_winner": true
+      },
+      "away_team": {
+        "name": "أياكس",
+        "url_name": "ajax",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/690",
+        "score": 1,
+        "is_winner": false
+      },
+      "time": {
+        "start": "2026-10-15T19:45:00+03:00",
+        "start_timestamp": 1792082700000,
+        "estimated_end_timestamp": 1792089000000,
+        "current_minute": 90,
+        "countdown_seconds": null
+      },
+      "status": {
+        "code": "FINISHED",
+        "text_ar": "انتهت",
+        "phase": "full_time",
+        "progress_percentage": 100
+      },
+      "penalty": {
+        "home": 0,
+        "away": 0,
+        "home_map": [],
+        "away_map": []
+      },
+      "has_lineups": true
+    },
+    {
       "match_id": 4828941,
       "competition": {
         "id": 7685,
@@ -1373,50 +1417,6 @@
       "has_lineups": true
     },
     {
-      "match_id": 4828940,
-      "competition": {
-        "id": 7685,
-        "name": "دوري المؤتمر الأوروبي",
-        "logo": "https://phantom-pro-theme.malik-web.net/assets/league-logo/7685",
-        "url_name": "uefa-conference-league",
-        "has_standings": true
-      },
-      "home_team": {
-        "name": "هايدوك سبليت",
-        "url_name": "hnk-hajduk-split",
-        "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/2249",
-        "score": 2,
-        "is_winner": false
-      },
-      "away_team": {
-        "name": "أياكس",
-        "url_name": "ajax",
-        "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/690",
-        "score": 1,
-        "is_winner": false
-      },
-      "time": {
-        "start": "2026-10-15T19:45:00+03:00",
-        "start_timestamp": 1792082700000,
-        "estimated_end_timestamp": 1792089000000,
-        "current_minute": 92,
-        "countdown_seconds": null
-      },
-      "status": {
-        "code": "LIVE",
-        "text_ar": "الشوط الثاني",
-        "phase": "second_half",
-        "progress_percentage": 102.22222222222223
-      },
-      "penalty": {
-        "home": 0,
-        "away": 0,
-        "home_map": [],
-        "away_map": []
-      },
-      "has_lineups": true
-    },
-    {
       "match_id": 4828924,
       "competition": {
         "id": 7685,
@@ -1442,15 +1442,15 @@
       "time": {
         "start": "2026-10-15T22:00:00+03:00",
         "start_timestamp": 1792090800000,
-        "estimated_end_timestamp": 1792097100000,
-        "current_minute": 0,
-        "countdown_seconds": 634
+        "estimated_end_timestamp": 1792093500000,
+        "current_minute": 7,
+        "countdown_seconds": null
       },
       "status": {
-        "code": "UPCOMING",
-        "text_ar": "10:00 م",
-        "phase": "pre_match",
-        "progress_percentage": 0
+        "code": "LIVE",
+        "text_ar": "الشوط الأول",
+        "phase": "first_half",
+        "progress_percentage": 7.777777777777778
       },
       "penalty": {
         "home": 0,
@@ -1486,15 +1486,15 @@
       "time": {
         "start": "2026-10-15T22:00:00+03:00",
         "start_timestamp": 1792090800000,
-        "estimated_end_timestamp": 1792097100000,
-        "current_minute": 0,
-        "countdown_seconds": 634
+        "estimated_end_timestamp": 1792093500000,
+        "current_minute": 7,
+        "countdown_seconds": null
       },
       "status": {
-        "code": "UPCOMING",
-        "text_ar": "10:00 م",
-        "phase": "pre_match",
-        "progress_percentage": 0
+        "code": "LIVE",
+        "text_ar": "الشوط الأول",
+        "phase": "first_half",
+        "progress_percentage": 7.777777777777778
       },
       "penalty": {
         "home": 0,
@@ -1517,7 +1517,7 @@
         "name": "سينت ترويدن",
         "url_name": "stvv",
         "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/1185",
-        "score": 0,
+        "score": 1,
         "is_winner": false
       },
       "away_team": {
@@ -1530,15 +1530,15 @@
       "time": {
         "start": "2026-10-15T22:00:00+03:00",
         "start_timestamp": 1792090800000,
-        "estimated_end_timestamp": 1792097100000,
-        "current_minute": 0,
-        "countdown_seconds": 634
+        "estimated_end_timestamp": 1792093500000,
+        "current_minute": 7,
+        "countdown_seconds": null
       },
       "status": {
-        "code": "UPCOMING",
-        "text_ar": "10:00 م",
-        "phase": "pre_match",
-        "progress_percentage": 0
+        "code": "LIVE",
+        "text_ar": "الشوط الأول",
+        "phase": "first_half",
+        "progress_percentage": 7.777777777777778
       },
       "penalty": {
         "home": 0,
@@ -1574,15 +1574,15 @@
       "time": {
         "start": "2026-10-15T22:00:00+03:00",
         "start_timestamp": 1792090800000,
-        "estimated_end_timestamp": 1792097100000,
-        "current_minute": 0,
-        "countdown_seconds": 634
+        "estimated_end_timestamp": 1792093500000,
+        "current_minute": 7,
+        "countdown_seconds": null
       },
       "status": {
-        "code": "UPCOMING",
-        "text_ar": "10:00 م",
-        "phase": "pre_match",
-        "progress_percentage": 0
+        "code": "LIVE",
+        "text_ar": "الشوط الأول",
+        "phase": "first_half",
+        "progress_percentage": 7.777777777777778
       },
       "penalty": {
         "home": 0,
@@ -1618,15 +1618,15 @@
       "time": {
         "start": "2026-10-15T22:00:00+03:00",
         "start_timestamp": 1792090800000,
-        "estimated_end_timestamp": 1792097100000,
-        "current_minute": 0,
-        "countdown_seconds": 634
+        "estimated_end_timestamp": 1792093500000,
+        "current_minute": 7,
+        "countdown_seconds": null
       },
       "status": {
-        "code": "UPCOMING",
-        "text_ar": "10:00 م",
-        "phase": "pre_match",
-        "progress_percentage": 0
+        "code": "LIVE",
+        "text_ar": "الشوط الأول",
+        "phase": "first_half",
+        "progress_percentage": 7.777777777777778
       },
       "penalty": {
         "home": 0,
@@ -1662,15 +1662,15 @@
       "time": {
         "start": "2026-10-15T22:00:00+03:00",
         "start_timestamp": 1792090800000,
-        "estimated_end_timestamp": 1792097100000,
-        "current_minute": 0,
-        "countdown_seconds": 634
+        "estimated_end_timestamp": 1792093500000,
+        "current_minute": 7,
+        "countdown_seconds": null
       },
       "status": {
-        "code": "UPCOMING",
-        "text_ar": "10:00 م",
-        "phase": "pre_match",
-        "progress_percentage": 0
+        "code": "LIVE",
+        "text_ar": "الشوط الأول",
+        "phase": "first_half",
+        "progress_percentage": 7.777777777777778
       },
       "penalty": {
         "home": 0,
@@ -1706,15 +1706,15 @@
       "time": {
         "start": "2026-10-15T22:00:00+03:00",
         "start_timestamp": 1792090800000,
-        "estimated_end_timestamp": 1792097100000,
-        "current_minute": 0,
-        "countdown_seconds": 634
+        "estimated_end_timestamp": 1792093500000,
+        "current_minute": 4,
+        "countdown_seconds": null
       },
       "status": {
-        "code": "UPCOMING",
-        "text_ar": "10:00 م",
-        "phase": "pre_match",
-        "progress_percentage": 0
+        "code": "LIVE",
+        "text_ar": "الشوط الأول",
+        "phase": "first_half",
+        "progress_percentage": 4.444444444444445
       },
       "penalty": {
         "home": 0,
@@ -1737,7 +1737,7 @@
         "name": "أتالانتا",
         "url_name": "atalanta",
         "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/232",
-        "score": 0,
+        "score": 1,
         "is_winner": false
       },
       "away_team": {
@@ -1750,15 +1750,15 @@
       "time": {
         "start": "2026-10-15T22:00:00+03:00",
         "start_timestamp": 1792090800000,
-        "estimated_end_timestamp": 1792097100000,
-        "current_minute": 0,
-        "countdown_seconds": 634
+        "estimated_end_timestamp": 1792093500000,
+        "current_minute": 6,
+        "countdown_seconds": null
       },
       "status": {
-        "code": "UPCOMING",
-        "text_ar": "10:00 م",
-        "phase": "pre_match",
-        "progress_percentage": 0
+        "code": "LIVE",
+        "text_ar": "الشوط الأول",
+        "phase": "first_half",
+        "progress_percentage": 6.666666666666667
       },
       "penalty": {
         "home": 0,

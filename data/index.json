@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-10-15T18:49:27.048212+00:00",
+    "updated_at": "2026-10-15T19:07:11.247285+00:00",
     "total_days": 1,
     "oldest_date": "2026-10-15",
     "newest_date": "2026-10-15"
@@ -10,7 +10,7 @@
       "date": "2026-10-15",
       "total_matches": 91,
       "total_competitions": 17,
-      "generated_at": "2026-10-15T18:49:27.038500+00:00",
+      "generated_at": "2026-10-15T19:07:11.237705+00:00",
       "url": "https://raw.githubusercontent.com/MaxTV0/Mody-API/main/data/daily/2026-10-15.json"
     }
   ]
