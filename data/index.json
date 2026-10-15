@@ -1,16 +1,23 @@
 {
   "meta": {
-    "updated_at": "2026-10-15T19:10:39.755898+00:00",
-    "total_days": 1,
+    "updated_at": "2026-10-16T09:24:34.126144+00:00",
+    "total_days": 2,
     "oldest_date": "2026-10-15",
-    "newest_date": "2026-10-15"
+    "newest_date": "2026-10-16"
   },
   "days": [
+    {
+      "date": "2026-10-16",
+      "total_matches": 80,
+      "total_competitions": 43,
+      "generated_at": "2026-10-16T09:24:34.116779+00:00",
+      "url": "https://raw.githubusercontent.com/MaxTV0/Mody-API/main/data/daily/2026-10-16.json"
+    },
     {
       "date": "2026-10-15",
       "total_matches": 91,
       "total_competitions": 17,
-      "generated_at": "2026-10-15T19:10:39.748591+00:00",
+      "generated_at": "2026-10-15T22:23:55.545559+00:00",
       "url": "https://raw.githubusercontent.com/MaxTV0/Mody-API/main/data/daily/2026-10-15.json"
     }
   ]

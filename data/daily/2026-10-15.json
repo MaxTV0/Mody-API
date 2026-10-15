@@ -1,10 +1,10 @@
 {
   "meta": {
-    "generated_at": "2026-10-15T19:10:39.748591+00:00",
+    "generated_at": "2026-10-15T22:23:55.545559+00:00",
     "date": "2026-10-15",
     "total_matches": 91,
     "total_competitions": 17,
-    "has_live_matches": true,
+    "has_live_matches": false,
     "source": "phantom-pro-theme.malik-web.net"
   },
   "matches": [
@@ -549,8 +549,8 @@
         "name": "دينامو زغرب",
         "url_name": "dinamo-zagreb",
         "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/2245",
-        "score": 0,
-        "is_winner": false
+        "score": 1,
+        "is_winner": true
       },
       "away_team": {
         "name": "أندرلخت",
@@ -562,15 +562,15 @@
       "time": {
         "start": "2026-10-15T22:00:00+03:00",
         "start_timestamp": 1792090800000,
-        "estimated_end_timestamp": 1792093500000,
-        "current_minute": 9,
+        "estimated_end_timestamp": 1792097100000,
+        "current_minute": 90,
         "countdown_seconds": null
       },
       "status": {
-        "code": "LIVE",
-        "text_ar": "الشوط الأول",
-        "phase": "first_half",
-        "progress_percentage": 10
+        "code": "FINISHED",
+        "text_ar": "انتهت",
+        "phase": "full_time",
+        "progress_percentage": 100
       },
       "penalty": {
         "home": 0,
@@ -600,21 +600,21 @@
         "name": "أولمبياكوس",
         "url_name": "olympiacos",
         "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/1023",
-        "score": 0,
-        "is_winner": false
+        "score": 1,
+        "is_winner": true
       },
       "time": {
         "start": "2026-10-15T22:00:00+03:00",
         "start_timestamp": 1792090800000,
-        "estimated_end_timestamp": 1792093500000,
-        "current_minute": 10,
+        "estimated_end_timestamp": 1792097100000,
+        "current_minute": 90,
         "countdown_seconds": null
       },
       "status": {
-        "code": "LIVE",
-        "text_ar": "الشوط الأول",
-        "phase": "first_half",
-        "progress_percentage": 11.11111111111111
+        "code": "FINISHED",
+        "text_ar": "انتهت",
+        "phase": "full_time",
+        "progress_percentage": 100
       },
       "penalty": {
         "home": 0,
@@ -637,28 +637,28 @@
         "name": "سيلتا فيجو",
         "url_name": "celta-vigo",
         "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/158",
-        "score": 0,
+        "score": 1,
         "is_winner": false
       },
       "away_team": {
         "name": "يوفنتوس",
         "url_name": "juventus",
         "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/226",
-        "score": 0,
-        "is_winner": false
+        "score": 2,
+        "is_winner": true
       },
       "time": {
         "start": "2026-10-15T22:00:00+03:00",
         "start_timestamp": 1792090800000,
-        "estimated_end_timestamp": 1792093500000,
-        "current_minute": 9,
+        "estimated_end_timestamp": 1792097100000,
+        "current_minute": 90,
         "countdown_seconds": null
       },
       "status": {
-        "code": "LIVE",
-        "text_ar": "الشوط الأول",
-        "phase": "first_half",
-        "progress_percentage": 10
+        "code": "FINISHED",
+        "text_ar": "انتهت",
+        "phase": "full_time",
+        "progress_percentage": 100
       },
       "penalty": {
         "home": 0,
@@ -681,8 +681,8 @@
         "name": "بورنموث",
         "url_name": "bournemouth",
         "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/50",
-        "score": 0,
-        "is_winner": false
+        "score": 3,
+        "is_winner": true
       },
       "away_team": {
         "name": "شتورم غراتس",
@@ -694,15 +694,15 @@
       "time": {
         "start": "2026-10-15T22:00:00+03:00",
         "start_timestamp": 1792090800000,
-        "estimated_end_timestamp": 1792093500000,
-        "current_minute": 10,
+        "estimated_end_timestamp": 1792097100000,
+        "current_minute": 90,
         "countdown_seconds": null
       },
       "status": {
-        "code": "LIVE",
-        "text_ar": "الشوط الأول",
-        "phase": "first_half",
-        "progress_percentage": 11.11111111111111
+        "code": "FINISHED",
+        "text_ar": "انتهت",
+        "phase": "full_time",
+        "progress_percentage": 100
       },
       "penalty": {
         "home": 0,
@@ -725,28 +725,28 @@
         "name": "ياغييلونيا بياويستوك",
         "url_name": "jagiellonia",
         "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/2220",
-        "score": 0,
-        "is_winner": false
+        "score": 3,
+        "is_winner": true
       },
       "away_team": {
         "name": "أرارات أرمينيا",
         "url_name": "fc-ararat-armenia",
         "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/48879",
-        "score": 0,
+        "score": 1,
         "is_winner": false
       },
       "time": {
         "start": "2026-10-15T22:00:00+03:00",
         "start_timestamp": 1792090800000,
-        "estimated_end_timestamp": 1792093500000,
-        "current_minute": 10,
+        "estimated_end_timestamp": 1792097100000,
+        "current_minute": 90,
         "countdown_seconds": null
       },
       "status": {
-        "code": "LIVE",
-        "text_ar": "الشوط الأول",
-        "phase": "first_half",
-        "progress_percentage": 11.11111111111111
+        "code": "FINISHED",
+        "text_ar": "انتهت",
+        "phase": "full_time",
+        "progress_percentage": 100
       },
       "penalty": {
         "home": 0,
@@ -769,8 +769,8 @@
         "name": "ستاد رين",
         "url_name": "rennes",
         "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/477",
-        "score": 0,
-        "is_winner": false
+        "score": 2,
+        "is_winner": true
       },
       "away_team": {
         "name": "أوفي كريت",
@@ -782,15 +782,15 @@
       "time": {
         "start": "2026-10-15T22:00:00+03:00",
         "start_timestamp": 1792090800000,
-        "estimated_end_timestamp": 1792093500000,
-        "current_minute": 11,
+        "estimated_end_timestamp": 1792097100000,
+        "current_minute": 90,
         "countdown_seconds": null
       },
       "status": {
-        "code": "LIVE",
-        "text_ar": "الشوط الأول",
-        "phase": "first_half",
-        "progress_percentage": 12.222222222222221
+        "code": "FINISHED",
+        "text_ar": "انتهت",
+        "phase": "full_time",
+        "progress_percentage": 100
       },
       "penalty": {
         "home": 0,
@@ -813,28 +813,28 @@
         "name": "بنفيكا",
         "url_name": "benfica",
         "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/888",
-        "score": 1,
-        "is_winner": false
+        "score": 4,
+        "is_winner": true
       },
       "away_team": {
         "name": "سيلتيك",
         "url_name": "celtic",
         "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/754",
-        "score": 0,
+        "score": 1,
         "is_winner": false
       },
       "time": {
         "start": "2026-10-15T22:00:00+03:00",
         "start_timestamp": 1792090800000,
-        "estimated_end_timestamp": 1792093500000,
-        "current_minute": 10,
+        "estimated_end_timestamp": 1792097100000,
+        "current_minute": 90,
         "countdown_seconds": null
       },
       "status": {
-        "code": "LIVE",
-        "text_ar": "الشوط الأول",
-        "phase": "first_half",
-        "progress_percentage": 11.11111111111111
+        "code": "FINISHED",
+        "text_ar": "انتهت",
+        "phase": "full_time",
+        "progress_percentage": 100
       },
       "penalty": {
         "home": 0,
@@ -857,28 +857,28 @@
         "name": "هوفنهايم",
         "url_name": "hoffenheim",
         "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/351",
-        "score": 0,
+        "score": 2,
         "is_winner": false
       },
       "away_team": {
         "name": "بشكتاش",
         "url_name": "besiktas",
         "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/947",
-        "score": 0,
-        "is_winner": false
+        "score": 3,
+        "is_winner": true
       },
       "time": {
         "start": "2026-10-15T22:00:00+03:00",
         "start_timestamp": 1792090800000,
-        "estimated_end_timestamp": 1792093500000,
-        "current_minute": 11,
+        "estimated_end_timestamp": 1792097100000,
+        "current_minute": 90,
         "countdown_seconds": null
       },
       "status": {
-        "code": "LIVE",
-        "text_ar": "الشوط الأول",
-        "phase": "first_half",
-        "progress_percentage": 12.222222222222221
+        "code": "FINISHED",
+        "text_ar": "انتهت",
+        "phase": "full_time",
+        "progress_percentage": 100
       },
       "penalty": {
         "home": 0,
@@ -901,28 +901,28 @@
         "name": "فيرينتسفاروشي",
         "url_name": "ferencvaros",
         "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/6020",
-        "score": 0,
-        "is_winner": false
+        "score": 2,
+        "is_winner": true
       },
       "away_team": {
         "name": "فيكتوريا بلزن",
         "url_name": "viktoria-plzen",
         "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/1796",
-        "score": 0,
+        "score": 1,
         "is_winner": false
       },
       "time": {
         "start": "2026-10-15T22:00:00+03:00",
         "start_timestamp": 1792090800000,
-        "estimated_end_timestamp": 1792093500000,
-        "current_minute": 11,
+        "estimated_end_timestamp": 1792097100000,
+        "current_minute": 90,
         "countdown_seconds": null
       },
       "status": {
-        "code": "LIVE",
-        "text_ar": "الشوط الأول",
-        "phase": "first_half",
-        "progress_percentage": 12.222222222222221
+        "code": "FINISHED",
+        "text_ar": "انتهت",
+        "phase": "full_time",
+        "progress_percentage": 100
       },
       "penalty": {
         "home": 0,
@@ -945,28 +945,28 @@
         "name": "نيميخين",
         "url_name": "n.e.c.-nijmegen",
         "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/700",
-        "score": 0,
+        "score": 1,
         "is_winner": false
       },
       "away_team": {
         "name": "ليفسكي صوفيا",
         "url_name": "levski-sofia",
         "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/2277",
-        "score": 0,
+        "score": 1,
         "is_winner": false
       },
       "time": {
         "start": "2026-10-15T22:00:00+03:00",
         "start_timestamp": 1792090800000,
-        "estimated_end_timestamp": 1792093500000,
-        "current_minute": 10,
+        "estimated_end_timestamp": 1792097100000,
+        "current_minute": 90,
         "countdown_seconds": null
       },
       "status": {
-        "code": "LIVE",
-        "text_ar": "الشوط الأول",
-        "phase": "first_half",
-        "progress_percentage": 11.11111111111111
+        "code": "FINISHED",
+        "text_ar": "انتهت",
+        "phase": "full_time",
+        "progress_percentage": 100
       },
       "penalty": {
         "home": 0,
@@ -1429,28 +1429,28 @@
         "name": "بران بيرغن",
         "url_name": "brann",
         "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/1982",
-        "score": 0,
-        "is_winner": false
+        "score": 2,
+        "is_winner": true
       },
       "away_team": {
         "name": "لينكولن ريد امبس",
         "url_name": "lincoln-red-imps",
         "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/16037",
-        "score": 0,
+        "score": 1,
         "is_winner": false
       },
       "time": {
         "start": "2026-10-15T22:00:00+03:00",
         "start_timestamp": 1792090800000,
-        "estimated_end_timestamp": 1792093500000,
-        "current_minute": 10,
+        "estimated_end_timestamp": 1792097100000,
+        "current_minute": 90,
         "countdown_seconds": null
       },
       "status": {
-        "code": "LIVE",
-        "text_ar": "الشوط الأول",
-        "phase": "first_half",
-        "progress_percentage": 11.11111111111111
+        "code": "FINISHED",
+        "text_ar": "انتهت",
+        "phase": "full_time",
+        "progress_percentage": 100
       },
       "penalty": {
         "home": 0,
@@ -1473,28 +1473,28 @@
         "name": "فرايبورج",
         "url_name": "freiburg",
         "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/354",
-        "score": 0,
-        "is_winner": false
+        "score": 3,
+        "is_winner": true
       },
       "away_team": {
         "name": "يابلونك",
         "url_name": "jablonec-97",
         "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/1800",
-        "score": 0,
+        "score": 2,
         "is_winner": false
       },
       "time": {
         "start": "2026-10-15T22:00:00+03:00",
         "start_timestamp": 1792090800000,
-        "estimated_end_timestamp": 1792093500000,
-        "current_minute": 11,
+        "estimated_end_timestamp": 1792097100000,
+        "current_minute": 90,
         "countdown_seconds": null
       },
       "status": {
-        "code": "LIVE",
-        "text_ar": "الشوط الأول",
-        "phase": "first_half",
-        "progress_percentage": 12.222222222222221
+        "code": "FINISHED",
+        "text_ar": "انتهت",
+        "phase": "full_time",
+        "progress_percentage": 100
       },
       "penalty": {
         "home": 0,
@@ -1517,8 +1517,8 @@
         "name": "سينت ترويدن",
         "url_name": "stvv",
         "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/1185",
-        "score": 0,
-        "is_winner": false
+        "score": 2,
+        "is_winner": true
       },
       "away_team": {
         "name": "سابورتالو",
@@ -1530,15 +1530,15 @@
       "time": {
         "start": "2026-10-15T22:00:00+03:00",
         "start_timestamp": 1792090800000,
-        "estimated_end_timestamp": 1792093500000,
-        "current_minute": 11,
+        "estimated_end_timestamp": 1792097100000,
+        "current_minute": 90,
         "countdown_seconds": null
       },
       "status": {
-        "code": "LIVE",
-        "text_ar": "الشوط الأول",
-        "phase": "first_half",
-        "progress_percentage": 12.222222222222221
+        "code": "FINISHED",
+        "text_ar": "انتهت",
+        "phase": "full_time",
+        "progress_percentage": 100
       },
       "penalty": {
         "home": 0,
@@ -1561,28 +1561,28 @@
         "name": "هارت اوف ميدلوثيان",
         "url_name": "hearts",
         "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/759",
-        "score": 0,
+        "score": 1,
         "is_winner": false
       },
       "away_team": {
         "name": "نوردشيللان",
         "url_name": "fc-nordsjælland",
         "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/1827",
-        "score": 0,
+        "score": 1,
         "is_winner": false
       },
       "time": {
         "start": "2026-10-15T22:00:00+03:00",
         "start_timestamp": 1792090800000,
-        "estimated_end_timestamp": 1792093500000,
-        "current_minute": 11,
+        "estimated_end_timestamp": 1792097100000,
+        "current_minute": 90,
         "countdown_seconds": null
       },
       "status": {
-        "code": "LIVE",
-        "text_ar": "الشوط الأول",
-        "phase": "first_half",
-        "progress_percentage": 12.222222222222221
+        "code": "FINISHED",
+        "text_ar": "انتهت",
+        "phase": "full_time",
+        "progress_percentage": 100
       },
       "penalty": {
         "home": 0,
@@ -1605,8 +1605,8 @@
         "name": "تفينتي",
         "url_name": "twente",
         "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/696",
-        "score": 0,
-        "is_winner": false
+        "score": 1,
+        "is_winner": true
       },
       "away_team": {
         "name": "تون",
@@ -1618,15 +1618,15 @@
       "time": {
         "start": "2026-10-15T22:00:00+03:00",
         "start_timestamp": 1792090800000,
-        "estimated_end_timestamp": 1792093500000,
-        "current_minute": 11,
+        "estimated_end_timestamp": 1792097100000,
+        "current_minute": 90,
         "countdown_seconds": null
       },
       "status": {
-        "code": "LIVE",
-        "text_ar": "الشوط الأول",
-        "phase": "first_half",
-        "progress_percentage": 12.222222222222221
+        "code": "FINISHED",
+        "text_ar": "انتهت",
+        "phase": "full_time",
+        "progress_percentage": 100
       },
       "penalty": {
         "home": 0,
@@ -1649,8 +1649,8 @@
         "name": "كوبنهاجن",
         "url_name": "fc-copenhagen",
         "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/1824",
-        "score": 0,
-        "is_winner": false
+        "score": 3,
+        "is_winner": true
       },
       "away_team": {
         "name": "سبورتينج براغا",
@@ -1662,15 +1662,15 @@
       "time": {
         "start": "2026-10-15T22:00:00+03:00",
         "start_timestamp": 1792090800000,
-        "estimated_end_timestamp": 1792093500000,
-        "current_minute": 10,
+        "estimated_end_timestamp": 1792097100000,
+        "current_minute": 90,
         "countdown_seconds": null
       },
       "status": {
-        "code": "LIVE",
-        "text_ar": "الشوط الأول",
-        "phase": "first_half",
-        "progress_percentage": 11.11111111111111
+        "code": "FINISHED",
+        "text_ar": "انتهت",
+        "phase": "full_time",
+        "progress_percentage": 100
       },
       "penalty": {
         "home": 0,
@@ -1693,8 +1693,8 @@
         "name": "برايتون",
         "url_name": "brighton",
         "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/38",
-        "score": 0,
-        "is_winner": false
+        "score": 4,
+        "is_winner": true
       },
       "away_team": {
         "name": "سبيريس كاوناس",
@@ -1706,15 +1706,15 @@
       "time": {
         "start": "2026-10-15T22:00:00+03:00",
         "start_timestamp": 1792090800000,
-        "estimated_end_timestamp": 1792093500000,
-        "current_minute": 8,
+        "estimated_end_timestamp": 1792097100000,
+        "current_minute": 90,
         "countdown_seconds": null
       },
       "status": {
-        "code": "LIVE",
-        "text_ar": "الشوط الأول",
-        "phase": "first_half",
-        "progress_percentage": 8.88888888888889
+        "code": "FINISHED",
+        "text_ar": "انتهت",
+        "phase": "full_time",
+        "progress_percentage": 100
       },
       "penalty": {
         "home": 0,
@@ -1737,28 +1737,28 @@
         "name": "أتالانتا",
         "url_name": "atalanta",
         "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/232",
-        "score": 1,
-        "is_winner": false
+        "score": 3,
+        "is_winner": true
       },
       "away_team": {
         "name": "أيه.أي. بافوس",
         "url_name": "pafos-fc",
         "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/2273",
-        "score": 0,
+        "score": 1,
         "is_winner": false
       },
       "time": {
         "start": "2026-10-15T22:00:00+03:00",
         "start_timestamp": 1792090800000,
-        "estimated_end_timestamp": 1792093500000,
-        "current_minute": 10,
+        "estimated_end_timestamp": 1792097100000,
+        "current_minute": 90,
         "countdown_seconds": null
       },
       "status": {
-        "code": "LIVE",
-        "text_ar": "الشوط الأول",
-        "phase": "first_half",
-        "progress_percentage": 11.11111111111111
+        "code": "FINISHED",
+        "text_ar": "انتهت",
+        "phase": "full_time",
+        "progress_percentage": 100
       },
       "penalty": {
         "home": 0,

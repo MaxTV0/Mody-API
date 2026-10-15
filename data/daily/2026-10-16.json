@@ -1,0 +1,3532 @@
+{
+  "meta": {
+    "generated_at": "2026-10-16T09:24:34.116779+00:00",
+    "date": "2026-10-16",
+    "total_matches": 80,
+    "total_competitions": 43,
+    "has_live_matches": true,
+    "source": "phantom-pro-theme.malik-web.net"
+  },
+  "matches": [
+    {
+      "match_id": 4750828,
+      "competition": {
+        "id": 11,
+        "name": "الدوري الإسباني",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/league-logo/11",
+        "url_name": "laliga",
+        "has_standings": true
+      },
+      "home_team": {
+        "name": "ديبورتيفو لاكورونيا",
+        "url_name": "deportivo-la-coruna",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/148",
+        "score": 0,
+        "is_winner": false
+      },
+      "away_team": {
+        "name": "ليفانتي",
+        "url_name": "levante",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/150",
+        "score": 0,
+        "is_winner": false
+      },
+      "time": {
+        "start": "2026-10-16T22:00:00+03:00",
+        "start_timestamp": 1792177200000,
+        "estimated_end_timestamp": 1792183500000,
+        "current_minute": 0,
+        "countdown_seconds": 34527
+      },
+      "status": {
+        "code": "UPCOMING",
+        "text_ar": "10:00 م",
+        "phase": "pre_match",
+        "progress_percentage": 0
+      },
+      "penalty": {
+        "home": 0,
+        "away": 0,
+        "home_map": [],
+        "away_map": []
+      },
+      "has_lineups": true
+    },
+    {
+      "match_id": 4732678,
+      "competition": {
+        "id": 17,
+        "name": "الدوري الإيطالي",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/league-logo/17",
+        "url_name": "serie-a",
+        "has_standings": true
+      },
+      "home_team": {
+        "name": "فروزينوني",
+        "url_name": "frosinone",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/254",
+        "score": 0,
+        "is_winner": false
+      },
+      "away_team": {
+        "name": "ساسولو",
+        "url_name": "sassuolo",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/266",
+        "score": 0,
+        "is_winner": false
+      },
+      "time": {
+        "start": "2026-10-16T21:45:00+03:00",
+        "start_timestamp": 1792176300000,
+        "estimated_end_timestamp": 1792182600000,
+        "current_minute": 0,
+        "countdown_seconds": 33627
+      },
+      "status": {
+        "code": "UPCOMING",
+        "text_ar": "9:45 م",
+        "phase": "pre_match",
+        "progress_percentage": 0
+      },
+      "penalty": {
+        "home": 0,
+        "away": 0,
+        "home_map": [],
+        "away_map": []
+      },
+      "has_lineups": true
+    },
+    {
+      "match_id": 4755378,
+      "competition": {
+        "id": 25,
+        "name": "الدوري الألماني",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/league-logo/25",
+        "url_name": "bundesliga",
+        "has_standings": true
+      },
+      "home_team": {
+        "name": "آينتراخت فرانكفورت",
+        "url_name": "eintracht-frankfurt",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/337",
+        "score": 0,
+        "is_winner": false
+      },
+      "away_team": {
+        "name": "كولن",
+        "url_name": "1.-fc-koln",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/350",
+        "score": 0,
+        "is_winner": false
+      },
+      "time": {
+        "start": "2026-10-16T21:30:00+03:00",
+        "start_timestamp": 1792175400000,
+        "estimated_end_timestamp": 1792181700000,
+        "current_minute": 0,
+        "countdown_seconds": 32727
+      },
+      "status": {
+        "code": "UPCOMING",
+        "text_ar": "9:30 م",
+        "phase": "pre_match",
+        "progress_percentage": 0
+      },
+      "penalty": {
+        "home": 0,
+        "away": 0,
+        "home_map": [],
+        "away_map": []
+      },
+      "has_lineups": true
+    },
+    {
+      "match_id": 4735242,
+      "competition": {
+        "id": 35,
+        "name": "الدوري الفرنسي",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/league-logo/35",
+        "url_name": "ligue-1",
+        "has_standings": true
+      },
+      "home_team": {
+        "name": "لومان",
+        "url_name": "le-mans",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/468",
+        "score": 0,
+        "is_winner": false
+      },
+      "away_team": {
+        "name": "تولوز",
+        "url_name": "toulouse",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/482",
+        "score": 0,
+        "is_winner": false
+      },
+      "time": {
+        "start": "2026-10-16T21:45:00+03:00",
+        "start_timestamp": 1792176300000,
+        "estimated_end_timestamp": 1792182600000,
+        "current_minute": 0,
+        "countdown_seconds": 33627
+      },
+      "status": {
+        "code": "UPCOMING",
+        "text_ar": "9:45 م",
+        "phase": "pre_match",
+        "progress_percentage": 0
+      },
+      "penalty": {
+        "home": 0,
+        "away": 0,
+        "home_map": [],
+        "away_map": []
+      },
+      "has_lineups": true
+    },
+    {
+      "match_id": 4789459,
+      "competition": {
+        "id": 649,
+        "name": "الدوري السعودي",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/league-logo/649",
+        "url_name": "saudi-league",
+        "has_standings": true
+      },
+      "home_team": {
+        "name": "القادسية",
+        "url_name": "qadisiya",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/8947",
+        "score": 0,
+        "is_winner": false
+      },
+      "away_team": {
+        "name": "أبها",
+        "url_name": "abha-club",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/14898",
+        "score": 0,
+        "is_winner": false
+      },
+      "time": {
+        "start": "2026-10-16T16:15:00+03:00",
+        "start_timestamp": 1792156500000,
+        "estimated_end_timestamp": 1792162800000,
+        "current_minute": 0,
+        "countdown_seconds": 13827
+      },
+      "status": {
+        "code": "UPCOMING",
+        "text_ar": "4:15 م",
+        "phase": "pre_match",
+        "progress_percentage": 0
+      },
+      "penalty": {
+        "home": 0,
+        "away": 0,
+        "home_map": [],
+        "away_map": []
+      },
+      "has_lineups": true
+    },
+    {
+      "match_id": 4789458,
+      "competition": {
+        "id": 649,
+        "name": "الدوري السعودي",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/league-logo/649",
+        "url_name": "saudi-league",
+        "has_standings": true
+      },
+      "home_team": {
+        "name": "الرياض",
+        "url_name": "al-riyadh-sc",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/12135",
+        "score": 0,
+        "is_winner": false
+      },
+      "away_team": {
+        "name": "الهلال",
+        "url_name": "al-hilal-riyadh",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/5457",
+        "score": 0,
+        "is_winner": false
+      },
+      "time": {
+        "start": "2026-10-16T18:00:00+03:00",
+        "start_timestamp": 1792162800000,
+        "estimated_end_timestamp": null,
+        "current_minute": 0,
+        "countdown_seconds": null
+      },
+      "status": {
+        "code": "POSTPONED",
+        "text_ar": "تأجلت",
+        "phase": "postponed",
+        "progress_percentage": 0
+      },
+      "penalty": {
+        "home": 0,
+        "away": 0,
+        "home_map": [],
+        "away_map": []
+      },
+      "has_lineups": true
+    },
+    {
+      "match_id": 4789462,
+      "competition": {
+        "id": 649,
+        "name": "الدوري السعودي",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/league-logo/649",
+        "url_name": "saudi-league",
+        "has_standings": true
+      },
+      "home_team": {
+        "name": "الاتحاد",
+        "url_name": "ittihad-jeddah",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/8593",
+        "score": 0,
+        "is_winner": false
+      },
+      "away_team": {
+        "name": "الشباب",
+        "url_name": "al-shabab-riyadh",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/8945",
+        "score": 0,
+        "is_winner": false
+      },
+      "time": {
+        "start": "2026-10-16T21:00:00+03:00",
+        "start_timestamp": 1792173600000,
+        "estimated_end_timestamp": null,
+        "current_minute": 0,
+        "countdown_seconds": null
+      },
+      "status": {
+        "code": "POSTPONED",
+        "text_ar": "تأجلت",
+        "phase": "postponed",
+        "progress_percentage": 0
+      },
+      "penalty": {
+        "home": 0,
+        "away": 0,
+        "home_map": [],
+        "away_map": []
+      },
+      "has_lineups": true
+    },
+    {
+      "match_id": 4855327,
+      "competition": {
+        "id": 624,
+        "name": "دوري أبطال أفريقيا",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/league-logo/624",
+        "url_name": "caf-champions-league",
+        "has_standings": false
+      },
+      "home_team": {
+        "name": "المريخ بنتو",
+        "url_name": "merriekh-bentiu",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/90292",
+        "score": 0,
+        "is_winner": false
+      },
+      "away_team": {
+        "name": "بيراميدز",
+        "url_name": "pyramids",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/22143",
+        "score": 0,
+        "is_winner": false
+      },
+      "time": {
+        "start": "2026-10-16T16:30:00+03:00",
+        "start_timestamp": 1792157400000,
+        "estimated_end_timestamp": 1792163700000,
+        "current_minute": 0,
+        "countdown_seconds": 14727
+      },
+      "status": {
+        "code": "UPCOMING",
+        "text_ar": "4:30 م",
+        "phase": "pre_match",
+        "progress_percentage": 0
+      },
+      "penalty": {
+        "home": 0,
+        "away": 0,
+        "home_map": [],
+        "away_map": []
+      },
+      "has_lineups": false
+    },
+    {
+      "match_id": 4854764,
+      "competition": {
+        "id": 624,
+        "name": "دوري أبطال أفريقيا",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/league-logo/624",
+        "url_name": "caf-champions-league",
+        "has_standings": false
+      },
+      "home_team": {
+        "name": "الجيش الرواندي",
+        "url_name": "armee-patriotique-rwandaise-fc",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/10462",
+        "score": 0,
+        "is_winner": false
+      },
+      "away_team": {
+        "name": "الزمالك",
+        "url_name": "el-zamalek",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/8201",
+        "score": 0,
+        "is_winner": false
+      },
+      "time": {
+        "start": "2026-10-16T19:00:00+03:00",
+        "start_timestamp": 1792166400000,
+        "estimated_end_timestamp": 1792172700000,
+        "current_minute": 0,
+        "countdown_seconds": 23727
+      },
+      "status": {
+        "code": "UPCOMING",
+        "text_ar": "7:00 م",
+        "phase": "pre_match",
+        "progress_percentage": 0
+      },
+      "penalty": {
+        "home": 0,
+        "away": 0,
+        "home_map": [],
+        "away_map": []
+      },
+      "has_lineups": false
+    },
+    {
+      "match_id": 4854773,
+      "competition": {
+        "id": 627,
+        "name": "الكونفدرالية الافريقية",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/league-logo/627",
+        "url_name": "caf-confederation-cup",
+        "has_standings": true
+      },
+      "home_team": {
+        "name": "زد",
+        "url_name": "zed-fc",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/29732",
+        "score": 0,
+        "is_winner": false
+      },
+      "away_team": {
+        "name": "عزام يونايتد",
+        "url_name": "azam-fc",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/10537",
+        "score": 0,
+        "is_winner": false
+      },
+      "time": {
+        "start": "2026-10-16T20:00:00+03:00",
+        "start_timestamp": 1792170000000,
+        "estimated_end_timestamp": 1792176300000,
+        "current_minute": 0,
+        "countdown_seconds": 27327
+      },
+      "status": {
+        "code": "UPCOMING",
+        "text_ar": "8:00 م",
+        "phase": "pre_match",
+        "progress_percentage": 0
+      },
+      "penalty": {
+        "home": 0,
+        "away": 0,
+        "home_map": [],
+        "away_map": []
+      },
+      "has_lineups": false
+    },
+    {
+      "match_id": 4856486,
+      "competition": {
+        "id": 627,
+        "name": "الكونفدرالية الافريقية",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/league-logo/627",
+        "url_name": "caf-confederation-cup",
+        "has_standings": true
+      },
+      "home_team": {
+        "name": "جامعة ويلوالو أديجرات",
+        "url_name": "welwalo-adigrat-uni",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/52630",
+        "score": 0,
+        "is_winner": false
+      },
+      "away_team": {
+        "name": "الأهلي طرابلس",
+        "url_name": "al-ahli-tripoli",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/8259",
+        "score": 0,
+        "is_winner": false
+      },
+      "time": {
+        "start": "2026-10-16T20:00:00+03:00",
+        "start_timestamp": 1792170000000,
+        "estimated_end_timestamp": 1792176300000,
+        "current_minute": 0,
+        "countdown_seconds": 27327
+      },
+      "status": {
+        "code": "UPCOMING",
+        "text_ar": "8:00 م",
+        "phase": "pre_match",
+        "progress_percentage": 0
+      },
+      "penalty": {
+        "home": 0,
+        "away": 0,
+        "home_map": [],
+        "away_map": []
+      },
+      "has_lineups": false
+    },
+    {
+      "match_id": 4858847,
+      "competition": {
+        "id": 102,
+        "name": "كوبا ليبيرتادورس",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/league-logo/102",
+        "url_name": "conmebol-libertadores",
+        "has_standings": true
+      },
+      "home_team": {
+        "name": "إستوديانتيس",
+        "url_name": "estudiantes-de-la-plata",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/867",
+        "score": 0,
+        "is_winner": false
+      },
+      "away_team": {
+        "name": "فلامنجو",
+        "url_name": "flamengo",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/1215",
+        "score": 0,
+        "is_winner": false
+      },
+      "time": {
+        "start": "2026-10-16T03:30:00+03:00",
+        "start_timestamp": 1792110600000,
+        "estimated_end_timestamp": 1792116900000,
+        "current_minute": 90,
+        "countdown_seconds": null
+      },
+      "status": {
+        "code": "FINISHED",
+        "text_ar": "انتهت",
+        "phase": "full_time",
+        "progress_percentage": 100
+      },
+      "penalty": {
+        "home": 0,
+        "away": 0,
+        "home_map": [],
+        "away_map": []
+      },
+      "has_lineups": true
+    },
+    {
+      "match_id": 4764322,
+      "competition": {
+        "id": 78,
+        "name": "الدوري التركي",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/league-logo/78",
+        "url_name": "super-lig",
+        "has_standings": true
+      },
+      "home_team": {
+        "name": "كورام بيليديسبور",
+        "url_name": "corum-fk",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/8891",
+        "score": 0,
+        "is_winner": false
+      },
+      "away_team": {
+        "name": "ريزة سبور",
+        "url_name": "rizespor",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/960",
+        "score": 0,
+        "is_winner": false
+      },
+      "time": {
+        "start": "2026-10-16T20:00:00+03:00",
+        "start_timestamp": 1792170000000,
+        "estimated_end_timestamp": 1792176300000,
+        "current_minute": 0,
+        "countdown_seconds": 27327
+      },
+      "status": {
+        "code": "UPCOMING",
+        "text_ar": "8:00 م",
+        "phase": "pre_match",
+        "progress_percentage": 0
+      },
+      "penalty": {
+        "home": 0,
+        "away": 0,
+        "home_map": [],
+        "away_map": []
+      },
+      "has_lineups": true
+    },
+    {
+      "match_id": 4732303,
+      "competition": {
+        "id": 158,
+        "name": "الدوري الكرواتي - الدرجة الأولى",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/league-logo/158",
+        "url_name": "hnl",
+        "has_standings": true
+      },
+      "home_team": {
+        "name": "روديش زغرب",
+        "url_name": "rudes-zagreb",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/7656",
+        "score": 0,
+        "is_winner": false
+      },
+      "away_team": {
+        "name": "رييكا",
+        "url_name": "hnk-rijeka",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/2248",
+        "score": 0,
+        "is_winner": false
+      },
+      "time": {
+        "start": "2026-10-16T19:00:00+03:00",
+        "start_timestamp": 1792166400000,
+        "estimated_end_timestamp": 1792172700000,
+        "current_minute": 0,
+        "countdown_seconds": 23727
+      },
+      "status": {
+        "code": "UPCOMING",
+        "text_ar": "7:00 م",
+        "phase": "pre_match",
+        "progress_percentage": 0
+      },
+      "penalty": {
+        "home": 0,
+        "away": 0,
+        "home_map": [],
+        "away_map": []
+      },
+      "has_lineups": true
+    },
+    {
+      "match_id": 4734563,
+      "competition": {
+        "id": 57,
+        "name": "الدوري الهولندي",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/league-logo/57",
+        "url_name": "eredivisie",
+        "has_standings": true
+      },
+      "home_team": {
+        "name": "هيرنفين",
+        "url_name": "heerenveen",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/694",
+        "score": 0,
+        "is_winner": false
+      },
+      "away_team": {
+        "name": "أكسيلسيور",
+        "url_name": "excelsior",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/705",
+        "score": 0,
+        "is_winner": false
+      },
+      "time": {
+        "start": "2026-10-16T21:00:00+03:00",
+        "start_timestamp": 1792173600000,
+        "estimated_end_timestamp": 1792179900000,
+        "current_minute": 0,
+        "countdown_seconds": 30927
+      },
+      "status": {
+        "code": "UPCOMING",
+        "text_ar": "9:00 م",
+        "phase": "pre_match",
+        "progress_percentage": 0
+      },
+      "penalty": {
+        "home": 0,
+        "away": 0,
+        "home_map": [],
+        "away_map": []
+      },
+      "has_lineups": true
+    },
+    {
+      "match_id": 4747953,
+      "competition": {
+        "id": 111,
+        "name": "الدوري النمساوي الممتاز",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/league-logo/111",
+        "url_name": "bundesliga",
+        "has_standings": true
+      },
+      "home_team": {
+        "name": "رابيد فيينا",
+        "url_name": "rapid-vienna",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/1738",
+        "score": 0,
+        "is_winner": false
+      },
+      "away_team": {
+        "name": "هارثبيرغ",
+        "url_name": "tsv-hartberg",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/5969",
+        "score": 0,
+        "is_winner": false
+      },
+      "time": {
+        "start": "2026-10-16T20:30:00+03:00",
+        "start_timestamp": 1792171800000,
+        "estimated_end_timestamp": 1792178100000,
+        "current_minute": 0,
+        "countdown_seconds": 29127
+      },
+      "status": {
+        "code": "UPCOMING",
+        "text_ar": "8:30 م",
+        "phase": "pre_match",
+        "progress_percentage": 0
+      },
+      "penalty": {
+        "home": 0,
+        "away": 0,
+        "home_map": [],
+        "away_map": []
+      },
+      "has_lineups": true
+    },
+    {
+      "match_id": 4736375,
+      "competition": {
+        "id": 153,
+        "name": "الدوري البولندي الممتاز",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/league-logo/153",
+        "url_name": "ekstraklasa",
+        "has_standings": true
+      },
+      "home_team": {
+        "name": "Wieczysta Krakow",
+        "url_name": "wieczysta-krakow",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/77656",
+        "score": 0,
+        "is_winner": false
+      },
+      "away_team": {
+        "name": "راكوف تشانستوخوفا",
+        "url_name": "rakow-czestochowa",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/13058",
+        "score": 0,
+        "is_winner": false
+      },
+      "time": {
+        "start": "2026-10-16T19:00:00+03:00",
+        "start_timestamp": 1792166400000,
+        "estimated_end_timestamp": 1792172700000,
+        "current_minute": 0,
+        "countdown_seconds": 23727
+      },
+      "status": {
+        "code": "UPCOMING",
+        "text_ar": "7:00 م",
+        "phase": "pre_match",
+        "progress_percentage": 0
+      },
+      "penalty": {
+        "home": 0,
+        "away": 0,
+        "home_map": [],
+        "away_map": []
+      },
+      "has_lineups": true
+    },
+    {
+      "match_id": 4736373,
+      "competition": {
+        "id": 153,
+        "name": "الدوري البولندي الممتاز",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/league-logo/153",
+        "url_name": "ekstraklasa",
+        "has_standings": true
+      },
+      "home_team": {
+        "name": "فيدزيف ووتش",
+        "url_name": "widzew-lodz",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/2222",
+        "score": 0,
+        "is_winner": false
+      },
+      "away_team": {
+        "name": "فيسوا كراكوف",
+        "url_name": "wisla-krakow",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/2208",
+        "score": 0,
+        "is_winner": false
+      },
+      "time": {
+        "start": "2026-10-16T21:30:00+03:00",
+        "start_timestamp": 1792175400000,
+        "estimated_end_timestamp": 1792181700000,
+        "current_minute": 0,
+        "countdown_seconds": 32727
+      },
+      "status": {
+        "code": "UPCOMING",
+        "text_ar": "9:30 م",
+        "phase": "pre_match",
+        "progress_percentage": 0
+      },
+      "penalty": {
+        "home": 0,
+        "away": 0,
+        "home_map": [],
+        "away_map": []
+      },
+      "has_lineups": true
+    },
+    {
+      "match_id": 4635993,
+      "competition": {
+        "id": 122,
+        "name": "الدوري السويدي الممتاز",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/league-logo/122",
+        "url_name": "allsvenskan",
+        "has_standings": true
+      },
+      "home_team": {
+        "name": "بروما بويكارنا",
+        "url_name": "if-brommapojkarna",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/1915",
+        "score": 0,
+        "is_winner": false
+      },
+      "away_team": {
+        "name": "يورغوردينس",
+        "url_name": "djurgardens-if",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/1892",
+        "score": 0,
+        "is_winner": false
+      },
+      "time": {
+        "start": "2026-10-16T20:00:00+03:00",
+        "start_timestamp": 1792170000000,
+        "estimated_end_timestamp": 1792176300000,
+        "current_minute": 0,
+        "countdown_seconds": 27327
+      },
+      "status": {
+        "code": "UPCOMING",
+        "text_ar": "8:00 م",
+        "phase": "pre_match",
+        "progress_percentage": 0
+      },
+      "penalty": {
+        "home": 0,
+        "away": 0,
+        "home_map": [],
+        "away_map": []
+      },
+      "has_lineups": true
+    },
+    {
+      "match_id": 4748686,
+      "competition": {
+        "id": 129,
+        "name": "الدوري الأوكراني الممتاز",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/league-logo/129",
+        "url_name": "premier-league",
+        "has_standings": true
+      },
+      "home_team": {
+        "name": "أبولون كييف",
+        "url_name": "obolon-kyiv",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/6002",
+        "score": 0,
+        "is_winner": false
+      },
+      "away_team": {
+        "name": "فيريش ريفنا",
+        "url_name": "veres-rivne",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/25554",
+        "score": 0,
+        "is_winner": false
+      },
+      "time": {
+        "start": "2026-10-16T13:00:00+03:00",
+        "start_timestamp": 1792144800000,
+        "estimated_end_timestamp": 1792151100000,
+        "current_minute": 0,
+        "countdown_seconds": 2127
+      },
+      "status": {
+        "code": "UPCOMING",
+        "text_ar": "1:00 م",
+        "phase": "pre_match",
+        "progress_percentage": 0
+      },
+      "penalty": {
+        "home": 0,
+        "away": 0,
+        "home_map": [],
+        "away_map": []
+      },
+      "has_lineups": true
+    },
+    {
+      "match_id": 4744487,
+      "competition": {
+        "id": 137,
+        "name": "الدرجة الأولى",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/league-logo/137",
+        "url_name": "otp-bank-liga",
+        "has_standings": true
+      },
+      "home_team": {
+        "name": "أم.تي.كيه",
+        "url_name": "mtk-budapest",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/2062",
+        "score": 0,
+        "is_winner": false
+      },
+      "away_team": {
+        "name": "فاشاش",
+        "url_name": "vasas",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/2071",
+        "score": 0,
+        "is_winner": false
+      },
+      "time": {
+        "start": "2026-10-16T21:00:00+03:00",
+        "start_timestamp": 1792173600000,
+        "estimated_end_timestamp": 1792179900000,
+        "current_minute": 0,
+        "countdown_seconds": 30927
+      },
+      "status": {
+        "code": "UPCOMING",
+        "text_ar": "9:00 م",
+        "phase": "pre_match",
+        "progress_percentage": 0
+      },
+      "penalty": {
+        "home": 0,
+        "away": 0,
+        "home_map": [],
+        "away_map": []
+      },
+      "has_lineups": false
+    },
+    {
+      "match_id": 4633828,
+      "competition": {
+        "id": 68,
+        "name": "الدوري الأيرلندي - الدرجة الممتازة",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/league-logo/68",
+        "url_name": "premier-division",
+        "has_standings": true
+      },
+      "home_team": {
+        "name": "غالواي يونايد",
+        "url_name": "galway-united",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/841",
+        "score": 0,
+        "is_winner": false
+      },
+      "away_team": {
+        "name": "شامروك روفرز",
+        "url_name": "shamrock",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/838",
+        "score": 0,
+        "is_winner": false
+      },
+      "time": {
+        "start": "2026-10-16T21:45:00+03:00",
+        "start_timestamp": 1792176300000,
+        "estimated_end_timestamp": 1792182600000,
+        "current_minute": 0,
+        "countdown_seconds": 33627
+      },
+      "status": {
+        "code": "UPCOMING",
+        "text_ar": "9:45 م",
+        "phase": "pre_match",
+        "progress_percentage": 0
+      },
+      "penalty": {
+        "home": 0,
+        "away": 0,
+        "home_map": [],
+        "away_map": []
+      },
+      "has_lineups": true
+    },
+    {
+      "match_id": 4633829,
+      "competition": {
+        "id": 68,
+        "name": "الدوري الأيرلندي - الدرجة الممتازة",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/league-logo/68",
+        "url_name": "premier-division",
+        "has_standings": true
+      },
+      "home_team": {
+        "name": "دروغيدا يونايتد",
+        "url_name": "drogheda-utd",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/10381",
+        "score": 0,
+        "is_winner": false
+      },
+      "away_team": {
+        "name": "ديري سيتي",
+        "url_name": "derry-city",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/840",
+        "score": 0,
+        "is_winner": false
+      },
+      "time": {
+        "start": "2026-10-16T21:45:00+03:00",
+        "start_timestamp": 1792176300000,
+        "estimated_end_timestamp": 1792182600000,
+        "current_minute": 0,
+        "countdown_seconds": 33627
+      },
+      "status": {
+        "code": "UPCOMING",
+        "text_ar": "9:45 م",
+        "phase": "pre_match",
+        "progress_percentage": 0
+      },
+      "penalty": {
+        "home": 0,
+        "away": 0,
+        "home_map": [],
+        "away_map": []
+      },
+      "has_lineups": true
+    },
+    {
+      "match_id": 4633830,
+      "competition": {
+        "id": 68,
+        "name": "الدوري الأيرلندي - الدرجة الممتازة",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/league-logo/68",
+        "url_name": "premier-division",
+        "has_standings": true
+      },
+      "home_team": {
+        "name": "بوهيميانز",
+        "url_name": "bohemians",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/836",
+        "score": 0,
+        "is_winner": false
+      },
+      "away_team": {
+        "name": "واترفورد يونايتد",
+        "url_name": "waterford-fc",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/847",
+        "score": 0,
+        "is_winner": false
+      },
+      "time": {
+        "start": "2026-10-16T21:45:00+03:00",
+        "start_timestamp": 1792176300000,
+        "estimated_end_timestamp": 1792182600000,
+        "current_minute": 0,
+        "countdown_seconds": 33627
+      },
+      "status": {
+        "code": "UPCOMING",
+        "text_ar": "9:45 م",
+        "phase": "pre_match",
+        "progress_percentage": 0
+      },
+      "penalty": {
+        "home": 0,
+        "away": 0,
+        "home_map": [],
+        "away_map": []
+      },
+      "has_lineups": true
+    },
+    {
+      "match_id": 4633827,
+      "competition": {
+        "id": 68,
+        "name": "الدوري الأيرلندي - الدرجة الممتازة",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/league-logo/68",
+        "url_name": "premier-division",
+        "has_standings": true
+      },
+      "home_team": {
+        "name": "باتريكس أثليتيك",
+        "url_name": "st.-patricks",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/835",
+        "score": 0,
+        "is_winner": false
+      },
+      "away_team": {
+        "name": "شيلبورن",
+        "url_name": "shelbourne",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/849",
+        "score": 0,
+        "is_winner": false
+      },
+      "time": {
+        "start": "2026-10-16T22:00:00+03:00",
+        "start_timestamp": 1792177200000,
+        "estimated_end_timestamp": 1792183500000,
+        "current_minute": 0,
+        "countdown_seconds": 34527
+      },
+      "status": {
+        "code": "UPCOMING",
+        "text_ar": "10:00 م",
+        "phase": "pre_match",
+        "progress_percentage": 0
+      },
+      "penalty": {
+        "home": 0,
+        "away": 0,
+        "home_map": [],
+        "away_map": []
+      },
+      "has_lineups": true
+    },
+    {
+      "match_id": 4731480,
+      "competition": {
+        "id": 119,
+        "name": "الدوري الدنماركي الممتاز",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/league-logo/119",
+        "url_name": "superliga",
+        "has_standings": true
+      },
+      "home_team": {
+        "name": "هورسينس",
+        "url_name": "horsens",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/1826",
+        "score": 0,
+        "is_winner": false
+      },
+      "away_team": {
+        "name": "راندرس",
+        "url_name": "randers-fc",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/1830",
+        "score": 0,
+        "is_winner": false
+      },
+      "time": {
+        "start": "2026-10-16T20:00:00+03:00",
+        "start_timestamp": 1792170000000,
+        "estimated_end_timestamp": 1792176300000,
+        "current_minute": 0,
+        "countdown_seconds": 27327
+      },
+      "status": {
+        "code": "UPCOMING",
+        "text_ar": "8:00 م",
+        "phase": "pre_match",
+        "progress_percentage": 0
+      },
+      "penalty": {
+        "home": 0,
+        "away": 0,
+        "home_map": [],
+        "away_map": []
+      },
+      "has_lineups": true
+    },
+    {
+      "match_id": 4748423,
+      "competition": {
+        "id": 136,
+        "name": "الدوري الروماني الدرجة الأولى",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/league-logo/136",
+        "url_name": "liga-1",
+        "has_standings": true
+      },
+      "home_team": {
+        "name": "أوتسيلول غالاتس",
+        "url_name": "otelul-galati",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/2047",
+        "score": 0,
+        "is_winner": false
+      },
+      "away_team": {
+        "name": "Csíkszereda Miercurea Ciuc",
+        "url_name": "csikszereda-miercurea-ciuc",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/26249",
+        "score": 0,
+        "is_winner": false
+      },
+      "time": {
+        "start": "2026-10-16T18:00:00+03:00",
+        "start_timestamp": 1792162800000,
+        "estimated_end_timestamp": 1792169100000,
+        "current_minute": 0,
+        "countdown_seconds": 20127
+      },
+      "status": {
+        "code": "UPCOMING",
+        "text_ar": "6:00 م",
+        "phase": "pre_match",
+        "progress_percentage": 0
+      },
+      "penalty": {
+        "home": 0,
+        "away": 0,
+        "home_map": [],
+        "away_map": []
+      },
+      "has_lineups": false
+    },
+    {
+      "match_id": 4748420,
+      "competition": {
+        "id": 136,
+        "name": "الدوري الروماني الدرجة الأولى",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/league-logo/136",
+        "url_name": "liga-1",
+        "has_standings": true
+      },
+      "home_team": {
+        "name": "دينامو بوخارست",
+        "url_name": "dinamo-bucuresti",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/2043",
+        "score": 0,
+        "is_winner": false
+      },
+      "away_team": {
+        "name": "بوتوشاني",
+        "url_name": "fc-botosani",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/12365",
+        "score": 0,
+        "is_winner": false
+      },
+      "time": {
+        "start": "2026-10-16T21:00:00+03:00",
+        "start_timestamp": 1792173600000,
+        "estimated_end_timestamp": 1792179900000,
+        "current_minute": 0,
+        "countdown_seconds": 30927
+      },
+      "status": {
+        "code": "UPCOMING",
+        "text_ar": "9:00 م",
+        "phase": "pre_match",
+        "progress_percentage": 0
+      },
+      "penalty": {
+        "home": 0,
+        "away": 0,
+        "home_map": [],
+        "away_map": []
+      },
+      "has_lineups": false
+    },
+    {
+      "match_id": 4737588,
+      "competition": {
+        "id": 628,
+        "name": "الدرجة الأولى",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/league-logo/628",
+        "url_name": "super-liga",
+        "has_standings": true
+      },
+      "home_team": {
+        "name": "رانديك سوردوليتسا",
+        "url_name": "radnik-surdulica",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/13958",
+        "score": 0,
+        "is_winner": false
+      },
+      "away_team": {
+        "name": "رادنيتشكي نيش",
+        "url_name": "radnicki-nis",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/10449",
+        "score": 0,
+        "is_winner": false
+      },
+      "time": {
+        "start": "2026-10-16T18:00:00+03:00",
+        "start_timestamp": 1792162800000,
+        "estimated_end_timestamp": 1792169100000,
+        "current_minute": 0,
+        "countdown_seconds": 20127
+      },
+      "status": {
+        "code": "UPCOMING",
+        "text_ar": "6:00 م",
+        "phase": "pre_match",
+        "progress_percentage": 0
+      },
+      "penalty": {
+        "home": 0,
+        "away": 0,
+        "home_map": [],
+        "away_map": []
+      },
+      "has_lineups": false
+    },
+    {
+      "match_id": 4856792,
+      "competition": {
+        "id": 560,
+        "name": "الدوري الجزائري",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/league-logo/560",
+        "url_name": "ligue-1",
+        "has_standings": true
+      },
+      "home_team": {
+        "name": "مولودية الجزائر",
+        "url_name": "mc-alger",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/8218",
+        "score": 0,
+        "is_winner": false
+      },
+      "away_team": {
+        "name": "وفاق سطيف",
+        "url_name": "es-setif",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/8222",
+        "score": 0,
+        "is_winner": false
+      },
+      "time": {
+        "start": "2026-10-16T17:00:00+03:00",
+        "start_timestamp": 1792159200000,
+        "estimated_end_timestamp": null,
+        "current_minute": 0,
+        "countdown_seconds": null
+      },
+      "status": {
+        "code": "POSTPONED",
+        "text_ar": "تأجلت",
+        "phase": "postponed",
+        "progress_percentage": 0
+      },
+      "penalty": {
+        "home": 0,
+        "away": 0,
+        "home_map": [],
+        "away_map": []
+      },
+      "has_lineups": false
+    },
+    {
+      "match_id": 4856782,
+      "competition": {
+        "id": 560,
+        "name": "الدوري الجزائري",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/league-logo/560",
+        "url_name": "ligue-1",
+        "has_standings": true
+      },
+      "home_team": {
+        "name": "أولمبي أقبو",
+        "url_name": "olympique-akbou",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/55758",
+        "score": 0,
+        "is_winner": false
+      },
+      "away_team": {
+        "name": "نجم بن عكنون",
+        "url_name": "es-ben-aknoun",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/17033",
+        "score": 0,
+        "is_winner": false
+      },
+      "time": {
+        "start": "2026-10-16T17:30:00+03:00",
+        "start_timestamp": 1792161000000,
+        "estimated_end_timestamp": 1792167300000,
+        "current_minute": 0,
+        "countdown_seconds": 18327
+      },
+      "status": {
+        "code": "UPCOMING",
+        "text_ar": "5:30 م",
+        "phase": "pre_match",
+        "progress_percentage": 0
+      },
+      "penalty": {
+        "home": 0,
+        "away": 0,
+        "home_map": [],
+        "away_map": []
+      },
+      "has_lineups": false
+    },
+    {
+      "match_id": 4782299,
+      "competition": {
+        "id": 7304,
+        "name": "دوري كو بارا التنزاني",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/league-logo/7304",
+        "url_name": "ligi-kuu-bara",
+        "has_standings": true
+      },
+      "home_team": {
+        "name": "فونتاين جيت",
+        "url_name": "fountain-gate",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/71342",
+        "score": 0,
+        "is_winner": false
+      },
+      "away_team": {
+        "name": "بامبا جيجي",
+        "url_name": "pamba-jiji-fc",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/82538",
+        "score": 0,
+        "is_winner": false
+      },
+      "time": {
+        "start": "2026-10-16T16:00:00+03:00",
+        "start_timestamp": 1792155600000,
+        "estimated_end_timestamp": 1792161900000,
+        "current_minute": 0,
+        "countdown_seconds": 12927
+      },
+      "status": {
+        "code": "UPCOMING",
+        "text_ar": "4:00 م",
+        "phase": "pre_match",
+        "progress_percentage": 0
+      },
+      "penalty": {
+        "home": 0,
+        "away": 0,
+        "home_map": [],
+        "away_map": []
+      },
+      "has_lineups": false
+    },
+    {
+      "match_id": 4782298,
+      "competition": {
+        "id": 7304,
+        "name": "دوري كو بارا التنزاني",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/league-logo/7304",
+        "url_name": "ligi-kuu-bara",
+        "has_standings": true
+      },
+      "home_team": {
+        "name": "Geita Gold Fc",
+        "url_name": "geita-gold-fc",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/69050",
+        "score": 0,
+        "is_winner": false
+      },
+      "away_team": {
+        "name": "Dodoma Jiji",
+        "url_name": "dodoma-jiji",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/66883",
+        "score": 0,
+        "is_winner": false
+      },
+      "time": {
+        "start": "2026-10-16T19:00:00+03:00",
+        "start_timestamp": 1792166400000,
+        "estimated_end_timestamp": 1792172700000,
+        "current_minute": 0,
+        "countdown_seconds": 23727
+      },
+      "status": {
+        "code": "UPCOMING",
+        "text_ar": "7:00 م",
+        "phase": "pre_match",
+        "progress_percentage": 0
+      },
+      "penalty": {
+        "home": 0,
+        "away": 0,
+        "home_map": [],
+        "away_map": []
+      },
+      "has_lineups": false
+    },
+    {
+      "match_id": 4876821,
+      "competition": {
+        "id": 7318,
+        "name": "الدوري الممتاز",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/league-logo/7318",
+        "url_name": "premier-league",
+        "has_standings": true
+      },
+      "home_team": {
+        "name": "Ethio Electric",
+        "url_name": "eepco-addis-abeba",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/73737",
+        "score": 0,
+        "is_winner": false
+      },
+      "away_team": {
+        "name": "Negele Arsi Ketema",
+        "url_name": "negele-arsi-ketema",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/91906",
+        "score": 0,
+        "is_winner": false
+      },
+      "time": {
+        "start": "2026-10-16T15:00:00+03:00",
+        "start_timestamp": 1792152000000,
+        "estimated_end_timestamp": 1792158300000,
+        "current_minute": 0,
+        "countdown_seconds": 9327
+      },
+      "status": {
+        "code": "UPCOMING",
+        "text_ar": "3:00 م",
+        "phase": "pre_match",
+        "progress_percentage": 0
+      },
+      "penalty": {
+        "home": 0,
+        "away": 0,
+        "home_map": [],
+        "away_map": []
+      },
+      "has_lineups": false
+    },
+    {
+      "match_id": 4876195,
+      "competition": {
+        "id": 7318,
+        "name": "الدوري الممتاز",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/league-logo/7318",
+        "url_name": "premier-league",
+        "has_standings": true
+      },
+      "home_team": {
+        "name": "Halaba Ketema",
+        "url_name": "halaba-ketema",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/98189",
+        "score": 0,
+        "is_winner": false
+      },
+      "away_team": {
+        "name": "باهاردار",
+        "url_name": "bahir-dar-kenema",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/57796",
+        "score": 0,
+        "is_winner": false
+      },
+      "time": {
+        "start": "2026-10-16T16:00:00+03:00",
+        "start_timestamp": 1792155600000,
+        "estimated_end_timestamp": 1792161900000,
+        "current_minute": 0,
+        "countdown_seconds": 12927
+      },
+      "status": {
+        "code": "UPCOMING",
+        "text_ar": "4:00 م",
+        "phase": "pre_match",
+        "progress_percentage": 0
+      },
+      "penalty": {
+        "home": 0,
+        "away": 0,
+        "home_map": [],
+        "away_map": []
+      },
+      "has_lineups": false
+    },
+    {
+      "match_id": 4876196,
+      "competition": {
+        "id": 7318,
+        "name": "الدوري الممتاز",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/league-logo/7318",
+        "url_name": "premier-league",
+        "has_standings": true
+      },
+      "home_team": {
+        "name": "Adama Kenema",
+        "url_name": "adama-kenema",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/22984",
+        "score": 0,
+        "is_winner": false
+      },
+      "away_team": {
+        "name": "Sheger Ketema",
+        "url_name": "sheger-ketema",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/91905",
+        "score": 0,
+        "is_winner": false
+      },
+      "time": {
+        "start": "2026-10-16T18:00:00+03:00",
+        "start_timestamp": 1792162800000,
+        "estimated_end_timestamp": 1792169100000,
+        "current_minute": 0,
+        "countdown_seconds": 20127
+      },
+      "status": {
+        "code": "UPCOMING",
+        "text_ar": "6:00 م",
+        "phase": "pre_match",
+        "progress_percentage": 0
+      },
+      "penalty": {
+        "home": 0,
+        "away": 0,
+        "home_map": [],
+        "away_map": []
+      },
+      "has_lineups": false
+    },
+    {
+      "match_id": 4860868,
+      "competition": {
+        "id": 405,
+        "name": "دوري الدرجة الممتازة النيجيري",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/league-logo/405",
+        "url_name": "npfl",
+        "has_standings": true
+      },
+      "home_team": {
+        "name": "شوتينغ",
+        "url_name": "shooting-stars",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/6891",
+        "score": 0,
+        "is_winner": false
+      },
+      "away_team": {
+        "name": "Ranchers Bees",
+        "url_name": "ranchers-bees",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/6881",
+        "score": 0,
+        "is_winner": false
+      },
+      "time": {
+        "start": "2026-10-16T20:00:00+03:00",
+        "start_timestamp": 1792170000000,
+        "estimated_end_timestamp": 1792176300000,
+        "current_minute": 0,
+        "countdown_seconds": 27327
+      },
+      "status": {
+        "code": "UPCOMING",
+        "text_ar": "8:00 م",
+        "phase": "pre_match",
+        "progress_percentage": 0
+      },
+      "penalty": {
+        "home": 0,
+        "away": 0,
+        "home_map": [],
+        "away_map": []
+      },
+      "has_lineups": false
+    },
+    {
+      "match_id": 4851246,
+      "competition": {
+        "id": 549,
+        "name": "دوري أدنوك للمحترفين",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/league-logo/549",
+        "url_name": "uae-pro-league",
+        "has_standings": true
+      },
+      "home_team": {
+        "name": "الظفرة",
+        "url_name": "al-dhafra",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/8352",
+        "score": 0,
+        "is_winner": false
+      },
+      "away_team": {
+        "name": "يونايتد",
+        "url_name": "dubai-united",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/77221",
+        "score": 0,
+        "is_winner": false
+      },
+      "time": {
+        "start": "2026-10-16T16:05:00+03:00",
+        "start_timestamp": 1792155900000,
+        "estimated_end_timestamp": 1792162200000,
+        "current_minute": 0,
+        "countdown_seconds": 13227
+      },
+      "status": {
+        "code": "UPCOMING",
+        "text_ar": "4:05 م",
+        "phase": "pre_match",
+        "progress_percentage": 0
+      },
+      "penalty": {
+        "home": 0,
+        "away": 0,
+        "home_map": [],
+        "away_map": []
+      },
+      "has_lineups": true
+    },
+    {
+      "match_id": 4851245,
+      "competition": {
+        "id": 549,
+        "name": "دوري أدنوك للمحترفين",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/league-logo/549",
+        "url_name": "uae-pro-league",
+        "has_standings": true
+      },
+      "home_team": {
+        "name": "بني ياس",
+        "url_name": "baniyas",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/8345",
+        "score": 0,
+        "is_winner": false
+      },
+      "away_team": {
+        "name": "الوصل",
+        "url_name": "al-wasl",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/8346",
+        "score": 0,
+        "is_winner": false
+      },
+      "time": {
+        "start": "2026-10-16T18:45:00+03:00",
+        "start_timestamp": 1792165500000,
+        "estimated_end_timestamp": 1792171800000,
+        "current_minute": 0,
+        "countdown_seconds": 22827
+      },
+      "status": {
+        "code": "UPCOMING",
+        "text_ar": "6:45 م",
+        "phase": "pre_match",
+        "progress_percentage": 0
+      },
+      "penalty": {
+        "home": 0,
+        "away": 0,
+        "home_map": [],
+        "away_map": []
+      },
+      "has_lineups": true
+    },
+    {
+      "match_id": 4779051,
+      "competition": {
+        "id": 408,
+        "name": "الدوري القطري",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/league-logo/408",
+        "url_name": "doha-bank-stars-league",
+        "has_standings": true
+      },
+      "home_team": {
+        "name": "الأهلي",
+        "url_name": "al-ahli-doha",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/7085",
+        "score": 0,
+        "is_winner": false
+      },
+      "away_team": {
+        "name": "الوكرة",
+        "url_name": "al-wakrah",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/5996",
+        "score": 0,
+        "is_winner": false
+      },
+      "time": {
+        "start": "2026-10-16T17:30:00+03:00",
+        "start_timestamp": 1792161000000,
+        "estimated_end_timestamp": 1792167300000,
+        "current_minute": 0,
+        "countdown_seconds": 18327
+      },
+      "status": {
+        "code": "UPCOMING",
+        "text_ar": "5:30 م",
+        "phase": "pre_match",
+        "progress_percentage": 0
+      },
+      "penalty": {
+        "home": 0,
+        "away": 0,
+        "home_map": [],
+        "away_map": []
+      },
+      "has_lineups": false
+    },
+    {
+      "match_id": 4779052,
+      "competition": {
+        "id": 408,
+        "name": "الدوري القطري",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/league-logo/408",
+        "url_name": "doha-bank-stars-league",
+        "has_standings": true
+      },
+      "home_team": {
+        "name": "الشحانية",
+        "url_name": "shahaniya-sc",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/16647",
+        "score": 0,
+        "is_winner": false
+      },
+      "away_team": {
+        "name": "العربي",
+        "url_name": "al-arabi-doha",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/7084",
+        "score": 0,
+        "is_winner": false
+      },
+      "time": {
+        "start": "2026-10-16T19:45:00+03:00",
+        "start_timestamp": 1792169100000,
+        "estimated_end_timestamp": 1792175400000,
+        "current_minute": 0,
+        "countdown_seconds": 26427
+      },
+      "status": {
+        "code": "UPCOMING",
+        "text_ar": "7:45 م",
+        "phase": "pre_match",
+        "progress_percentage": 0
+      },
+      "penalty": {
+        "home": 0,
+        "away": 0,
+        "home_map": [],
+        "away_map": []
+      },
+      "has_lineups": false
+    },
+    {
+      "match_id": 4866384,
+      "competition": {
+        "id": 5479,
+        "name": "الدوري البحريني",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/league-logo/5479",
+        "url_name": "premier-league",
+        "has_standings": true
+      },
+      "home_team": {
+        "name": "الإتفاق البحريني",
+        "url_name": "ittifaq-maqaba",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/14072",
+        "score": 0,
+        "is_winner": false
+      },
+      "away_team": {
+        "name": "المنامة",
+        "url_name": "manama-club",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/16936",
+        "score": 0,
+        "is_winner": false
+      },
+      "time": {
+        "start": "2026-10-16T19:00:00+03:00",
+        "start_timestamp": 1792166400000,
+        "estimated_end_timestamp": 1792172700000,
+        "current_minute": 0,
+        "countdown_seconds": 23727
+      },
+      "status": {
+        "code": "UPCOMING",
+        "text_ar": "7:00 م",
+        "phase": "pre_match",
+        "progress_percentage": 0
+      },
+      "penalty": {
+        "home": 0,
+        "away": 0,
+        "home_map": [],
+        "away_map": []
+      },
+      "has_lineups": false
+    },
+    {
+      "match_id": 4866385,
+      "competition": {
+        "id": 5479,
+        "name": "الدوري البحريني",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/league-logo/5479",
+        "url_name": "premier-league",
+        "has_standings": true
+      },
+      "home_team": {
+        "name": "عالي",
+        "url_name": "ali-csc",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/71676",
+        "score": 0,
+        "is_winner": false
+      },
+      "away_team": {
+        "name": "سترة",
+        "url_name": "sitra-club",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/16940",
+        "score": 0,
+        "is_winner": false
+      },
+      "time": {
+        "start": "2026-10-16T19:00:00+03:00",
+        "start_timestamp": 1792166400000,
+        "estimated_end_timestamp": 1792172700000,
+        "current_minute": 0,
+        "countdown_seconds": 23727
+      },
+      "status": {
+        "code": "UPCOMING",
+        "text_ar": "7:00 م",
+        "phase": "pre_match",
+        "progress_percentage": 0
+      },
+      "penalty": {
+        "home": 0,
+        "away": 0,
+        "home_map": [],
+        "away_map": []
+      },
+      "has_lineups": false
+    },
+    {
+      "match_id": 4874813,
+      "competition": {
+        "id": 565,
+        "name": "الدوري الأردني",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/league-logo/565",
+        "url_name": "pro-league",
+        "has_standings": true
+      },
+      "home_team": {
+        "name": "دوقرة",
+        "url_name": "doqarah",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/76783",
+        "score": 0,
+        "is_winner": false
+      },
+      "away_team": {
+        "name": "الجزيرة",
+        "url_name": "al-jazeera",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/8283",
+        "score": 0,
+        "is_winner": false
+      },
+      "time": {
+        "start": "2026-10-16T17:00:00+03:00",
+        "start_timestamp": 1792159200000,
+        "estimated_end_timestamp": 1792165500000,
+        "current_minute": 0,
+        "countdown_seconds": 16527
+      },
+      "status": {
+        "code": "UPCOMING",
+        "text_ar": "5:00 م",
+        "phase": "pre_match",
+        "progress_percentage": 0
+      },
+      "penalty": {
+        "home": 0,
+        "away": 0,
+        "home_map": [],
+        "away_map": []
+      },
+      "has_lineups": false
+    },
+    {
+      "match_id": 4874814,
+      "competition": {
+        "id": 565,
+        "name": "الدوري الأردني",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/league-logo/565",
+        "url_name": "pro-league",
+        "has_standings": true
+      },
+      "home_team": {
+        "name": "البقعة",
+        "url_name": "al-buqa'a",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/8279",
+        "score": 0,
+        "is_winner": false
+      },
+      "away_team": {
+        "name": "السلط",
+        "url_name": "al-salt",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/15387",
+        "score": 0,
+        "is_winner": false
+      },
+      "time": {
+        "start": "2026-10-16T19:30:00+03:00",
+        "start_timestamp": 1792168200000,
+        "estimated_end_timestamp": 1792174500000,
+        "current_minute": 0,
+        "countdown_seconds": 25527
+      },
+      "status": {
+        "code": "UPCOMING",
+        "text_ar": "7:30 م",
+        "phase": "pre_match",
+        "progress_percentage": 0
+      },
+      "penalty": {
+        "home": 0,
+        "away": 0,
+        "home_map": [],
+        "away_map": []
+      },
+      "has_lineups": false
+    },
+    {
+      "match_id": 4806634,
+      "competition": {
+        "id": 6822,
+        "name": "الدوري العراقي",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/league-logo/6822",
+        "url_name": "iraqi-league",
+        "has_standings": true
+      },
+      "home_team": {
+        "name": "نوروز",
+        "url_name": "newroz",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/67500",
+        "score": 0,
+        "is_winner": false
+      },
+      "away_team": {
+        "name": "الميناء",
+        "url_name": "al-minaa",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/11674",
+        "score": 0,
+        "is_winner": false
+      },
+      "time": {
+        "start": "2026-10-16T18:00:00+03:00",
+        "start_timestamp": 1792162800000,
+        "estimated_end_timestamp": 1792169100000,
+        "current_minute": 0,
+        "countdown_seconds": 20127
+      },
+      "status": {
+        "code": "UPCOMING",
+        "text_ar": "6:00 م",
+        "phase": "pre_match",
+        "progress_percentage": 0
+      },
+      "penalty": {
+        "home": 0,
+        "away": 0,
+        "home_map": [],
+        "away_map": []
+      },
+      "has_lineups": false
+    },
+    {
+      "match_id": 4806638,
+      "competition": {
+        "id": 6822,
+        "name": "الدوري العراقي",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/league-logo/6822",
+        "url_name": "iraqi-league",
+        "has_standings": true
+      },
+      "home_team": {
+        "name": "كربلاء",
+        "url_name": "karbalaa",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/8243",
+        "score": 0,
+        "is_winner": false
+      },
+      "away_team": {
+        "name": "الغراف",
+        "url_name": "al-garaf",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/78841",
+        "score": 0,
+        "is_winner": false
+      },
+      "time": {
+        "start": "2026-10-16T18:00:00+03:00",
+        "start_timestamp": 1792162800000,
+        "estimated_end_timestamp": 1792169100000,
+        "current_minute": 0,
+        "countdown_seconds": 20127
+      },
+      "status": {
+        "code": "UPCOMING",
+        "text_ar": "6:00 م",
+        "phase": "pre_match",
+        "progress_percentage": 0
+      },
+      "penalty": {
+        "home": 0,
+        "away": 0,
+        "home_map": [],
+        "away_map": []
+      },
+      "has_lineups": false
+    },
+    {
+      "match_id": 4806636,
+      "competition": {
+        "id": 6822,
+        "name": "الدوري العراقي",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/league-logo/6822",
+        "url_name": "iraqi-league",
+        "has_standings": true
+      },
+      "home_team": {
+        "name": "الكهرباء",
+        "url_name": "al-kahrabaa",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/11279",
+        "score": 0,
+        "is_winner": false
+      },
+      "away_team": {
+        "name": "الطلبة",
+        "url_name": "al-talaba-baghdad",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/8244",
+        "score": 0,
+        "is_winner": false
+      },
+      "time": {
+        "start": "2026-10-16T20:30:00+03:00",
+        "start_timestamp": 1792171800000,
+        "estimated_end_timestamp": 1792178100000,
+        "current_minute": 0,
+        "countdown_seconds": 29127
+      },
+      "status": {
+        "code": "UPCOMING",
+        "text_ar": "8:30 م",
+        "phase": "pre_match",
+        "progress_percentage": 0
+      },
+      "penalty": {
+        "home": 0,
+        "away": 0,
+        "home_map": [],
+        "away_map": []
+      },
+      "has_lineups": false
+    },
+    {
+      "match_id": 4806642,
+      "competition": {
+        "id": 6822,
+        "name": "الدوري العراقي",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/league-logo/6822",
+        "url_name": "iraqi-league",
+        "has_standings": true
+      },
+      "home_team": {
+        "name": "ديالى",
+        "url_name": "diyala",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/69086",
+        "score": 0,
+        "is_winner": false
+      },
+      "away_team": {
+        "name": "نفط ميسان",
+        "url_name": "naft-maysan",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/8250",
+        "score": 0,
+        "is_winner": false
+      },
+      "time": {
+        "start": "2026-10-16T20:30:00+03:00",
+        "start_timestamp": 1792171800000,
+        "estimated_end_timestamp": 1792178100000,
+        "current_minute": 0,
+        "countdown_seconds": 29127
+      },
+      "status": {
+        "code": "UPCOMING",
+        "text_ar": "8:30 م",
+        "phase": "pre_match",
+        "progress_percentage": 0
+      },
+      "penalty": {
+        "home": 0,
+        "away": 0,
+        "home_map": [],
+        "away_map": []
+      },
+      "has_lineups": false
+    },
+    {
+      "match_id": 4876000,
+      "competition": {
+        "id": 564,
+        "name": "الدوري السوري الممتاز",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/league-logo/564",
+        "url_name": "syrian-premier-league",
+        "has_standings": true
+      },
+      "home_team": {
+        "name": "أهلي حلب",
+        "url_name": "al-ittihad-aleppo",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/6323",
+        "score": 0,
+        "is_winner": false
+      },
+      "away_team": {
+        "name": "تشرين",
+        "url_name": "tishreen-sc",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/8341",
+        "score": 0,
+        "is_winner": false
+      },
+      "time": {
+        "start": "2026-10-16T15:00:00+03:00",
+        "start_timestamp": 1792152000000,
+        "estimated_end_timestamp": null,
+        "current_minute": 0,
+        "countdown_seconds": null
+      },
+      "status": {
+        "code": "POSTPONED",
+        "text_ar": "تأجلت",
+        "phase": "postponed",
+        "progress_percentage": 0
+      },
+      "penalty": {
+        "home": 0,
+        "away": 0,
+        "home_map": [],
+        "away_map": []
+      },
+      "has_lineups": false
+    },
+    {
+      "match_id": 4876001,
+      "competition": {
+        "id": 564,
+        "name": "الدوري السوري الممتاز",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/league-logo/564",
+        "url_name": "syrian-premier-league",
+        "has_standings": true
+      },
+      "home_team": {
+        "name": "الطليعة",
+        "url_name": "al-taliya-hama",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/8343",
+        "score": 0,
+        "is_winner": false
+      },
+      "away_team": {
+        "name": "حمص الفداء",
+        "url_name": "homs-al-fidaa-sc",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/8331",
+        "score": 0,
+        "is_winner": false
+      },
+      "time": {
+        "start": "2026-10-16T15:00:00+03:00",
+        "start_timestamp": 1792152000000,
+        "estimated_end_timestamp": null,
+        "current_minute": 0,
+        "countdown_seconds": null
+      },
+      "status": {
+        "code": "POSTPONED",
+        "text_ar": "تأجلت",
+        "phase": "postponed",
+        "progress_percentage": 0
+      },
+      "penalty": {
+        "home": 0,
+        "away": 0,
+        "home_map": [],
+        "away_map": []
+      },
+      "has_lineups": false
+    },
+    {
+      "match_id": 4876002,
+      "competition": {
+        "id": 564,
+        "name": "الدوري السوري الممتاز",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/league-logo/564",
+        "url_name": "syrian-premier-league",
+        "has_standings": true
+      },
+      "home_team": {
+        "name": "دمشق الأهلي",
+        "url_name": "damascus-al-ahli-club",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/8342",
+        "score": 0,
+        "is_winner": false
+      },
+      "away_team": {
+        "name": "الشرطة السوري",
+        "url_name": "al-shorta-damascus",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/8333",
+        "score": 0,
+        "is_winner": false
+      },
+      "time": {
+        "start": "2026-10-16T15:00:00+03:00",
+        "start_timestamp": 1792152000000,
+        "estimated_end_timestamp": 1792158300000,
+        "current_minute": 0,
+        "countdown_seconds": 9327
+      },
+      "status": {
+        "code": "UPCOMING",
+        "text_ar": "3:00 م",
+        "phase": "pre_match",
+        "progress_percentage": 0
+      },
+      "penalty": {
+        "home": 0,
+        "away": 0,
+        "home_map": [],
+        "away_map": []
+      },
+      "has_lineups": false
+    },
+    {
+      "match_id": 4876121,
+      "competition": {
+        "id": 564,
+        "name": "الدوري السوري الممتاز",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/league-logo/564",
+        "url_name": "syrian-premier-league",
+        "has_standings": true
+      },
+      "home_team": {
+        "name": "الكرامة",
+        "url_name": "al-karamah",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/8334",
+        "score": 0,
+        "is_winner": false
+      },
+      "away_team": {
+        "name": "النواعير",
+        "url_name": "al-nawaeir",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/8337",
+        "score": 0,
+        "is_winner": false
+      },
+      "time": {
+        "start": "2026-10-16T15:00:00+03:00",
+        "start_timestamp": 1792152000000,
+        "estimated_end_timestamp": 1792158300000,
+        "current_minute": 0,
+        "countdown_seconds": 9327
+      },
+      "status": {
+        "code": "UPCOMING",
+        "text_ar": "3:00 م",
+        "phase": "pre_match",
+        "progress_percentage": 0
+      },
+      "penalty": {
+        "home": 0,
+        "away": 0,
+        "home_map": [],
+        "away_map": []
+      },
+      "has_lineups": false
+    },
+    {
+      "match_id": 4673291,
+      "competition": {
+        "id": 150,
+        "name": "الدوري الممتاز",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/league-logo/150",
+        "url_name": "super-league",
+        "has_standings": true
+      },
+      "home_team": {
+        "name": "هينان جياني",
+        "url_name": "henan-songshan-longmen",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/2185",
+        "score": 0,
+        "is_winner": false
+      },
+      "away_team": {
+        "name": "تيانتشين تيدا",
+        "url_name": "tianjin-jinmen-tiger",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/2180",
+        "score": 0,
+        "is_winner": false
+      },
+      "time": {
+        "start": "2026-10-16T14:35:00+03:00",
+        "start_timestamp": 1792150500000,
+        "estimated_end_timestamp": 1792156800000,
+        "current_minute": 0,
+        "countdown_seconds": 7827
+      },
+      "status": {
+        "code": "UPCOMING",
+        "text_ar": "2:35 م",
+        "phase": "pre_match",
+        "progress_percentage": 0
+      },
+      "penalty": {
+        "home": 0,
+        "away": 0,
+        "home_map": [],
+        "away_map": []
+      },
+      "has_lineups": false
+    },
+    {
+      "match_id": 4773551,
+      "competition": {
+        "id": 151,
+        "name": "الدوري الأسترالي للدرجة الأولى",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/league-logo/151",
+        "url_name": "a-league",
+        "has_standings": true
+      },
+      "home_team": {
+        "name": "سيدني",
+        "url_name": "sydney-fc",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/2206",
+        "score": 0,
+        "is_winner": false
+      },
+      "away_team": {
+        "name": "ويسترن سيدني واندررز",
+        "url_name": "western-sydney-wanderers",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/9949",
+        "score": 0,
+        "is_winner": false
+      },
+      "time": {
+        "start": "2026-10-16T12:00:00+03:00",
+        "start_timestamp": 1792141200000,
+        "estimated_end_timestamp": 1792143900000,
+        "current_minute": 13,
+        "countdown_seconds": null
+      },
+      "status": {
+        "code": "LIVE",
+        "text_ar": "الشوط الأول",
+        "phase": "first_half",
+        "progress_percentage": 14.444444444444443
+      },
+      "penalty": {
+        "home": 0,
+        "away": 0,
+        "home_map": [],
+        "away_map": []
+      },
+      "has_lineups": true
+    },
+    {
+      "match_id": 4663648,
+      "competition": {
+        "id": 5664,
+        "name": "الدرجة الاولى",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/league-logo/5664",
+        "url_name": "super-league",
+        "has_standings": true
+      },
+      "home_team": {
+        "name": "سورخون ترمذ",
+        "url_name": "surkhon-termez",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/15164",
+        "score": 0,
+        "is_winner": false
+      },
+      "away_team": {
+        "name": "هورازم أورغانش",
+        "url_name": "xorazm-urganch",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/15160",
+        "score": 0,
+        "is_winner": false
+      },
+      "time": {
+        "start": "2026-10-16T17:00:00+03:00",
+        "start_timestamp": 1792159200000,
+        "estimated_end_timestamp": 1792165500000,
+        "current_minute": 0,
+        "countdown_seconds": 16527
+      },
+      "status": {
+        "code": "UPCOMING",
+        "text_ar": "5:00 م",
+        "phase": "pre_match",
+        "progress_percentage": 0
+      },
+      "penalty": {
+        "home": 0,
+        "away": 0,
+        "home_map": [],
+        "away_map": []
+      },
+      "has_lineups": false
+    },
+    {
+      "match_id": 4663651,
+      "competition": {
+        "id": 5664,
+        "name": "الدرجة الاولى",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/league-logo/5664",
+        "url_name": "super-league",
+        "has_standings": true
+      },
+      "home_team": {
+        "name": "قوقند-1912",
+        "url_name": "qo‘qon-fk",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/19979",
+        "score": 0,
+        "is_winner": false
+      },
+      "away_team": {
+        "name": "نيفتشي فرغانة",
+        "url_name": "neftchi-fargona",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/15105",
+        "score": 0,
+        "is_winner": false
+      },
+      "time": {
+        "start": "2026-10-16T17:00:00+03:00",
+        "start_timestamp": 1792159200000,
+        "estimated_end_timestamp": 1792165500000,
+        "current_minute": 0,
+        "countdown_seconds": 16527
+      },
+      "status": {
+        "code": "UPCOMING",
+        "text_ar": "5:00 م",
+        "phase": "pre_match",
+        "progress_percentage": 0
+      },
+      "penalty": {
+        "home": 0,
+        "away": 0,
+        "home_map": [],
+        "away_map": []
+      },
+      "has_lineups": false
+    },
+    {
+      "match_id": 4663653,
+      "competition": {
+        "id": 5664,
+        "name": "الدرجة الاولى",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/league-logo/5664",
+        "url_name": "super-league",
+        "has_standings": true
+      },
+      "home_team": {
+        "name": "بونيودكور",
+        "url_name": "fc-bunyodkor",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/7209",
+        "score": 0,
+        "is_winner": false
+      },
+      "away_team": {
+        "name": "سوغديانا جيزاخ",
+        "url_name": "sogdiana-jizzakh",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/15107",
+        "score": 0,
+        "is_winner": false
+      },
+      "time": {
+        "start": "2026-10-16T17:00:00+03:00",
+        "start_timestamp": 1792159200000,
+        "estimated_end_timestamp": 1792165500000,
+        "current_minute": 0,
+        "countdown_seconds": 16527
+      },
+      "status": {
+        "code": "UPCOMING",
+        "text_ar": "5:00 م",
+        "phase": "pre_match",
+        "progress_percentage": 0
+      },
+      "penalty": {
+        "home": 0,
+        "away": 0,
+        "home_map": [],
+        "away_map": []
+      },
+      "has_lineups": false
+    },
+    {
+      "match_id": 4633246,
+      "competition": {
+        "id": 72,
+        "name": "الدوري الأرجنتيني الممتاز",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/league-logo/72",
+        "url_name": "liga-profesional",
+        "has_standings": true
+      },
+      "home_team": {
+        "name": "أوراكان",
+        "url_name": "huracan",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/884",
+        "score": 1,
+        "is_winner": false
+      },
+      "away_team": {
+        "name": "Gimnasia La Plata",
+        "url_name": "gimnasia-la-plata",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/880",
+        "score": 2,
+        "is_winner": true
+      },
+      "time": {
+        "start": "2026-10-16T02:00:00+03:00",
+        "start_timestamp": 1792105200000,
+        "estimated_end_timestamp": 1792111500000,
+        "current_minute": 90,
+        "countdown_seconds": null
+      },
+      "status": {
+        "code": "FINISHED",
+        "text_ar": "انتهت",
+        "phase": "full_time",
+        "progress_percentage": 100
+      },
+      "penalty": {
+        "home": 0,
+        "away": 0,
+        "home_map": [],
+        "away_map": []
+      },
+      "has_lineups": true
+    },
+    {
+      "match_id": 4876367,
+      "competition": {
+        "id": 321,
+        "name": "المباريات الودية للأندية",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/league-logo/321",
+        "url_name": "club-friendlies",
+        "has_standings": false
+      },
+      "home_team": {
+        "name": "بيليندزونا",
+        "url_name": "ac-bellinzona",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/1149",
+        "score": 0,
+        "is_winner": false
+      },
+      "away_team": {
+        "name": "Collina D'oro",
+        "url_name": "collina-d'oro",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/76727",
+        "score": 0,
+        "is_winner": false
+      },
+      "time": {
+        "start": "2026-10-16T20:30:00+03:00",
+        "start_timestamp": 1792171800000,
+        "estimated_end_timestamp": 1792178100000,
+        "current_minute": 0,
+        "countdown_seconds": 29127
+      },
+      "status": {
+        "code": "UPCOMING",
+        "text_ar": "8:30 م",
+        "phase": "pre_match",
+        "progress_percentage": 0
+      },
+      "penalty": {
+        "home": 0,
+        "away": 0,
+        "home_map": [],
+        "away_map": []
+      },
+      "has_lineups": false
+    },
+    {
+      "match_id": 4746099,
+      "competition": {
+        "id": 1,
+        "name": "تشامبيونشيب",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/league-logo/1",
+        "url_name": "championship",
+        "has_standings": true
+      },
+      "home_team": {
+        "name": "بيرنلي",
+        "url_name": "burnley",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/12",
+        "score": 0,
+        "is_winner": false
+      },
+      "away_team": {
+        "name": "وولفرهامبتون",
+        "url_name": "wolves",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/15",
+        "score": 0,
+        "is_winner": false
+      },
+      "time": {
+        "start": "2026-10-16T22:00:00+03:00",
+        "start_timestamp": 1792177200000,
+        "estimated_end_timestamp": 1792183500000,
+        "current_minute": 0,
+        "countdown_seconds": 34527
+      },
+      "status": {
+        "code": "UPCOMING",
+        "text_ar": "10:00 م",
+        "phase": "pre_match",
+        "progress_percentage": 0
+      },
+      "penalty": {
+        "home": 0,
+        "away": 0,
+        "home_map": [],
+        "away_map": []
+      },
+      "has_lineups": true
+    },
+    {
+      "match_id": 4751274,
+      "competition": {
+        "id": 12,
+        "name": "الدوري الاسباني الدرجة الثانية",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/league-logo/12",
+        "url_name": "laliga-2",
+        "has_standings": true
+      },
+      "home_team": {
+        "name": "ليجانيس",
+        "url_name": "cd-leganes",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/9242",
+        "score": 0,
+        "is_winner": false
+      },
+      "away_team": {
+        "name": "قرطبة",
+        "url_name": "cordoba",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/165",
+        "score": 0,
+        "is_winner": false
+      },
+      "time": {
+        "start": "2026-10-16T21:30:00+03:00",
+        "start_timestamp": 1792175400000,
+        "estimated_end_timestamp": 1792181700000,
+        "current_minute": 0,
+        "countdown_seconds": 32727
+      },
+      "status": {
+        "code": "UPCOMING",
+        "text_ar": "9:30 م",
+        "phase": "pre_match",
+        "progress_percentage": 0
+      },
+      "penalty": {
+        "home": 0,
+        "away": 0,
+        "home_map": [],
+        "away_map": []
+      },
+      "has_lineups": true
+    },
+    {
+      "match_id": 4784359,
+      "competition": {
+        "id": 18,
+        "name": "الدوري الإيطالي الدرجة الثانية",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/league-logo/18",
+        "url_name": "serie-b",
+        "has_standings": true
+      },
+      "home_team": {
+        "name": "هيلاس فيرونا",
+        "url_name": "hellas-verona",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/316",
+        "score": 0,
+        "is_winner": false
+      },
+      "away_team": {
+        "name": "كاتانزارو",
+        "url_name": "catanzaro",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/9947",
+        "score": 0,
+        "is_winner": false
+      },
+      "time": {
+        "start": "2026-10-16T21:30:00+03:00",
+        "start_timestamp": 1792175400000,
+        "estimated_end_timestamp": 1792181700000,
+        "current_minute": 0,
+        "countdown_seconds": 32727
+      },
+      "status": {
+        "code": "UPCOMING",
+        "text_ar": "9:30 م",
+        "phase": "pre_match",
+        "progress_percentage": 0
+      },
+      "penalty": {
+        "home": 0,
+        "away": 0,
+        "home_map": [],
+        "away_map": []
+      },
+      "has_lineups": true
+    },
+    {
+      "match_id": 4757647,
+      "competition": {
+        "id": 26,
+        "name": "الدوري الألماني الدرجة الثانية",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/league-logo/26",
+        "url_name": "bundesliga-2",
+        "has_standings": true
+      },
+      "home_team": {
+        "name": "إنيرغي كوتبوس",
+        "url_name": "energie-cottbus",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/9914",
+        "score": 0,
+        "is_winner": false
+      },
+      "away_team": {
+        "name": "نورنبيرج",
+        "url_name": "fc-nurnberg",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/346",
+        "score": 0,
+        "is_winner": false
+      },
+      "time": {
+        "start": "2026-10-16T19:30:00+03:00",
+        "start_timestamp": 1792168200000,
+        "estimated_end_timestamp": 1792174500000,
+        "current_minute": 0,
+        "countdown_seconds": 25527
+      },
+      "status": {
+        "code": "UPCOMING",
+        "text_ar": "7:30 م",
+        "phase": "pre_match",
+        "progress_percentage": 0
+      },
+      "penalty": {
+        "home": 0,
+        "away": 0,
+        "home_map": [],
+        "away_map": []
+      },
+      "has_lineups": true
+    },
+    {
+      "match_id": 4757650,
+      "competition": {
+        "id": 26,
+        "name": "الدوري الألماني الدرجة الثانية",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/league-logo/26",
+        "url_name": "bundesliga-2",
+        "has_standings": true
+      },
+      "home_team": {
+        "name": "هولشتاين كيل",
+        "url_name": "holstein-kiel",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/430",
+        "score": 0,
+        "is_winner": false
+      },
+      "away_team": {
+        "name": "هرتا برلين",
+        "url_name": "hertha-berlin",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/342",
+        "score": 0,
+        "is_winner": false
+      },
+      "time": {
+        "start": "2026-10-16T19:30:00+03:00",
+        "start_timestamp": 1792168200000,
+        "estimated_end_timestamp": 1792174500000,
+        "current_minute": 0,
+        "countdown_seconds": 25527
+      },
+      "status": {
+        "code": "UPCOMING",
+        "text_ar": "7:30 م",
+        "phase": "pre_match",
+        "progress_percentage": 0
+      },
+      "penalty": {
+        "home": 0,
+        "away": 0,
+        "home_map": [],
+        "away_map": []
+      },
+      "has_lineups": true
+    },
+    {
+      "match_id": 4735525,
+      "competition": {
+        "id": 36,
+        "name": "الدوري الفرنسي - الدرجة الثانية",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/league-logo/36",
+        "url_name": "ligue-2",
+        "has_standings": true
+      },
+      "home_team": {
+        "name": "ستاد ريمس",
+        "url_name": "reims",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/499",
+        "score": 0,
+        "is_winner": false
+      },
+      "away_team": {
+        "name": "ديجون",
+        "url_name": "dijon",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/502",
+        "score": 0,
+        "is_winner": false
+      },
+      "time": {
+        "start": "2026-10-16T21:00:00+03:00",
+        "start_timestamp": 1792173600000,
+        "estimated_end_timestamp": 1792179900000,
+        "current_minute": 0,
+        "countdown_seconds": 30927
+      },
+      "status": {
+        "code": "UPCOMING",
+        "text_ar": "9:00 م",
+        "phase": "pre_match",
+        "progress_percentage": 0
+      },
+      "penalty": {
+        "home": 0,
+        "away": 0,
+        "home_map": [],
+        "away_map": []
+      },
+      "has_lineups": false
+    },
+    {
+      "match_id": 4735529,
+      "competition": {
+        "id": 36,
+        "name": "الدوري الفرنسي - الدرجة الثانية",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/league-logo/36",
+        "url_name": "ligue-2",
+        "has_standings": true
+      },
+      "home_team": {
+        "name": "لافال",
+        "url_name": "laval",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/5434",
+        "score": 0,
+        "is_winner": false
+      },
+      "away_team": {
+        "name": "كليرمون",
+        "url_name": "clermont-foot",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/490",
+        "score": 0,
+        "is_winner": false
+      },
+      "time": {
+        "start": "2026-10-16T21:00:00+03:00",
+        "start_timestamp": 1792173600000,
+        "estimated_end_timestamp": 1792179900000,
+        "current_minute": 0,
+        "countdown_seconds": 30927
+      },
+      "status": {
+        "code": "UPCOMING",
+        "text_ar": "9:00 م",
+        "phase": "pre_match",
+        "progress_percentage": 0
+      },
+      "penalty": {
+        "home": 0,
+        "away": 0,
+        "home_map": [],
+        "away_map": []
+      },
+      "has_lineups": false
+    },
+    {
+      "match_id": 4735530,
+      "competition": {
+        "id": 36,
+        "name": "الدوري الفرنسي - الدرجة الثانية",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/league-logo/36",
+        "url_name": "ligue-2",
+        "has_standings": true
+      },
+      "home_team": {
+        "name": "جانجون",
+        "url_name": "guingamp",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/496",
+        "score": 0,
+        "is_winner": false
+      },
+      "away_team": {
+        "name": "باو",
+        "url_name": "pau-fc",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/7046",
+        "score": 0,
+        "is_winner": false
+      },
+      "time": {
+        "start": "2026-10-16T21:00:00+03:00",
+        "start_timestamp": 1792173600000,
+        "estimated_end_timestamp": 1792179900000,
+        "current_minute": 0,
+        "countdown_seconds": 30927
+      },
+      "status": {
+        "code": "UPCOMING",
+        "text_ar": "9:00 م",
+        "phase": "pre_match",
+        "progress_percentage": 0
+      },
+      "penalty": {
+        "home": 0,
+        "away": 0,
+        "home_map": [],
+        "away_map": []
+      },
+      "has_lineups": false
+    },
+    {
+      "match_id": 4735531,
+      "competition": {
+        "id": 36,
+        "name": "الدوري الفرنسي - الدرجة الثانية",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/league-logo/36",
+        "url_name": "ligue-2",
+        "has_standings": true
+      },
+      "home_team": {
+        "name": "غرينوبل",
+        "url_name": "grenoble",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/487",
+        "score": 0,
+        "is_winner": false
+      },
+      "away_team": {
+        "name": "بولون",
+        "url_name": "boulogne",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/500",
+        "score": 0,
+        "is_winner": false
+      },
+      "time": {
+        "start": "2026-10-16T21:00:00+03:00",
+        "start_timestamp": 1792173600000,
+        "estimated_end_timestamp": 1792179900000,
+        "current_minute": 0,
+        "countdown_seconds": 30927
+      },
+      "status": {
+        "code": "UPCOMING",
+        "text_ar": "9:00 م",
+        "phase": "pre_match",
+        "progress_percentage": 0
+      },
+      "penalty": {
+        "home": 0,
+        "away": 0,
+        "home_map": [],
+        "away_map": []
+      },
+      "has_lineups": false
+    },
+    {
+      "match_id": 4735532,
+      "competition": {
+        "id": 36,
+        "name": "الدوري الفرنسي - الدرجة الثانية",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/league-logo/36",
+        "url_name": "ligue-2",
+        "has_standings": true
+      },
+      "home_team": {
+        "name": "آنيسي",
+        "url_name": "fc-annecy",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/16743",
+        "score": 0,
+        "is_winner": false
+      },
+      "away_team": {
+        "name": "نانسي",
+        "url_name": "nancy",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/467",
+        "score": 0,
+        "is_winner": false
+      },
+      "time": {
+        "start": "2026-10-16T21:00:00+03:00",
+        "start_timestamp": 1792173600000,
+        "estimated_end_timestamp": 1792179900000,
+        "current_minute": 0,
+        "countdown_seconds": 30927
+      },
+      "status": {
+        "code": "UPCOMING",
+        "text_ar": "9:00 م",
+        "phase": "pre_match",
+        "progress_percentage": 0
+      },
+      "penalty": {
+        "home": 0,
+        "away": 0,
+        "home_map": [],
+        "away_map": []
+      },
+      "has_lineups": false
+    },
+    {
+      "match_id": 4773039,
+      "competition": {
+        "id": 6994,
+        "name": "دوري المحترفين المصري - ممتاز أ",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/league-logo/6994",
+        "url_name": "second-division",
+        "has_standings": true
+      },
+      "home_team": {
+        "name": "بلدية المحلة",
+        "url_name": "baladiyyat-al-mahalla",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/19491",
+        "score": 0,
+        "is_winner": false
+      },
+      "away_team": {
+        "name": "مسار",
+        "url_name": "fc-masar",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/89524",
+        "score": 0,
+        "is_winner": false
+      },
+      "time": {
+        "start": "2026-10-16T15:30:00+03:00",
+        "start_timestamp": 1792153800000,
+        "estimated_end_timestamp": 1792160100000,
+        "current_minute": 0,
+        "countdown_seconds": 11127
+      },
+      "status": {
+        "code": "UPCOMING",
+        "text_ar": "3:30 م",
+        "phase": "pre_match",
+        "progress_percentage": 0
+      },
+      "penalty": {
+        "home": 0,
+        "away": 0,
+        "home_map": [],
+        "away_map": []
+      },
+      "has_lineups": false
+    },
+    {
+      "match_id": 4773040,
+      "competition": {
+        "id": 6994,
+        "name": "دوري المحترفين المصري - ممتاز أ",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/league-logo/6994",
+        "url_name": "second-division",
+        "has_standings": true
+      },
+      "home_team": {
+        "name": "فاركو",
+        "url_name": "pharco",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/46242",
+        "score": 0,
+        "is_winner": false
+      },
+      "away_team": {
+        "name": "مالية كفر الزيات",
+        "url_name": "maleyeit-kafr-el-zayiat",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/19481",
+        "score": 0,
+        "is_winner": false
+      },
+      "time": {
+        "start": "2026-10-16T15:30:00+03:00",
+        "start_timestamp": 1792153800000,
+        "estimated_end_timestamp": 1792160100000,
+        "current_minute": 0,
+        "countdown_seconds": 11127
+      },
+      "status": {
+        "code": "UPCOMING",
+        "text_ar": "3:30 م",
+        "phase": "pre_match",
+        "progress_percentage": 0
+      },
+      "penalty": {
+        "home": 0,
+        "away": 0,
+        "home_map": [],
+        "away_map": []
+      },
+      "has_lineups": false
+    },
+    {
+      "match_id": 4773041,
+      "competition": {
+        "id": 6994,
+        "name": "دوري المحترفين المصري - ممتاز أ",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/league-logo/6994",
+        "url_name": "second-division",
+        "has_standings": true
+      },
+      "home_team": {
+        "name": "الترسانة",
+        "url_name": "al-tersana",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/19470",
+        "score": 0,
+        "is_winner": false
+      },
+      "away_team": {
+        "name": "ميجا سبورت",
+        "url_name": "mega-sport",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/54378",
+        "score": 0,
+        "is_winner": false
+      },
+      "time": {
+        "start": "2026-10-16T15:30:00+03:00",
+        "start_timestamp": 1792153800000,
+        "estimated_end_timestamp": 1792160100000,
+        "current_minute": 0,
+        "countdown_seconds": 11127
+      },
+      "status": {
+        "code": "UPCOMING",
+        "text_ar": "3:30 م",
+        "phase": "pre_match",
+        "progress_percentage": 0
+      },
+      "penalty": {
+        "home": 0,
+        "away": 0,
+        "home_map": [],
+        "away_map": []
+      },
+      "has_lineups": false
+    },
+    {
+      "match_id": 4773042,
+      "competition": {
+        "id": 6994,
+        "name": "دوري المحترفين المصري - ممتاز أ",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/league-logo/6994",
+        "url_name": "second-division",
+        "has_standings": true
+      },
+      "home_team": {
+        "name": "بروكسي",
+        "url_name": "proxy",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/72162",
+        "score": 0,
+        "is_winner": false
+      },
+      "away_team": {
+        "name": "الانتاج الحربي",
+        "url_name": "el-entag-el-harby",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/8304",
+        "score": 0,
+        "is_winner": false
+      },
+      "time": {
+        "start": "2026-10-16T15:30:00+03:00",
+        "start_timestamp": 1792153800000,
+        "estimated_end_timestamp": 1792160100000,
+        "current_minute": 0,
+        "countdown_seconds": 11127
+      },
+      "status": {
+        "code": "UPCOMING",
+        "text_ar": "3:30 م",
+        "phase": "pre_match",
+        "progress_percentage": 0
+      },
+      "penalty": {
+        "home": 0,
+        "away": 0,
+        "home_map": [],
+        "away_map": []
+      },
+      "has_lineups": false
+    },
+    {
+      "match_id": 4773043,
+      "competition": {
+        "id": 6994,
+        "name": "دوري المحترفين المصري - ممتاز أ",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/league-logo/6994",
+        "url_name": "second-division",
+        "has_standings": true
+      },
+      "home_team": {
+        "name": "السكة الحديد",
+        "url_name": "el-sekka-el-hadid",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/19463",
+        "score": 0,
+        "is_winner": false
+      },
+      "away_team": {
+        "name": "الإسماعيلي",
+        "url_name": "ismaily",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/8299",
+        "score": 0,
+        "is_winner": false
+      },
+      "time": {
+        "start": "2026-10-16T15:30:00+03:00",
+        "start_timestamp": 1792153800000,
+        "estimated_end_timestamp": 1792160100000,
+        "current_minute": 0,
+        "countdown_seconds": 11127
+      },
+      "status": {
+        "code": "UPCOMING",
+        "text_ar": "3:30 م",
+        "phase": "pre_match",
+        "progress_percentage": 0
+      },
+      "penalty": {
+        "home": 0,
+        "away": 0,
+        "home_map": [],
+        "away_map": []
+      },
+      "has_lineups": false
+    },
+    {
+      "match_id": 4875686,
+      "competition": {
+        "id": 5449,
+        "name": "الدوري الإماراتي الدرجة الأولى",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/league-logo/5449",
+        "url_name": "division-1",
+        "has_standings": true
+      },
+      "home_team": {
+        "name": "غلف يونايتد",
+        "url_name": "gulf-united",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/77392",
+        "score": 0,
+        "is_winner": false
+      },
+      "away_team": {
+        "name": "الإمارات",
+        "url_name": "emirates-club",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/8651",
+        "score": 0,
+        "is_winner": false
+      },
+      "time": {
+        "start": "2026-10-16T16:00:00+03:00",
+        "start_timestamp": 1792155600000,
+        "estimated_end_timestamp": 1792161900000,
+        "current_minute": 0,
+        "countdown_seconds": 12927
+      },
+      "status": {
+        "code": "UPCOMING",
+        "text_ar": "4:00 م",
+        "phase": "pre_match",
+        "progress_percentage": 0
+      },
+      "penalty": {
+        "home": 0,
+        "away": 0,
+        "home_map": [],
+        "away_map": []
+      },
+      "has_lineups": false
+    },
+    {
+      "match_id": 4875687,
+      "competition": {
+        "id": 5449,
+        "name": "الدوري الإماراتي الدرجة الأولى",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/league-logo/5449",
+        "url_name": "division-1",
+        "has_standings": true
+      },
+      "home_team": {
+        "name": "العروبة",
+        "url_name": "al-urooba",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/11565",
+        "score": 0,
+        "is_winner": false
+      },
+      "away_team": {
+        "name": "دبا الحصن",
+        "url_name": "dubba-al-husun",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/10904",
+        "score": 0,
+        "is_winner": false
+      },
+      "time": {
+        "start": "2026-10-16T16:00:00+03:00",
+        "start_timestamp": 1792155600000,
+        "estimated_end_timestamp": 1792161900000,
+        "current_minute": 0,
+        "countdown_seconds": 12927
+      },
+      "status": {
+        "code": "UPCOMING",
+        "text_ar": "4:00 م",
+        "phase": "pre_match",
+        "progress_percentage": 0
+      },
+      "penalty": {
+        "home": 0,
+        "away": 0,
+        "home_map": [],
+        "away_map": []
+      },
+      "has_lineups": false
+    },
+    {
+      "match_id": 4877194,
+      "competition": {
+        "id": 5449,
+        "name": "الدوري الإماراتي الدرجة الأولى",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/league-logo/5449",
+        "url_name": "division-1",
+        "has_standings": true
+      },
+      "home_team": {
+        "name": "الفجيرة",
+        "url_name": "al-fujairah-club",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/10028",
+        "score": 0,
+        "is_winner": false
+      },
+      "away_team": {
+        "name": "بالم سيتي",
+        "url_name": "palm-city",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/92285",
+        "score": 0,
+        "is_winner": false
+      },
+      "time": {
+        "start": "2026-10-16T16:00:00+03:00",
+        "start_timestamp": 1792155600000,
+        "estimated_end_timestamp": 1792161900000,
+        "current_minute": 0,
+        "countdown_seconds": 12927
+      },
+      "status": {
+        "code": "UPCOMING",
+        "text_ar": "4:00 م",
+        "phase": "pre_match",
+        "progress_percentage": 0
+      },
+      "penalty": {
+        "home": 0,
+        "away": 0,
+        "home_map": [],
+        "away_map": []
+      },
+      "has_lineups": false
+    },
+    {
+      "match_id": 4679366,
+      "competition": {
+        "id": 323,
+        "name": "تصفيات يورو تحت 17",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/league-logo/323",
+        "url_name": "euro-u17-qualification",
+        "has_standings": true
+      },
+      "home_team": {
+        "name": "Belarus U17",
+        "url_name": "belarus-u17",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/5247",
+        "score": 0,
+        "is_winner": false
+      },
+      "away_team": {
+        "name": "Slovenia U17",
+        "url_name": "slovenia-u17",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/5233",
+        "score": 0,
+        "is_winner": false
+      },
+      "time": {
+        "start": "2026-10-16T13:00:00+03:00",
+        "start_timestamp": 1792144800000,
+        "estimated_end_timestamp": 1792151100000,
+        "current_minute": 0,
+        "countdown_seconds": 2127
+      },
+      "status": {
+        "code": "UPCOMING",
+        "text_ar": "1:00 م",
+        "phase": "pre_match",
+        "progress_percentage": 0
+      },
+      "penalty": {
+        "home": 0,
+        "away": 0,
+        "home_map": [],
+        "away_map": []
+      },
+      "has_lineups": false
+    },
+    {
+      "match_id": 4679367,
+      "competition": {
+        "id": 323,
+        "name": "تصفيات يورو تحت 17",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/league-logo/323",
+        "url_name": "euro-u17-qualification",
+        "has_standings": true
+      },
+      "home_team": {
+        "name": "جمهورية التشيك تحت 17",
+        "url_name": "czechia-u17",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/5232",
+        "score": 0,
+        "is_winner": false
+      },
+      "away_team": {
+        "name": "Moldova U17",
+        "url_name": "moldova-u17",
+        "logo": "https://phantom-pro-theme.malik-web.net/assets/team-logo/5222",
+        "score": 0,
+        "is_winner": false
+      },
+      "time": {
+        "start": "2026-10-16T13:00:00+03:00",
+        "start_timestamp": 1792144800000,
+        "estimated_end_timestamp": 1792151100000,
+        "current_minute": 0,
+        "countdown_seconds": 2127
+      },
+      "status": {
+        "code": "UPCOMING",
+        "text_ar": "1:00 م",
+        "phase": "pre_match",
+        "progress_percentage": 0
+      },
+      "penalty": {
+        "home": 0,
+        "away": 0,
+        "home_map": [],
+        "away_map": []
+      },
+      "has_lineups": false
+    }
+  ]
+}
