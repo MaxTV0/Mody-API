@@ -3,6 +3,10 @@ name: Update Today's Matches
 permissions:
   contents: write
 
+concurrency:
+  group: update-matches
+  cancel-in-progress: false
+
 on:
   schedule:
     - cron: "*/5 * * * *"
@@ -33,17 +37,26 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+
           git add data/
-          if git diff --quiet && git diff --staged --quiet; then
+
+          if git diff --cached --quiet; then
             echo "No changes to commit"
             exit 0
           fi
+
+          git fetch origin main
+          LOCAL_SHA=$(git rev-parse HEAD)
+          REMOTE_SHA=$(git rev-parse origin/main)
           LAST_MSG=$(git log -1 --pretty=%s)
-          if [ "$LAST_MSG" = "chore: live update [skip ci]" ]; then
+
+          if [ "$LOCAL_SHA" = "$REMOTE_SHA" ] && [ "$LAST_MSG" = "chore: live update [skip ci]" ]; then
+            echo "Amending last automated commit"
             git commit --amend --no-edit -m "chore: live update [skip ci]"
-            git push --force-with-lease
+            git push --force-with-lease origin main
           else
+            echo "Creating new commit"
             git commit -m "chore: live update [skip ci]"
             git pull --rebase origin main
-            git push
+            git push origin main
           fi
