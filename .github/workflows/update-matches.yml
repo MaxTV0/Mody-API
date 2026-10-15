@@ -1,5 +1,8 @@
 name: Update Today's Matches
 
+permissions:
+  contents: write
+
 on:
   schedule:
     - cron: "0 * * * *"
