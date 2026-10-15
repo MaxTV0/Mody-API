@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-15T18:10:09.615694+00:00",
+    "generated_at": "2026-10-15T18:28:01.501251+00:00",
     "date": "2026-10-15",
     "total_matches": 72,
     "source": "messisporat.com"
@@ -1048,7 +1048,7 @@
       "time": {
         "start": "2026-10-15T18:30",
         "end": "2026-10-15T20:30",
-        "current_minute": 69,
+        "current_minute": 87,
         "timezone": "+02:00"
       },
       "status": {
@@ -1073,12 +1073,12 @@
         "name": "ألكمار",
         "logo": "https://www.messisporat.com/assets/images/team-logo/team-logo.php?id=699",
         "color": "#D83638",
-        "score": 1
+        "score": 2
       },
       "time": {
         "start": "2026-10-15T18:45",
         "end": "2026-10-15T20:45",
-        "current_minute": 68,
+        "current_minute": 86,
         "timezone": "+02:00"
       },
       "status": {
@@ -1108,7 +1108,7 @@
       "time": {
         "start": "2026-10-15T18:45",
         "end": "2026-10-15T20:45",
-        "current_minute": 67,
+        "current_minute": 85,
         "timezone": "+02:00"
       },
       "status": {
@@ -1138,7 +1138,7 @@
       "time": {
         "start": "2026-10-15T18:45",
         "end": "2026-10-15T20:45",
-        "current_minute": 65,
+        "current_minute": 83,
         "timezone": "+02:00"
       },
       "status": {
@@ -1157,7 +1157,7 @@
         "name": "سندرلاند",
         "logo": "https://www.messisporat.com/assets/images/team-logo/team-logo.php?id=117",
         "color": "#FFFFFF",
-        "score": 0
+        "score": 1
       },
       "away_team": {
         "name": "توريينسي",
@@ -1168,7 +1168,7 @@
       "time": {
         "start": "2026-10-15T18:45",
         "end": "2026-10-15T20:45",
-        "current_minute": 66,
+        "current_minute": 84,
         "timezone": "+02:00"
       },
       "status": {
@@ -1187,18 +1187,18 @@
         "name": "كريستال بالاس",
         "logo": "https://www.messisporat.com/assets/images/team-logo/team-logo.php?id=10",
         "color": "#E0DEDE",
-        "score": 1
+        "score": 2
       },
       "away_team": {
         "name": "أولمبيك ليون",
         "logo": "https://www.messisporat.com/assets/images/team-logo/team-logo.php?id=465",
         "color": "#FFFFFF",
-        "score": 2
+        "score": 3
       },
       "time": {
         "start": "2026-10-15T18:45",
         "end": "2026-10-15T20:45",
-        "current_minute": 65,
+        "current_minute": 83,
         "timezone": "+02:00"
       },
       "status": {
@@ -1228,7 +1228,7 @@
       "time": {
         "start": "2026-10-15T18:45",
         "end": "2026-10-15T20:45",
-        "current_minute": 69,
+        "current_minute": 87,
         "timezone": "+02:00"
       },
       "status": {
@@ -1247,7 +1247,7 @@
         "name": "أومونيا نيقوسيا",
         "logo": "https://www.messisporat.com/assets/images/team-logo/team-logo.php?id=2262",
         "color": "#2A656D",
-        "score": 2
+        "score": 3
       },
       "away_team": {
         "name": "تسيليى",
@@ -1258,7 +1258,7 @@
       "time": {
         "start": "2026-10-15T18:45",
         "end": "2026-10-15T20:45",
-        "current_minute": 67,
+        "current_minute": 85,
         "timezone": "+02:00"
       },
       "status": {
@@ -1277,7 +1277,7 @@
         "name": "ميلان",
         "logo": "https://www.messisporat.com/assets/images/team-logo/team-logo.php?id=227",
         "color": "#FF0000",
-        "score": 3
+        "score": 4
       },
       "away_team": {
         "name": "ريد بول سالزبورغ",
@@ -1288,7 +1288,7 @@
       "time": {
         "start": "2026-10-15T18:45",
         "end": "2026-10-15T20:45",
-        "current_minute": 69,
+        "current_minute": 87,
         "timezone": "+02:00"
       },
       "status": {
@@ -1307,7 +1307,7 @@
         "name": "خيتافي",
         "logo": "https://www.messisporat.com/assets/images/team-logo/team-logo.php?id=140",
         "color": "#063BA1",
-        "score": 0
+        "score": 1
       },
       "away_team": {
         "name": "أونيفرسيتاتيا كرايوفا",
@@ -1318,7 +1318,7 @@
       "time": {
         "start": "2026-10-15T18:45",
         "end": "2026-10-15T20:45",
-        "current_minute": 69,
+        "current_minute": 87,
         "timezone": "+02:00"
       },
       "status": {
@@ -1348,7 +1348,7 @@
       "time": {
         "start": "2026-10-15T18:45",
         "end": "2026-10-15T20:45",
-        "current_minute": 67,
+        "current_minute": 85,
         "timezone": "+02:00"
       },
       "status": {
@@ -1373,12 +1373,12 @@
         "name": "سيسكا - صوفيا",
         "logo": "https://www.messisporat.com/assets/images/team-logo/team-logo.php?id=2276",
         "color": "#BD0F21",
-        "score": 0
+        "score": 1
       },
       "time": {
         "start": "2026-10-15T18:45",
         "end": "2026-10-15T20:45",
-        "current_minute": 66,
+        "current_minute": 84,
         "timezone": "+02:00"
       },
       "status": {
@@ -1397,18 +1397,18 @@
         "name": "بوراك بانيالوكا",
         "logo": "https://www.messisporat.com/assets/images/team-logo/team-logo.php?id=7528",
         "color": "#E7001E",
-        "score": 0
+        "score": 1
       },
       "away_team": {
         "name": "باناثينيكوس",
         "logo": "https://www.messisporat.com/assets/images/team-logo/team-logo.php?id=1022",
         "color": "#01564F",
-        "score": 1
+        "score": 2
       },
       "time": {
         "start": "2026-10-15T18:45",
         "end": "2026-10-15T20:45",
-        "current_minute": 65,
+        "current_minute": 83,
         "timezone": "+02:00"
       },
       "status": {
@@ -1438,7 +1438,7 @@
       "time": {
         "start": "2026-10-15T18:45",
         "end": "2026-10-15T20:45",
-        "current_minute": 68,
+        "current_minute": 85,
         "timezone": "+02:00"
       },
       "status": {
@@ -1468,7 +1468,7 @@
       "time": {
         "start": "2026-10-15T18:45",
         "end": "2026-10-15T20:45",
-        "current_minute": 68,
+        "current_minute": 85,
         "timezone": "+02:00"
       },
       "status": {
@@ -1498,7 +1498,7 @@
       "time": {
         "start": "2026-10-15T18:45",
         "end": "2026-10-15T20:45",
-        "current_minute": 66,
+        "current_minute": 84,
         "timezone": "+02:00"
       },
       "status": {
@@ -1528,7 +1528,7 @@
       "time": {
         "start": "2026-10-15T18:45",
         "end": "2026-10-15T20:45",
-        "current_minute": 69,
+        "current_minute": 87,
         "timezone": "+02:00"
       },
       "status": {
@@ -1558,12 +1558,12 @@
       "time": {
         "start": "2026-10-15T18:45",
         "end": "2026-10-15T20:45",
-        "current_minute": 66,
+        "current_minute": 46,
         "timezone": "+02:00"
       },
       "status": {
-        "code": "SECOND_HALF",
-        "text_ar": "الشوط الثاني"
+        "code": "متوقّف",
+        "text_ar": "متوقّف"
       }
     },
     {
@@ -1577,7 +1577,7 @@
         "name": "النجم الأحمر",
         "logo": "https://www.messisporat.com/assets/images/team-logo/team-logo.php?id=8957",
         "color": "#FFFFFF",
-        "score": 1
+        "score": 2
       },
       "away_team": {
         "name": "لوغانو",
@@ -1588,7 +1588,7 @@
       "time": {
         "start": "2026-10-15T18:45",
         "end": "2026-10-15T20:45",
-        "current_minute": 65,
+        "current_minute": 83,
         "timezone": "+02:00"
       },
       "status": {
