@@ -1,0 +1,131 @@
+{
+  "meta": {
+    "date": "2026-11-11",
+    "total_matches": 4,
+    "generated_at": "2026-11-11T18:38:55.208945+00:00",
+    "source": "messisporat.com",
+    "timezone": "+00:00"
+  },
+  "matches": [
+    {
+      "match_id": 4876152,
+      "competition": {
+        "id": 570,
+        "name": "المباريات الودية الدولية",
+        "logo": "https://www.messisporat.com/assets/images/cup-logo/cup-logo.php?id=570"
+      },
+      "home_team": {
+        "name": "الصين تايبيه",
+        "logo": "https://www.messisporat.com/assets/images/team-logo/team-logo.php?id=8509",
+        "color": "#0008FF",
+        "score": 0
+      },
+      "away_team": {
+        "name": "فيتنام",
+        "logo": "https://www.messisporat.com/assets/images/team-logo/team-logo.php?id=5462",
+        "color": "#E70808",
+        "score": 2
+      },
+      "time": {
+        "start": "2026-11-11T12:00",
+        "end": "2026-11-11T14:00",
+        "current_minute": 90,
+        "timezone": "+00:00"
+      },
+      "status": {
+        "code": "FINISHED",
+        "text_ar": "انتهت"
+      }
+    },
+    {
+      "match_id": 4892297,
+      "competition": {
+        "id": 321,
+        "name": "المباريات الودية للأندية",
+        "logo": "https://www.messisporat.com/assets/images/cup-logo/cup-logo.php?id=321"
+      },
+      "home_team": {
+        "name": "Preußen Münster II",
+        "logo": "https://www.messisporat.com/assets/images/team-logo/team-logo.php?id=90057",
+        "color": "#c7d0d8",
+        "score": 5
+      },
+      "away_team": {
+        "name": "فيدنبروك 2000",
+        "logo": "https://www.messisporat.com/assets/images/team-logo/team-logo.php?id=8536",
+        "color": "#D9D9D9",
+        "score": 2
+      },
+      "time": {
+        "start": "2026-11-11T17:00",
+        "end": "2026-11-11T19:00",
+        "current_minute": 82,
+        "timezone": "+00:00"
+      },
+      "status": {
+        "code": "SECOND_HALF",
+        "text_ar": "الشوط الثاني"
+      }
+    },
+    {
+      "match_id": 4891855,
+      "competition": {
+        "id": 321,
+        "name": "المباريات الودية للأندية",
+        "logo": "https://www.messisporat.com/assets/images/cup-logo/cup-logo.php?id=321"
+      },
+      "home_team": {
+        "name": "ألمانيا آخن",
+        "logo": "https://www.messisporat.com/assets/images/team-logo/team-logo.php?id=357",
+        "color": "#000000",
+        "score": 3
+      },
+      "away_team": {
+        "name": "فيغبيرغ بيك 1920",
+        "logo": "https://www.messisporat.com/assets/images/team-logo/team-logo.php?id=428",
+        "color": "#FF0000",
+        "score": 0
+      },
+      "time": {
+        "start": "2026-11-11T18:00",
+        "end": "2026-11-11T20:00",
+        "current_minute": 37,
+        "timezone": "+00:00"
+      },
+      "status": {
+        "code": "FIRST_HALF",
+        "text_ar": "الشوط الأول"
+      }
+    },
+    {
+      "match_id": 4892298,
+      "competition": {
+        "id": 321,
+        "name": "المباريات الودية للأندية",
+        "logo": "https://www.messisporat.com/assets/images/cup-logo/cup-logo.php?id=321"
+      },
+      "home_team": {
+        "name": "سانتا كلارا",
+        "logo": "https://www.messisporat.com/assets/images/team-logo/team-logo.php?id=935",
+        "color": "#FF0000",
+        "score": 0
+      },
+      "away_team": {
+        "name": "بلد الوليد",
+        "logo": "https://www.messisporat.com/assets/images/team-logo/team-logo.php?id=141",
+        "color": "#EDE8EE",
+        "score": 0
+      },
+      "time": {
+        "start": "2026-11-11T19:00",
+        "end": "2026-11-11T21:00",
+        "current_minute": -1,
+        "timezone": "+00:00"
+      },
+      "status": {
+        "code": "SCHEDULED",
+        "text_ar": "لم تبدأ"
+      }
+    }
+  ]
+}
