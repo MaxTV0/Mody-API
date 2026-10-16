@@ -1,12 +1,17 @@
 {
   "meta": {
-    "updated_at": "2026-10-16T11:59:33.925632+00:00",
-    "total_days": 31,
-    "total_matches_all_days": 1627,
+    "updated_at": "2026-10-17T16:20:37.910054+00:00",
+    "total_days": 32,
+    "total_matches_all_days": 1755,
     "oldest_date": "2026-09-16",
-    "newest_date": "2026-10-16"
+    "newest_date": "2026-10-17"
   },
   "days": [
+    {
+      "date": "2026-10-17",
+      "total_matches": 128,
+      "url": "https://raw.githubusercontent.com/MaxTV0/Mody-API/main/data/daily/2026-10-17.json"
+    },
     {
       "date": "2026-10-16",
       "total_matches": 43,
