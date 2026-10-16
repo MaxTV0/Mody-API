@@ -1,0 +1,1691 @@
+{
+  "meta": {
+    "date": "2026-10-20",
+    "total_matches": 56,
+    "generated_at": "2026-10-20T21:35:52.957646+00:00",
+    "source": "messisporat.com",
+    "timezone": "+00:00"
+  },
+  "matches": [
+    {
+      "match_id": 4876789,
+      "competition": {
+        "id": 559,
+        "name": "الدوري الليبي - المجموعات",
+        "logo": "https://www.messisporat.com/assets/images/cup-logo/cup-logo.php?id=559"
+      },
+      "home_team": {
+        "name": "الأهلي طرابلس",
+        "logo": "https://www.messisporat.com/assets/images/team-logo/team-logo.php?id=8259",
+        "color": "#1A7C13",
+        "score": 0
+      },
+      "away_team": {
+        "name": "الشموع",
+        "logo": "https://www.messisporat.com/assets/images/team-logo/team-logo.php?id=93008",
+        "color": "#7f97ab",
+        "score": 0
+      },
+      "time": {
+        "start": "2026-10-20T00:00",
+        "end": "2026-10-20T02:00",
+        "current_minute": -1,
+        "timezone": "+00:00"
+      },
+      "status": {
+        "code": "POSTPONED",
+        "text_ar": "تأجلت"
+      }
+    },
+    {
+      "match_id": 4876790,
+      "competition": {
+        "id": 559,
+        "name": "الدوري الليبي - المجموعات",
+        "logo": "https://www.messisporat.com/assets/images/cup-logo/cup-logo.php?id=559"
+      },
+      "home_team": {
+        "name": "الصباح",
+        "logo": "https://www.messisporat.com/assets/images/team-logo/team-logo.php?id=93004",
+        "color": "#c7d0d8",
+        "score": 0
+      },
+      "away_team": {
+        "name": "السويحلي",
+        "logo": "https://www.messisporat.com/assets/images/team-logo/team-logo.php?id=8267",
+        "color": "#7f97ab",
+        "score": 0
+      },
+      "time": {
+        "start": "2026-10-20T00:00",
+        "end": "2026-10-20T02:00",
+        "current_minute": -1,
+        "timezone": "+00:00"
+      },
+      "status": {
+        "code": "POSTPONED",
+        "text_ar": "تأجلت"
+      }
+    },
+    {
+      "match_id": 4633254,
+      "competition": {
+        "id": 72,
+        "name": "الدوري الأرجنتيني الممتاز - Clausura",
+        "logo": "https://www.messisporat.com/assets/images/cup-logo/cup-logo.php?id=72"
+      },
+      "home_team": {
+        "name": "Union Santa Fe",
+        "logo": "https://www.messisporat.com/assets/images/team-logo/team-logo.php?id=7206",
+        "color": "#E93F2D",
+        "score": 1
+      },
+      "away_team": {
+        "name": "Riestra",
+        "logo": "https://www.messisporat.com/assets/images/team-logo/team-logo.php?id=11940",
+        "color": "#28272C",
+        "score": 1
+      },
+      "time": {
+        "start": "2026-10-20T00:15",
+        "end": "2026-10-20T02:15",
+        "current_minute": 90,
+        "timezone": "+00:00"
+      },
+      "status": {
+        "code": "FINISHED",
+        "text_ar": "انتهت"
+      }
+    },
+    {
+      "match_id": 4829044,
+      "competition": {
+        "id": 6297,
+        "name": "دوري أبطال أوروبا للشباب",
+        "logo": "https://www.messisporat.com/assets/images/cup-logo/cup-logo.php?id=6297"
+      },
+      "home_team": {
+        "name": "آيندهوفن تحت 19",
+        "logo": "https://www.messisporat.com/assets/images/team-logo/team-logo.php?id=27527",
+        "color": "#c7d0d8",
+        "score": 1
+      },
+      "away_team": {
+        "name": "Porto U19",
+        "logo": "https://www.messisporat.com/assets/images/team-logo/team-logo.php?id=27489",
+        "color": "#FFFFFF",
+        "score": 3
+      },
+      "time": {
+        "start": "2026-10-20T11:00",
+        "end": "2026-10-20T13:00",
+        "current_minute": 90,
+        "timezone": "+00:00"
+      },
+      "status": {
+        "code": "FINISHED",
+        "text_ar": "انتهت"
+      }
+    },
+    {
+      "match_id": 4829046,
+      "competition": {
+        "id": 6297,
+        "name": "دوري أبطال أوروبا للشباب",
+        "logo": "https://www.messisporat.com/assets/images/cup-logo/cup-logo.php?id=6297"
+      },
+      "home_team": {
+        "name": "دورتموند تحت 19",
+        "logo": "https://www.messisporat.com/assets/images/team-logo/team-logo.php?id=44908",
+        "color": "#F2F200",
+        "score": 2
+      },
+      "away_team": {
+        "name": "Sabah Baku FK U19",
+        "logo": "https://www.messisporat.com/assets/images/team-logo/team-logo.php?id=84773",
+        "color": "#7f97ab",
+        "score": 0
+      },
+      "time": {
+        "start": "2026-10-20T11:00",
+        "end": "2026-10-20T13:00",
+        "current_minute": 90,
+        "timezone": "+00:00"
+      },
+      "status": {
+        "code": "FINISHED",
+        "text_ar": "انتهت"
+      }
+    },
+    {
+      "match_id": 4829877,
+      "competition": {
+        "id": 6297,
+        "name": "دوري أبطال أوروبا للشباب",
+        "logo": "https://www.messisporat.com/assets/images/cup-logo/cup-logo.php?id=6297"
+      },
+      "home_team": {
+        "name": "سلافيا براغ تحت 19",
+        "logo": "https://www.messisporat.com/assets/images/team-logo/team-logo.php?id=57086",
+        "color": "#c7d0d8",
+        "score": 3
+      },
+      "away_team": {
+        "name": "Fenerbahçe U19",
+        "logo": "https://www.messisporat.com/assets/images/team-logo/team-logo.php?id=90240",
+        "color": "#7f97ab",
+        "score": 1
+      },
+      "time": {
+        "start": "2026-10-20T11:00",
+        "end": "2026-10-20T13:00",
+        "current_minute": 90,
+        "timezone": "+00:00"
+      },
+      "status": {
+        "code": "FINISHED",
+        "text_ar": "انتهت"
+      }
+    },
+    {
+      "match_id": 4875951,
+      "competition": {
+        "id": 8135,
+        "name": "دوري التحدي الآسيوي",
+        "logo": "https://www.messisporat.com/assets/images/cup-logo/cup-logo.php?id=8135"
+      },
+      "home_team": {
+        "name": "النجمة",
+        "logo": "https://www.messisporat.com/assets/images/team-logo/team-logo.php?id=8291",
+        "color": "#C12032",
+        "score": 1
+      },
+      "away_team": {
+        "name": "حمص الفداء",
+        "logo": "https://www.messisporat.com/assets/images/team-logo/team-logo.php?id=8331",
+        "color": "#F90606",
+        "score": 2
+      },
+      "time": {
+        "start": "2026-10-20T11:00",
+        "end": "2026-10-20T13:00",
+        "current_minute": 90,
+        "timezone": "+00:00"
+      },
+      "status": {
+        "code": "FINISHED",
+        "text_ar": "انتهت"
+      }
+    },
+    {
+      "match_id": 4829040,
+      "competition": {
+        "id": 6297,
+        "name": "دوري أبطال أوروبا للشباب",
+        "logo": "https://www.messisporat.com/assets/images/cup-logo/cup-logo.php?id=6297"
+      },
+      "home_team": {
+        "name": "Bodø / Glimt U19",
+        "logo": "https://www.messisporat.com/assets/images/team-logo/team-logo.php?id=90618",
+        "color": "#c7d0d8",
+        "score": 0
+      },
+      "away_team": {
+        "name": "نابولي تحت 19",
+        "logo": "https://www.messisporat.com/assets/images/team-logo/team-logo.php?id=44899",
+        "color": "#66CCFF",
+        "score": 1
+      },
+      "time": {
+        "start": "2026-10-20T12:00",
+        "end": "2026-10-20T14:00",
+        "current_minute": 90,
+        "timezone": "+00:00"
+      },
+      "status": {
+        "code": "FINISHED",
+        "text_ar": "انتهت"
+      }
+    },
+    {
+      "match_id": 4829041,
+      "competition": {
+        "id": 6297,
+        "name": "دوري أبطال أوروبا للشباب",
+        "logo": "https://www.messisporat.com/assets/images/cup-logo/cup-logo.php?id=6297"
+      },
+      "home_team": {
+        "name": "برشلونة تحت 19",
+        "logo": "https://www.messisporat.com/assets/images/team-logo/team-logo.php?id=27492",
+        "color": "#CC0000",
+        "score": 1
+      },
+      "away_team": {
+        "name": "باريس تحت 19",
+        "logo": "https://www.messisporat.com/assets/images/team-logo/team-logo.php?id=27524",
+        "color": "#000066",
+        "score": 1
+      },
+      "time": {
+        "start": "2026-10-20T12:00",
+        "end": "2026-10-20T14:00",
+        "current_minute": 90,
+        "timezone": "+00:00"
+      },
+      "status": {
+        "code": "FINISHED",
+        "text_ar": "انتهت"
+      }
+    },
+    {
+      "match_id": 4829045,
+      "competition": {
+        "id": 6297,
+        "name": "دوري أبطال أوروبا للشباب",
+        "logo": "https://www.messisporat.com/assets/images/cup-logo/cup-logo.php?id=6297"
+      },
+      "home_team": {
+        "name": "Slovan Bratislava U19",
+        "logo": "https://www.messisporat.com/assets/images/team-logo/team-logo.php?id=57161",
+        "color": "#c7d0d8",
+        "score": 0
+      },
+      "away_team": {
+        "name": "روما تحت 19",
+        "logo": "https://www.messisporat.com/assets/images/team-logo/team-logo.php?id=27487",
+        "color": "#990000",
+        "score": 5
+      },
+      "time": {
+        "start": "2026-10-20T12:00",
+        "end": "2026-10-20T14:00",
+        "current_minute": 90,
+        "timezone": "+00:00"
+      },
+      "status": {
+        "code": "FINISHED",
+        "text_ar": "انتهت"
+      }
+    },
+    {
+      "match_id": 4875944,
+      "competition": {
+        "id": 8135,
+        "name": "دوري التحدي الآسيوي",
+        "logo": "https://www.messisporat.com/assets/images/cup-logo/cup-logo.php?id=8135"
+      },
+      "home_team": {
+        "name": "الأنصار",
+        "logo": "https://www.messisporat.com/assets/images/team-logo/team-logo.php?id=8288",
+        "color": "#119400",
+        "score": 2
+      },
+      "away_team": {
+        "name": "بارو",
+        "logo": "https://www.messisporat.com/assets/images/team-logo/team-logo.php?id=57617",
+        "color": "#FF0000",
+        "score": 1
+      },
+      "time": {
+        "start": "2026-10-20T12:00",
+        "end": "2026-10-20T14:00",
+        "current_minute": 90,
+        "timezone": "+00:00"
+      },
+      "status": {
+        "code": "FINISHED",
+        "text_ar": "انتهت"
+      }
+    },
+    {
+      "match_id": 4829039,
+      "competition": {
+        "id": 6297,
+        "name": "دوري أبطال أوروبا للشباب",
+        "logo": "https://www.messisporat.com/assets/images/cup-logo/cup-logo.php?id=6297"
+      },
+      "home_team": {
+        "name": "أتليتكو مدريد تحت 19",
+        "logo": "https://www.messisporat.com/assets/images/team-logo/team-logo.php?id=27526",
+        "color": "#FFFFFF",
+        "score": 4
+      },
+      "away_team": {
+        "name": "Stuttgart U19",
+        "logo": "https://www.messisporat.com/assets/images/team-logo/team-logo.php?id=82901",
+        "color": "#7f97ab",
+        "score": 2
+      },
+      "time": {
+        "start": "2026-10-20T13:00",
+        "end": "2026-10-20T15:00",
+        "current_minute": 90,
+        "timezone": "+00:00"
+      },
+      "status": {
+        "code": "FINISHED",
+        "text_ar": "انتهت"
+      }
+    },
+    {
+      "match_id": 4876791,
+      "competition": {
+        "id": 559,
+        "name": "الدوري الليبي - المجموعات",
+        "logo": "https://www.messisporat.com/assets/images/cup-logo/cup-logo.php?id=559"
+      },
+      "home_team": {
+        "name": "الهلال",
+        "logo": "https://www.messisporat.com/assets/images/team-logo/team-logo.php?id=8263",
+        "color": "#c7d0d8",
+        "score": 2
+      },
+      "away_team": {
+        "name": "التعاون",
+        "logo": "https://www.messisporat.com/assets/images/team-logo/team-logo.php?id=30276",
+        "color": "#7f97ab",
+        "score": 2
+      },
+      "time": {
+        "start": "2026-10-20T13:00",
+        "end": "2026-10-20T15:00",
+        "current_minute": 90,
+        "timezone": "+00:00"
+      },
+      "status": {
+        "code": "FINISHED",
+        "text_ar": "انتهت"
+      }
+    },
+    {
+      "match_id": 4876794,
+      "competition": {
+        "id": 559,
+        "name": "الدوري الليبي - المجموعات",
+        "logo": "https://www.messisporat.com/assets/images/cup-logo/cup-logo.php?id=559"
+      },
+      "home_team": {
+        "name": "الأفريقي",
+        "logo": "https://www.messisporat.com/assets/images/team-logo/team-logo.php?id=93007",
+        "color": "#c7d0d8",
+        "score": 0
+      },
+      "away_team": {
+        "name": "دارنس",
+        "logo": "https://www.messisporat.com/assets/images/team-logo/team-logo.php?id=8317",
+        "color": "#7f97ab",
+        "score": 1
+      },
+      "time": {
+        "start": "2026-10-20T13:00",
+        "end": "2026-10-20T15:00",
+        "current_minute": 90,
+        "timezone": "+00:00"
+      },
+      "status": {
+        "code": "FINISHED",
+        "text_ar": "انتهت"
+      }
+    },
+    {
+      "match_id": 4875957,
+      "competition": {
+        "id": 8135,
+        "name": "دوري التحدي الآسيوي",
+        "logo": "https://www.messisporat.com/assets/images/cup-logo/cup-logo.php?id=8135"
+      },
+      "home_team": {
+        "name": "غوا",
+        "logo": "https://www.messisporat.com/assets/images/team-logo/team-logo.php?id=21985",
+        "color": "#F06418",
+        "score": 2
+      },
+      "away_team": {
+        "name": "فورتيس",
+        "logo": "https://www.messisporat.com/assets/images/team-logo/team-logo.php?id=73180",
+        "color": "#7f97ab",
+        "score": 1
+      },
+      "time": {
+        "start": "2026-10-20T13:25",
+        "end": "2026-10-20T15:25",
+        "current_minute": 90,
+        "timezone": "+00:00"
+      },
+      "status": {
+        "code": "FINISHED",
+        "text_ar": "انتهت"
+      }
+    },
+    {
+      "match_id": 4876786,
+      "competition": {
+        "id": 559,
+        "name": "الدوري الليبي - المجموعات",
+        "logo": "https://www.messisporat.com/assets/images/cup-logo/cup-logo.php?id=559"
+      },
+      "home_team": {
+        "name": "المدينة",
+        "logo": "https://www.messisporat.com/assets/images/team-logo/team-logo.php?id=8260",
+        "color": "#c7d0d8",
+        "score": 3
+      },
+      "away_team": {
+        "name": "الاتحاد المصراتي",
+        "logo": "https://www.messisporat.com/assets/images/team-logo/team-logo.php?id=49764",
+        "color": "#7f97ab",
+        "score": 2
+      },
+      "time": {
+        "start": "2026-10-20T13:30",
+        "end": "2026-10-20T15:30",
+        "current_minute": 90,
+        "timezone": "+00:00"
+      },
+      "status": {
+        "code": "FINISHED",
+        "text_ar": "انتهت"
+      }
+    },
+    {
+      "match_id": 4804707,
+      "competition": {
+        "id": 552,
+        "name": "الدوري المصري",
+        "logo": "https://www.messisporat.com/assets/images/cup-logo/cup-logo.php?id=552"
+      },
+      "home_team": {
+        "name": "الزمالك",
+        "logo": "https://www.messisporat.com/assets/images/team-logo/team-logo.php?id=8201",
+        "color": "#FFFFFF",
+        "score": 1
+      },
+      "away_team": {
+        "name": "بترول اسيوط",
+        "logo": "https://www.messisporat.com/assets/images/team-logo/team-logo.php?id=12254",
+        "color": "#1427B8",
+        "score": 0
+      },
+      "time": {
+        "start": "2026-10-20T14:00",
+        "end": "2026-10-20T16:00",
+        "current_minute": 90,
+        "timezone": "+00:00"
+      },
+      "status": {
+        "code": "FINISHED",
+        "text_ar": "انتهت"
+      }
+    },
+    {
+      "match_id": 4804718,
+      "competition": {
+        "id": 552,
+        "name": "الدوري المصري",
+        "logo": "https://www.messisporat.com/assets/images/cup-logo/cup-logo.php?id=552"
+      },
+      "home_team": {
+        "name": "مودرن سبورت",
+        "logo": "https://www.messisporat.com/assets/images/team-logo/team-logo.php?id=50877",
+        "color": "#48933E",
+        "score": 2
+      },
+      "away_team": {
+        "name": "زد",
+        "logo": "https://www.messisporat.com/assets/images/team-logo/team-logo.php?id=29732",
+        "color": "#990000",
+        "score": 3
+      },
+      "time": {
+        "start": "2026-10-20T14:00",
+        "end": "2026-10-20T16:00",
+        "current_minute": 90,
+        "timezone": "+00:00"
+      },
+      "status": {
+        "code": "FINISHED",
+        "text_ar": "انتهت"
+      }
+    },
+    {
+      "match_id": 4829042,
+      "competition": {
+        "id": 6297,
+        "name": "دوري أبطال أوروبا للشباب",
+        "logo": "https://www.messisporat.com/assets/images/cup-logo/cup-logo.php?id=6297"
+      },
+      "home_team": {
+        "name": "AEK U19",
+        "logo": "https://www.messisporat.com/assets/images/team-logo/team-logo.php?id=54189",
+        "color": "#c7d0d8",
+        "score": 1
+      },
+      "away_team": {
+        "name": "مانشستر سيتي تحت 19",
+        "logo": "https://www.messisporat.com/assets/images/team-logo/team-logo.php?id=27511",
+        "color": "#33CCFF",
+        "score": 1
+      },
+      "time": {
+        "start": "2026-10-20T14:00",
+        "end": "2026-10-20T16:00",
+        "current_minute": 90,
+        "timezone": "+00:00"
+      },
+      "status": {
+        "code": "FINISHED",
+        "text_ar": "انتهت"
+      }
+    },
+    {
+      "match_id": 4829043,
+      "competition": {
+        "id": 6297,
+        "name": "دوري أبطال أوروبا للشباب",
+        "logo": "https://www.messisporat.com/assets/images/cup-logo/cup-logo.php?id=6297"
+      },
+      "home_team": {
+        "name": "Villarreal U19",
+        "logo": "https://www.messisporat.com/assets/images/team-logo/team-logo.php?id=68902",
+        "color": "#c7d0d8",
+        "score": 0
+      },
+      "away_team": {
+        "name": "ليفربول تحت 19",
+        "logo": "https://www.messisporat.com/assets/images/team-logo/team-logo.php?id=49710",
+        "color": "#A20109",
+        "score": 0
+      },
+      "time": {
+        "start": "2026-10-20T14:00",
+        "end": "2026-10-20T16:00",
+        "current_minute": 90,
+        "timezone": "+00:00"
+      },
+      "status": {
+        "code": "FINISHED",
+        "text_ar": "انتهت"
+      }
+    },
+    {
+      "match_id": 4875950,
+      "competition": {
+        "id": 8135,
+        "name": "دوري التحدي الآسيوي",
+        "logo": "https://www.messisporat.com/assets/images/cup-logo/cup-logo.php?id=8135"
+      },
+      "home_team": {
+        "name": "العربي",
+        "logo": "https://www.messisporat.com/assets/images/team-logo/team-logo.php?id=10297",
+        "color": "#1A8E3E",
+        "score": 0
+      },
+      "away_team": {
+        "name": "استقلال دوشنبه",
+        "logo": "https://www.messisporat.com/assets/images/team-logo/team-logo.php?id=20237",
+        "color": "#7F1C25",
+        "score": 2
+      },
+      "time": {
+        "start": "2026-10-20T14:00",
+        "end": "2026-10-20T16:00",
+        "current_minute": 90,
+        "timezone": "+00:00"
+      },
+      "status": {
+        "code": "FINISHED",
+        "text_ar": "انتهت"
+      }
+    },
+    {
+      "match_id": 4795582,
+      "competition": {
+        "id": 5502,
+        "name": "دوري الدرجة الأولى السعودي",
+        "logo": "https://www.messisporat.com/assets/images/cup-logo/cup-logo.php?id=5502"
+      },
+      "home_team": {
+        "name": "النجمة",
+        "logo": "https://www.messisporat.com/assets/images/team-logo/team-logo.php?id=24240",
+        "color": "#FF0000",
+        "score": 4
+      },
+      "away_team": {
+        "name": "هجر",
+        "logo": "https://www.messisporat.com/assets/images/team-logo/team-logo.php?id=8944",
+        "color": "#000000",
+        "score": 2
+      },
+      "time": {
+        "start": "2026-10-20T14:45",
+        "end": "2026-10-20T16:45",
+        "current_minute": 90,
+        "timezone": "+00:00"
+      },
+      "status": {
+        "code": "FINISHED",
+        "text_ar": "انتهت"
+      }
+    },
+    {
+      "match_id": 4789447,
+      "competition": {
+        "id": 649,
+        "name": "الدوري السعودي",
+        "logo": "https://www.messisporat.com/assets/images/cup-logo/cup-logo.php?id=649"
+      },
+      "home_team": {
+        "name": "الرياض",
+        "logo": "https://www.messisporat.com/assets/images/team-logo/team-logo.php?id=12135",
+        "color": "#FF0000",
+        "score": 0
+      },
+      "away_team": {
+        "name": "الدرعية",
+        "logo": "https://www.messisporat.com/assets/images/team-logo/team-logo.php?id=13801",
+        "color": "#0A5309",
+        "score": 1
+      },
+      "time": {
+        "start": "2026-10-20T15:00",
+        "end": "2026-10-20T17:00",
+        "current_minute": 90,
+        "timezone": "+00:00"
+      },
+      "status": {
+        "code": "FINISHED",
+        "text_ar": "انتهت"
+      }
+    },
+    {
+      "match_id": 4875943,
+      "competition": {
+        "id": 8135,
+        "name": "دوري التحدي الآسيوي",
+        "logo": "https://www.messisporat.com/assets/images/cup-logo/cup-logo.php?id=8135"
+      },
+      "home_team": {
+        "name": "أهال",
+        "logo": "https://www.messisporat.com/assets/images/team-logo/team-logo.php?id=24017",
+        "color": "#FFFFFF",
+        "score": 1
+      },
+      "away_team": {
+        "name": "أهلي حلب",
+        "logo": "https://www.messisporat.com/assets/images/team-logo/team-logo.php?id=6323",
+        "color": "#D81818",
+        "score": 5
+      },
+      "time": {
+        "start": "2026-10-20T15:00",
+        "end": "2026-10-20T17:00",
+        "current_minute": 90,
+        "timezone": "+00:00"
+      },
+      "status": {
+        "code": "FINISHED",
+        "text_ar": "انتهت"
+      }
+    },
+    {
+      "match_id": 4789448,
+      "competition": {
+        "id": 649,
+        "name": "الدوري السعودي",
+        "logo": "https://www.messisporat.com/assets/images/cup-logo/cup-logo.php?id=649"
+      },
+      "home_team": {
+        "name": "القادسية",
+        "logo": "https://www.messisporat.com/assets/images/team-logo/team-logo.php?id=8947",
+        "color": "#F72D39",
+        "score": 1
+      },
+      "away_team": {
+        "name": "التعاون",
+        "logo": "https://www.messisporat.com/assets/images/team-logo/team-logo.php?id=8941",
+        "color": "#F2F22C",
+        "score": 0
+      },
+      "time": {
+        "start": "2026-10-20T15:10",
+        "end": "2026-10-20T17:10",
+        "current_minute": 90,
+        "timezone": "+00:00"
+      },
+      "status": {
+        "code": "FINISHED",
+        "text_ar": "انتهت"
+      }
+    },
+    {
+      "match_id": 4795581,
+      "competition": {
+        "id": 5502,
+        "name": "دوري الدرجة الأولى السعودي",
+        "logo": "https://www.messisporat.com/assets/images/cup-logo/cup-logo.php?id=5502"
+      },
+      "home_team": {
+        "name": "البكيرية",
+        "logo": "https://www.messisporat.com/assets/images/team-logo/team-logo.php?id=55798",
+        "color": "#FFFFFF",
+        "score": 1
+      },
+      "away_team": {
+        "name": "العروبة",
+        "logo": "https://www.messisporat.com/assets/images/team-logo/team-logo.php?id=13344",
+        "color": "#EACD4D",
+        "score": 1
+      },
+      "time": {
+        "start": "2026-10-20T15:20",
+        "end": "2026-10-20T17:20",
+        "current_minute": 90,
+        "timezone": "+00:00"
+      },
+      "status": {
+        "code": "FINISHED",
+        "text_ar": "انتهت"
+      }
+    },
+    {
+      "match_id": 4828465,
+      "competition": {
+        "id": 572,
+        "name": "دوري أبطال اوروبا",
+        "logo": "https://www.messisporat.com/assets/images/cup-logo/cup-logo.php?id=572"
+      },
+      "home_team": {
+        "name": "سلافيا براغ",
+        "logo": "https://www.messisporat.com/assets/images/team-logo/team-logo.php?id=1789",
+        "color": "#FFFFFF",
+        "score": 2
+      },
+      "away_team": {
+        "name": "فنربخشة",
+        "logo": "https://www.messisporat.com/assets/images/team-logo/team-logo.php?id=946",
+        "color": "#D8D237",
+        "score": 2
+      },
+      "time": {
+        "start": "2026-10-20T16:45",
+        "end": "2026-10-20T18:45",
+        "current_minute": 90,
+        "timezone": "+00:00"
+      },
+      "status": {
+        "code": "FINISHED",
+        "text_ar": "انتهت"
+      }
+    },
+    {
+      "match_id": 4828466,
+      "competition": {
+        "id": 572,
+        "name": "دوري أبطال اوروبا",
+        "logo": "https://www.messisporat.com/assets/images/cup-logo/cup-logo.php?id=572"
+      },
+      "home_team": {
+        "name": "بوروسيا دورتموند",
+        "logo": "https://www.messisporat.com/assets/images/team-logo/team-logo.php?id=341",
+        "color": "#FFDA27",
+        "score": 2
+      },
+      "away_team": {
+        "name": "صباح",
+        "logo": "https://www.messisporat.com/assets/images/team-logo/team-logo.php?id=50201",
+        "color": "#FF0000",
+        "score": 1
+      },
+      "time": {
+        "start": "2026-10-20T16:45",
+        "end": "2026-10-20T18:45",
+        "current_minute": 90,
+        "timezone": "+00:00"
+      },
+      "status": {
+        "code": "FINISHED",
+        "text_ar": "انتهت"
+      }
+    },
+    {
+      "match_id": 4795580,
+      "competition": {
+        "id": 5502,
+        "name": "دوري الدرجة الأولى السعودي",
+        "logo": "https://www.messisporat.com/assets/images/cup-logo/cup-logo.php?id=5502"
+      },
+      "home_team": {
+        "name": "العدالة",
+        "logo": "https://www.messisporat.com/assets/images/team-logo/team-logo.php?id=30662",
+        "color": "#312A93",
+        "score": 3
+      },
+      "away_team": {
+        "name": "الأخدود",
+        "logo": "https://www.messisporat.com/assets/images/team-logo/team-logo.php?id=55794",
+        "color": "#FFFFFF",
+        "score": 1
+      },
+      "time": {
+        "start": "2026-10-20T16:50",
+        "end": "2026-10-20T18:50",
+        "current_minute": 90,
+        "timezone": "+00:00"
+      },
+      "status": {
+        "code": "FINISHED",
+        "text_ar": "انتهت"
+      }
+    },
+    {
+      "match_id": 4804710,
+      "competition": {
+        "id": 552,
+        "name": "الدوري المصري",
+        "logo": "https://www.messisporat.com/assets/images/cup-logo/cup-logo.php?id=552"
+      },
+      "home_team": {
+        "name": "البنك الاهلي",
+        "logo": "https://www.messisporat.com/assets/images/team-logo/team-logo.php?id=50527",
+        "color": "#EE7A23",
+        "score": 1
+      },
+      "away_team": {
+        "name": "وادي دجلة",
+        "logo": "https://www.messisporat.com/assets/images/team-logo/team-logo.php?id=8311",
+        "color": "#DED113",
+        "score": 1
+      },
+      "time": {
+        "start": "2026-10-20T17:00",
+        "end": "2026-10-20T19:00",
+        "current_minute": 90,
+        "timezone": "+00:00"
+      },
+      "status": {
+        "code": "FINISHED",
+        "text_ar": "انتهت"
+      }
+    },
+    {
+      "match_id": 4804711,
+      "competition": {
+        "id": 552,
+        "name": "الدوري المصري",
+        "logo": "https://www.messisporat.com/assets/images/cup-logo/cup-logo.php?id=552"
+      },
+      "home_team": {
+        "name": "بيراميدز",
+        "logo": "https://www.messisporat.com/assets/images/team-logo/team-logo.php?id=22143",
+        "color": "#993333",
+        "score": 4
+      },
+      "away_team": {
+        "name": "طلائع الجيش",
+        "logo": "https://www.messisporat.com/assets/images/team-logo/team-logo.php?id=8306",
+        "color": "#D90909",
+        "score": 1
+      },
+      "time": {
+        "start": "2026-10-20T17:00",
+        "end": "2026-10-20T19:00",
+        "current_minute": 90,
+        "timezone": "+00:00"
+      },
+      "status": {
+        "code": "FINISHED",
+        "text_ar": "انتهت"
+      }
+    },
+    {
+      "match_id": 4876787,
+      "competition": {
+        "id": 559,
+        "name": "الدوري الليبي - المجموعات",
+        "logo": "https://www.messisporat.com/assets/images/cup-logo/cup-logo.php?id=559"
+      },
+      "home_team": {
+        "name": "الملعب الليبي",
+        "logo": "https://www.messisporat.com/assets/images/team-logo/team-logo.php?id=78095",
+        "color": "#c7d0d8",
+        "score": 0
+      },
+      "away_team": {
+        "name": "الإتحاد",
+        "logo": "https://www.messisporat.com/assets/images/team-logo/team-logo.php?id=8258",
+        "color": "#E41B1B",
+        "score": 3
+      },
+      "time": {
+        "start": "2026-10-20T17:00",
+        "end": "2026-10-20T19:00",
+        "current_minute": 90,
+        "timezone": "+00:00"
+      },
+      "status": {
+        "code": "FINISHED",
+        "text_ar": "انتهت"
+      }
+    },
+    {
+      "match_id": 4875956,
+      "competition": {
+        "id": 8135,
+        "name": "دوري التحدي الآسيوي",
+        "logo": "https://www.messisporat.com/assets/images/cup-logo/cup-logo.php?id=8135"
+      },
+      "home_team": {
+        "name": "القادسية",
+        "logo": "https://www.messisporat.com/assets/images/team-logo/team-logo.php?id=10292",
+        "color": "#FFCC66",
+        "score": 1
+      },
+      "away_team": {
+        "name": "ريغار تاداز",
+        "logo": "https://www.messisporat.com/assets/images/team-logo/team-logo.php?id=20243",
+        "color": "#0000FF",
+        "score": 0
+      },
+      "time": {
+        "start": "2026-10-20T17:30",
+        "end": "2026-10-20T19:30",
+        "current_minute": 90,
+        "timezone": "+00:00"
+      },
+      "status": {
+        "code": "FINISHED",
+        "text_ar": "انتهت"
+      }
+    },
+    {
+      "match_id": 4789450,
+      "competition": {
+        "id": 649,
+        "name": "الدوري السعودي",
+        "logo": "https://www.messisporat.com/assets/images/cup-logo/cup-logo.php?id=649"
+      },
+      "home_team": {
+        "name": "نيوم",
+        "logo": "https://www.messisporat.com/assets/images/team-logo/team-logo.php?id=55793",
+        "color": "#2F5593",
+        "score": 0
+      },
+      "away_team": {
+        "name": "النصر",
+        "logo": "https://www.messisporat.com/assets/images/team-logo/team-logo.php?id=7549",
+        "color": "#FFFF00",
+        "score": 1
+      },
+      "time": {
+        "start": "2026-10-20T18:00",
+        "end": "2026-10-20T20:00",
+        "current_minute": 90,
+        "timezone": "+00:00"
+      },
+      "status": {
+        "code": "FINISHED",
+        "text_ar": "انتهت"
+      }
+    },
+    {
+      "match_id": 4789454,
+      "competition": {
+        "id": 649,
+        "name": "الدوري السعودي",
+        "logo": "https://www.messisporat.com/assets/images/cup-logo/cup-logo.php?id=649"
+      },
+      "home_team": {
+        "name": "الاتحاد",
+        "logo": "https://www.messisporat.com/assets/images/team-logo/team-logo.php?id=8593",
+        "color": "#F9E71A",
+        "score": 4
+      },
+      "away_team": {
+        "name": "الاتفاق",
+        "logo": "https://www.messisporat.com/assets/images/team-logo/team-logo.php?id=8943",
+        "color": "#123F44",
+        "score": 1
+      },
+      "time": {
+        "start": "2026-10-20T18:00",
+        "end": "2026-10-20T20:00",
+        "current_minute": 90,
+        "timezone": "+00:00"
+      },
+      "status": {
+        "code": "FINISHED",
+        "text_ar": "انتهت"
+      }
+    },
+    {
+      "match_id": 4746157,
+      "competition": {
+        "id": 1,
+        "name": "تشامبيونشيب",
+        "logo": "https://www.messisporat.com/assets/images/cup-logo/cup-logo.php?id=1"
+      },
+      "home_team": {
+        "name": "بورتسموث",
+        "logo": "https://www.messisporat.com/assets/images/team-logo/team-logo.php?id=111",
+        "color": "#082892",
+        "score": 1
+      },
+      "away_team": {
+        "name": "وولفرهامبتون",
+        "logo": "https://www.messisporat.com/assets/images/team-logo/team-logo.php?id=15",
+        "color": "#FBBD37",
+        "score": 1
+      },
+      "time": {
+        "start": "2026-10-20T18:45",
+        "end": "2026-10-20T20:45",
+        "current_minute": 90,
+        "timezone": "+00:00"
+      },
+      "status": {
+        "code": "FINISHED",
+        "text_ar": "انتهت"
+      }
+    },
+    {
+      "match_id": 4747280,
+      "competition": {
+        "id": 3,
+        "name": "ليغ تو",
+        "logo": "https://www.messisporat.com/assets/images/cup-logo/cup-logo.php?id=3"
+      },
+      "home_team": {
+        "name": "أكرينغتون ستانلي",
+        "logo": "https://www.messisporat.com/assets/images/team-logo/team-logo.php?id=68",
+        "color": "#FF0000",
+        "score": 1
+      },
+      "away_team": {
+        "name": "يورك سيتي",
+        "logo": "https://www.messisporat.com/assets/images/team-logo/team-logo.php?id=86",
+        "color": "#D9D9D9",
+        "score": 1
+      },
+      "time": {
+        "start": "2026-10-20T18:45",
+        "end": "2026-10-20T20:45",
+        "current_minute": 90,
+        "timezone": "+00:00"
+      },
+      "status": {
+        "code": "FINISHED",
+        "text_ar": "انتهت"
+      }
+    },
+    {
+      "match_id": 4747281,
+      "competition": {
+        "id": 3,
+        "name": "ليغ تو",
+        "logo": "https://www.messisporat.com/assets/images/cup-logo/cup-logo.php?id=3"
+      },
+      "home_team": {
+        "name": "أولدهام اثلتيك",
+        "logo": "https://www.messisporat.com/assets/images/team-logo/team-logo.php?id=39",
+        "color": "#012093",
+        "score": 0
+      },
+      "away_team": {
+        "name": "والسال",
+        "logo": "https://www.messisporat.com/assets/images/team-logo/team-logo.php?id=32",
+        "color": "#88121E",
+        "score": 3
+      },
+      "time": {
+        "start": "2026-10-20T18:45",
+        "end": "2026-10-20T20:45",
+        "current_minute": 90,
+        "timezone": "+00:00"
+      },
+      "status": {
+        "code": "FINISHED",
+        "text_ar": "انتهت"
+      }
+    },
+    {
+      "match_id": 4747282,
+      "competition": {
+        "id": 3,
+        "name": "ليغ تو",
+        "logo": "https://www.messisporat.com/assets/images/cup-logo/cup-logo.php?id=3"
+      },
+      "home_team": {
+        "name": "نيوبورت كاونتي",
+        "logo": "https://www.messisporat.com/assets/images/team-logo/team-logo.php?id=7196",
+        "color": "#FDC100",
+        "score": 2
+      },
+      "away_team": {
+        "name": "روذرهام",
+        "logo": "https://www.messisporat.com/assets/images/team-logo/team-logo.php?id=57",
+        "color": "#FF0000",
+        "score": 2
+      },
+      "time": {
+        "start": "2026-10-20T18:45",
+        "end": "2026-10-20T20:45",
+        "current_minute": 90,
+        "timezone": "+00:00"
+      },
+      "status": {
+        "code": "FINISHED",
+        "text_ar": "انتهت"
+      }
+    },
+    {
+      "match_id": 4747283,
+      "competition": {
+        "id": 3,
+        "name": "ليغ تو",
+        "logo": "https://www.messisporat.com/assets/images/cup-logo/cup-logo.php?id=3"
+      },
+      "home_team": {
+        "name": "غريمسبي تاون",
+        "logo": "https://www.messisporat.com/assets/images/team-logo/team-logo.php?id=62",
+        "color": "#FFFFFF",
+        "score": 2
+      },
+      "away_team": {
+        "name": "روشديل",
+        "logo": "https://www.messisporat.com/assets/images/team-logo/team-logo.php?id=60",
+        "color": "#0055AA",
+        "score": 2
+      },
+      "time": {
+        "start": "2026-10-20T18:45",
+        "end": "2026-10-20T20:45",
+        "current_minute": 90,
+        "timezone": "+00:00"
+      },
+      "status": {
+        "code": "FINISHED",
+        "text_ar": "انتهت"
+      }
+    },
+    {
+      "match_id": 4747284,
+      "competition": {
+        "id": 3,
+        "name": "ليغ تو",
+        "logo": "https://www.messisporat.com/assets/images/cup-logo/cup-logo.php?id=3"
+      },
+      "home_team": {
+        "name": "ترانمير روفرز",
+        "logo": "https://www.messisporat.com/assets/images/team-logo/team-logo.php?id=33",
+        "color": "#FFFFFF",
+        "score": 1
+      },
+      "away_team": {
+        "name": "نورثهامبتون تاون",
+        "logo": "https://www.messisporat.com/assets/images/team-logo/team-logo.php?id=37",
+        "color": "#651825",
+        "score": 0
+      },
+      "time": {
+        "start": "2026-10-20T18:45",
+        "end": "2026-10-20T20:45",
+        "current_minute": 90,
+        "timezone": "+00:00"
+      },
+      "status": {
+        "code": "FINISHED",
+        "text_ar": "انتهت"
+      }
+    },
+    {
+      "match_id": 4747286,
+      "competition": {
+        "id": 3,
+        "name": "ليغ تو",
+        "logo": "https://www.messisporat.com/assets/images/cup-logo/cup-logo.php?id=3"
+      },
+      "home_team": {
+        "name": "كرو",
+        "logo": "https://www.messisporat.com/assets/images/team-logo/team-logo.php?id=48",
+        "color": "#660D0B",
+        "score": 0
+      },
+      "away_team": {
+        "name": "إكسيتر",
+        "logo": "https://www.messisporat.com/assets/images/team-logo/team-logo.php?id=77",
+        "color": "#CD1818",
+        "score": 2
+      },
+      "time": {
+        "start": "2026-10-20T18:45",
+        "end": "2026-10-20T20:45",
+        "current_minute": 90,
+        "timezone": "+00:00"
+      },
+      "status": {
+        "code": "FINISHED",
+        "text_ar": "انتهت"
+      }
+    },
+    {
+      "match_id": 4747287,
+      "competition": {
+        "id": 3,
+        "name": "ليغ تو",
+        "logo": "https://www.messisporat.com/assets/images/cup-logo/cup-logo.php?id=3"
+      },
+      "home_team": {
+        "name": "كولشيستر",
+        "logo": "https://www.messisporat.com/assets/images/team-logo/team-logo.php?id=27",
+        "color": "#FFFFFF",
+        "score": 1
+      },
+      "away_team": {
+        "name": "تشيسترفيلد",
+        "logo": "https://www.messisporat.com/assets/images/team-logo/team-logo.php?id=59",
+        "color": "#0541A1",
+        "score": 1
+      },
+      "time": {
+        "start": "2026-10-20T18:45",
+        "end": "2026-10-20T20:45",
+        "current_minute": 90,
+        "timezone": "+00:00"
+      },
+      "status": {
+        "code": "FINISHED",
+        "text_ar": "انتهت"
+      }
+    },
+    {
+      "match_id": 4747288,
+      "competition": {
+        "id": 3,
+        "name": "ليغ تو",
+        "logo": "https://www.messisporat.com/assets/images/cup-logo/cup-logo.php?id=3"
+      },
+      "home_team": {
+        "name": "شروزبري",
+        "logo": "https://www.messisporat.com/assets/images/team-logo/team-logo.php?id=65",
+        "color": "#03359E",
+        "score": 3
+      },
+      "away_team": {
+        "name": "كراولي تاون",
+        "logo": "https://www.messisporat.com/assets/images/team-logo/team-logo.php?id=91",
+        "color": "#D6282B",
+        "score": 2
+      },
+      "time": {
+        "start": "2026-10-20T18:45",
+        "end": "2026-10-20T20:45",
+        "current_minute": 90,
+        "timezone": "+00:00"
+      },
+      "status": {
+        "code": "FINISHED",
+        "text_ar": "انتهت"
+      }
+    },
+    {
+      "match_id": 4747289,
+      "competition": {
+        "id": 3,
+        "name": "ليغ تو",
+        "logo": "https://www.messisporat.com/assets/images/cup-logo/cup-logo.php?id=3"
+      },
+      "home_team": {
+        "name": "فليتوود تاون",
+        "logo": "https://www.messisporat.com/assets/images/team-logo/team-logo.php?id=126",
+        "color": "#A7010F",
+        "score": 2
+      },
+      "away_team": {
+        "name": "تشلتنهام",
+        "logo": "https://www.messisporat.com/assets/images/team-logo/team-logo.php?id=46",
+        "color": "#990F1C",
+        "score": 4
+      },
+      "time": {
+        "start": "2026-10-20T18:45",
+        "end": "2026-10-20T20:45",
+        "current_minute": 90,
+        "timezone": "+00:00"
+      },
+      "status": {
+        "code": "FINISHED",
+        "text_ar": "انتهت"
+      }
+    },
+    {
+      "match_id": 4747290,
+      "competition": {
+        "id": 3,
+        "name": "ليغ تو",
+        "logo": "https://www.messisporat.com/assets/images/cup-logo/cup-logo.php?id=3"
+      },
+      "home_team": {
+        "name": "سالفورد سيتي",
+        "logo": "https://www.messisporat.com/assets/images/team-logo/team-logo.php?id=22047",
+        "color": "#FF0000",
+        "score": 2
+      },
+      "away_team": {
+        "name": "بريستول روفرز",
+        "logo": "https://www.messisporat.com/assets/images/team-logo/team-logo.php?id=42",
+        "color": "#0000FF",
+        "score": 1
+      },
+      "time": {
+        "start": "2026-10-20T18:45",
+        "end": "2026-10-20T20:45",
+        "current_minute": 90,
+        "timezone": "+00:00"
+      },
+      "status": {
+        "code": "FINISHED",
+        "text_ar": "انتهت"
+      }
+    },
+    {
+      "match_id": 4747292,
+      "competition": {
+        "id": 3,
+        "name": "ليغ تو",
+        "logo": "https://www.messisporat.com/assets/images/cup-logo/cup-logo.php?id=3"
+      },
+      "home_team": {
+        "name": "سويندون تاون",
+        "logo": "https://www.messisporat.com/assets/images/team-logo/team-logo.php?id=40",
+        "color": "#CC0000",
+        "score": 3
+      },
+      "away_team": {
+        "name": "بارنت",
+        "logo": "https://www.messisporat.com/assets/images/team-logo/team-logo.php?id=69",
+        "color": "#0066FF",
+        "score": 1
+      },
+      "time": {
+        "start": "2026-10-20T18:45",
+        "end": "2026-10-20T20:45",
+        "current_minute": 90,
+        "timezone": "+00:00"
+      },
+      "status": {
+        "code": "FINISHED",
+        "text_ar": "انتهت"
+      }
+    },
+    {
+      "match_id": 4747285,
+      "competition": {
+        "id": 3,
+        "name": "ليغ تو",
+        "logo": "https://www.messisporat.com/assets/images/cup-logo/cup-logo.php?id=3"
+      },
+      "home_team": {
+        "name": "بورت فيل",
+        "logo": "https://www.messisporat.com/assets/images/team-logo/team-logo.php?id=51",
+        "color": "#FFFFFF",
+        "score": 1
+      },
+      "away_team": {
+        "name": "جيلينغهام",
+        "logo": "https://www.messisporat.com/assets/images/team-logo/team-logo.php?id=47",
+        "color": "#023DB2",
+        "score": 1
+      },
+      "time": {
+        "start": "2026-10-20T19:00",
+        "end": "2026-10-20T21:00",
+        "current_minute": 90,
+        "timezone": "+00:00"
+      },
+      "status": {
+        "code": "FINISHED",
+        "text_ar": "انتهت"
+      }
+    },
+    {
+      "match_id": 4828458,
+      "competition": {
+        "id": 572,
+        "name": "دوري أبطال اوروبا",
+        "logo": "https://www.messisporat.com/assets/images/cup-logo/cup-logo.php?id=572"
+      },
+      "home_team": {
+        "name": "فياريال",
+        "logo": "https://www.messisporat.com/assets/images/team-logo/team-logo.php?id=133",
+        "color": "#FFFF00",
+        "score": 3
+      },
+      "away_team": {
+        "name": "ليفربول",
+        "logo": "https://www.messisporat.com/assets/images/team-logo/team-logo.php?id=108",
+        "color": "#E41E2C",
+        "score": 4
+      },
+      "time": {
+        "start": "2026-10-20T19:00",
+        "end": "2026-10-20T21:00",
+        "current_minute": 90,
+        "timezone": "+00:00"
+      },
+      "status": {
+        "code": "FINISHED",
+        "text_ar": "انتهت"
+      }
+    },
+    {
+      "match_id": 4828459,
+      "competition": {
+        "id": 572,
+        "name": "دوري أبطال اوروبا",
+        "logo": "https://www.messisporat.com/assets/images/cup-logo/cup-logo.php?id=572"
+      },
+      "home_team": {
+        "name": "آيندهوفن",
+        "logo": "https://www.messisporat.com/assets/images/team-logo/team-logo.php?id=725",
+        "color": "#E51323",
+        "score": 1
+      },
+      "away_team": {
+        "name": "بورتو",
+        "logo": "https://www.messisporat.com/assets/images/team-logo/team-logo.php?id=887",
+        "color": "#FFFFFF",
+        "score": 0
+      },
+      "time": {
+        "start": "2026-10-20T19:00",
+        "end": "2026-10-20T21:00",
+        "current_minute": 90,
+        "timezone": "+00:00"
+      },
+      "status": {
+        "code": "FINISHED",
+        "text_ar": "انتهت"
+      }
+    },
+    {
+      "match_id": 4828460,
+      "competition": {
+        "id": 572,
+        "name": "دوري أبطال اوروبا",
+        "logo": "https://www.messisporat.com/assets/images/cup-logo/cup-logo.php?id=572"
+      },
+      "home_team": {
+        "name": "أتلتيكو مدريد",
+        "logo": "https://www.messisporat.com/assets/images/team-logo/team-logo.php?id=134",
+        "color": "#FFFFFF",
+        "score": 1
+      },
+      "away_team": {
+        "name": "شتوتجارت",
+        "logo": "https://www.messisporat.com/assets/images/team-logo/team-logo.php?id=338",
+        "color": "#FFFFFF",
+        "score": 1
+      },
+      "time": {
+        "start": "2026-10-20T19:00",
+        "end": "2026-10-20T21:00",
+        "current_minute": 90,
+        "timezone": "+00:00"
+      },
+      "status": {
+        "code": "FINISHED",
+        "text_ar": "انتهت"
+      }
+    },
+    {
+      "match_id": 4828461,
+      "competition": {
+        "id": 572,
+        "name": "دوري أبطال اوروبا",
+        "logo": "https://www.messisporat.com/assets/images/cup-logo/cup-logo.php?id=572"
+      },
+      "home_team": {
+        "name": "برشلونة",
+        "logo": "https://www.messisporat.com/assets/images/team-logo/team-logo.php?id=132",
+        "color": "#A50044",
+        "score": 2
+      },
+      "away_team": {
+        "name": "باريس سان جيرمان",
+        "logo": "https://www.messisporat.com/assets/images/team-logo/team-logo.php?id=480",
+        "color": "#18345E",
+        "score": 4
+      },
+      "time": {
+        "start": "2026-10-20T19:00",
+        "end": "2026-10-20T21:00",
+        "current_minute": 90,
+        "timezone": "+00:00"
+      },
+      "status": {
+        "code": "FINISHED",
+        "text_ar": "انتهت"
+      }
+    },
+    {
+      "match_id": 4828462,
+      "competition": {
+        "id": 572,
+        "name": "دوري أبطال اوروبا",
+        "logo": "https://www.messisporat.com/assets/images/cup-logo/cup-logo.php?id=572"
+      },
+      "home_team": {
+        "name": "بودو جليمت",
+        "logo": "https://www.messisporat.com/assets/images/team-logo/team-logo.php?id=1978",
+        "color": "#FDE001",
+        "score": 3
+      },
+      "away_team": {
+        "name": "نابولي",
+        "logo": "https://www.messisporat.com/assets/images/team-logo/team-logo.php?id=234",
+        "color": "#4596D9",
+        "score": 4
+      },
+      "time": {
+        "start": "2026-10-20T19:00",
+        "end": "2026-10-20T21:00",
+        "current_minute": 90,
+        "timezone": "+00:00"
+      },
+      "status": {
+        "code": "FINISHED",
+        "text_ar": "انتهت"
+      }
+    },
+    {
+      "match_id": 4828463,
+      "competition": {
+        "id": 572,
+        "name": "دوري أبطال اوروبا",
+        "logo": "https://www.messisporat.com/assets/images/cup-logo/cup-logo.php?id=572"
+      },
+      "home_team": {
+        "name": "أيك أثينا",
+        "logo": "https://www.messisporat.com/assets/images/team-logo/team-logo.php?id=1024",
+        "color": "#F9D801",
+        "score": 1
+      },
+      "away_team": {
+        "name": "مانشستر سيتي",
+        "logo": "https://www.messisporat.com/assets/images/team-logo/team-logo.php?id=110",
+        "color": "#ABD1F5",
+        "score": 5
+      },
+      "time": {
+        "start": "2026-10-20T19:00",
+        "end": "2026-10-20T21:00",
+        "current_minute": 90,
+        "timezone": "+00:00"
+      },
+      "status": {
+        "code": "FINISHED",
+        "text_ar": "انتهت"
+      }
+    },
+    {
+      "match_id": 4828464,
+      "competition": {
+        "id": 572,
+        "name": "دوري أبطال اوروبا",
+        "logo": "https://www.messisporat.com/assets/images/cup-logo/cup-logo.php?id=572"
+      },
+      "home_team": {
+        "name": "سلوفان براتيسلافا",
+        "logo": "https://www.messisporat.com/assets/images/team-logo/team-logo.php?id=2112",
+        "color": "#709CBE",
+        "score": 0
+      },
+      "away_team": {
+        "name": "روما",
+        "logo": "https://www.messisporat.com/assets/images/team-logo/team-logo.php?id=225",
+        "color": "#990000",
+        "score": 4
+      },
+      "time": {
+        "start": "2026-10-20T19:00",
+        "end": "2026-10-20T21:00",
+        "current_minute": 90,
+        "timezone": "+00:00"
+      },
+      "status": {
+        "code": "FINISHED",
+        "text_ar": "انتهت"
+      }
+    },
+    {
+      "match_id": 4857199,
+      "competition": {
+        "id": 627,
+        "name": "الكونفدرالية الافريقية - تصفيات",
+        "logo": "https://www.messisporat.com/assets/images/cup-logo/cup-logo.php?id=627"
+      },
+      "home_team": {
+        "name": "اتحاد العاصمة",
+        "logo": "https://www.messisporat.com/assets/images/team-logo/team-logo.php?id=8220",
+        "color": "#000000",
+        "score": 0
+      },
+      "away_team": {
+        "name": "ذا بانثيرس",
+        "logo": "https://www.messisporat.com/assets/images/team-logo/team-logo.php?id=10528",
+        "color": "#7f97ab",
+        "score": 0
+      },
+      "time": {
+        "start": "2026-10-20T19:00",
+        "end": "2026-10-20T21:00",
+        "current_minute": -1,
+        "timezone": "+00:00"
+      },
+      "status": {
+        "code": "الغيت",
+        "text_ar": "الغيت"
+      }
+    }
+  ]
+}

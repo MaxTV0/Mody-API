@@ -1,0 +1,221 @@
+{
+  "meta": {
+    "date": "2026-11-10",
+    "total_matches": 7,
+    "generated_at": "2026-11-10T23:43:50.960253+00:00",
+    "source": "messisporat.com",
+    "timezone": "+00:00"
+  },
+  "matches": [
+    {
+      "match_id": 4891758,
+      "competition": {
+        "id": 321,
+        "name": "المباريات الودية للأندية",
+        "logo": "https://www.messisporat.com/assets/images/cup-logo/cup-logo.php?id=321"
+      },
+      "home_team": {
+        "name": "آينتراخت براونشفايش",
+        "logo": "https://www.messisporat.com/assets/images/team-logo/team-logo.php?id=401",
+        "color": "#F0E800",
+        "score": 1
+      },
+      "away_team": {
+        "name": "بادربورن",
+        "logo": "https://www.messisporat.com/assets/images/team-logo/team-logo.php?id=366",
+        "color": "#121212",
+        "score": 4
+      },
+      "time": {
+        "start": "2026-11-10T12:00",
+        "end": "2026-11-10T14:00",
+        "current_minute": 90,
+        "timezone": "+00:00"
+      },
+      "status": {
+        "code": "FINISHED",
+        "text_ar": "انتهت"
+      }
+    },
+    {
+      "match_id": 4885276,
+      "competition": {
+        "id": 553,
+        "name": "كأس مصر - دور الـ 32",
+        "logo": "https://www.messisporat.com/assets/images/cup-logo/cup-logo.php?id=553"
+      },
+      "home_team": {
+        "name": "المصرية للاتصالات",
+        "logo": "https://www.messisporat.com/assets/images/team-logo/team-logo.php?id=54377",
+        "color": "#c7d0d8",
+        "score": 0
+      },
+      "away_team": {
+        "name": "المقاولون العرب",
+        "logo": "https://www.messisporat.com/assets/images/team-logo/team-logo.php?id=8310",
+        "color": "#FFEA00",
+        "score": 1
+      },
+      "time": {
+        "start": "2026-11-10T15:00",
+        "end": "2026-11-10T17:00",
+        "current_minute": 90,
+        "timezone": "+00:00"
+      },
+      "status": {
+        "code": "FINISHED",
+        "text_ar": "انتهت"
+      }
+    },
+    {
+      "match_id": 4870793,
+      "competition": {
+        "id": 13,
+        "name": "كأس ملك إسبانيا - الدور 1",
+        "logo": "https://www.messisporat.com/assets/images/cup-logo/cup-logo.php?id=13"
+      },
+      "home_team": {
+        "name": "ألافيس",
+        "logo": "https://www.messisporat.com/assets/images/team-logo/team-logo.php?id=168",
+        "color": "#1159A5",
+        "score": 6
+      },
+      "away_team": {
+        "name": "أنايتاسونا",
+        "logo": "https://www.messisporat.com/assets/images/team-logo/team-logo.php?id=49364",
+        "color": "#7f97ab",
+        "score": 1
+      },
+      "time": {
+        "start": "2026-11-10T18:00",
+        "end": "2026-11-10T20:00",
+        "current_minute": 90,
+        "timezone": "+00:00"
+      },
+      "status": {
+        "code": "FINISHED",
+        "text_ar": "انتهت"
+      }
+    },
+    {
+      "match_id": 4870827,
+      "competition": {
+        "id": 13,
+        "name": "كأس ملك إسبانيا - الدور 1",
+        "logo": "https://www.messisporat.com/assets/images/cup-logo/cup-logo.php?id=13"
+      },
+      "home_team": {
+        "name": "إيبار",
+        "logo": "https://www.messisporat.com/assets/images/team-logo/team-logo.php?id=164",
+        "color": "#1E2235",
+        "score": 3
+      },
+      "away_team": {
+        "name": "بامبالونا",
+        "logo": "https://www.messisporat.com/assets/images/team-logo/team-logo.php?id=17952",
+        "color": "#7f97ab",
+        "score": 0
+      },
+      "time": {
+        "start": "2026-11-10T18:00",
+        "end": "2026-11-10T20:00",
+        "current_minute": 90,
+        "timezone": "+00:00"
+      },
+      "status": {
+        "code": "FINISHED",
+        "text_ar": "انتهت"
+      }
+    },
+    {
+      "match_id": 4870806,
+      "competition": {
+        "id": 13,
+        "name": "كأس ملك إسبانيا - الدور 1",
+        "logo": "https://www.messisporat.com/assets/images/cup-logo/cup-logo.php?id=13"
+      },
+      "home_team": {
+        "name": "ريال جيان",
+        "logo": "https://www.messisporat.com/assets/images/team-logo/team-logo.php?id=9257",
+        "color": "#c7d0d8",
+        "score": 2
+      },
+      "away_team": {
+        "name": "ميخاس لاس لاغوناس",
+        "logo": "https://www.messisporat.com/assets/images/team-logo/team-logo.php?id=77950",
+        "color": "#7f97ab",
+        "score": 1
+      },
+      "time": {
+        "start": "2026-11-10T19:00",
+        "end": "2026-11-10T21:00",
+        "current_minute": 90,
+        "timezone": "+00:00"
+      },
+      "status": {
+        "code": "FINISHED",
+        "text_ar": "انتهت"
+      }
+    },
+    {
+      "match_id": 4892506,
+      "competition": {
+        "id": 13,
+        "name": "كأس ملك إسبانيا - الدور 2",
+        "logo": "https://www.messisporat.com/assets/images/cup-logo/cup-logo.php?id=13"
+      },
+      "home_team": {
+        "name": "لوغرونيس",
+        "logo": "https://www.messisporat.com/assets/images/team-logo/team-logo.php?id=7813",
+        "color": "#F40606",
+        "score": 0
+      },
+      "away_team": {
+        "name": "أموربييتا",
+        "logo": "https://www.messisporat.com/assets/images/team-logo/team-logo.php?id=9262",
+        "color": "#0000FF",
+        "score": 1
+      },
+      "time": {
+        "start": "2026-11-10T19:00",
+        "end": "2026-11-10T21:00",
+        "current_minute": 90,
+        "timezone": "+00:00"
+      },
+      "status": {
+        "code": "FINISHED",
+        "text_ar": "انتهت"
+      }
+    },
+    {
+      "match_id": 4870820,
+      "competition": {
+        "id": 13,
+        "name": "كأس ملك إسبانيا - الدور 1",
+        "logo": "https://www.messisporat.com/assets/images/cup-logo/cup-logo.php?id=13"
+      },
+      "home_team": {
+        "name": "فالنسيا",
+        "logo": "https://www.messisporat.com/assets/images/team-logo/team-logo.php?id=139",
+        "color": "#FFFFFF",
+        "score": 6
+      },
+      "away_team": {
+        "name": "تافيرنيس",
+        "logo": "https://www.messisporat.com/assets/images/team-logo/team-logo.php?id=98071",
+        "color": "#7f97ab",
+        "score": 0
+      },
+      "time": {
+        "start": "2026-11-10T20:00",
+        "end": "2026-11-10T22:00",
+        "current_minute": 90,
+        "timezone": "+00:00"
+      },
+      "status": {
+        "code": "FINISHED",
+        "text_ar": "انتهت"
+      }
+    }
+  ]
+}
