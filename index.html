@@ -2,252 +2,102 @@
 <html lang="ar" dir="rtl">
 <head>
 <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>مباريات اليوم - مباشر</title>
+<title>Mody-API</title>
 <style>
-  * { margin: 0; padding: 0; box-sizing: border-box; }
   body {
-    font-family: 'Segoe UI', Tahoma, sans-serif;
-    background: #0f172a;
-    color: #e2e8f0;
+    font-family: monospace;
+    background: #0d1117;
+    color: #c9d1d9;
     padding: 20px;
-    min-height: 100vh;
+    margin: 0;
   }
-  header {
-    text-align: center;
-    margin-bottom: 30px;
+  pre {
+    background: #161b22;
     padding: 20px;
-    background: linear-gradient(135deg, #1e293b, #334155);
-    border-radius: 12px;
-  }
-  h1 { font-size: 28px; color: #38bdf8; margin-bottom: 8px; }
-  .stats {
-    display: flex;
-    justify-content: center;
-    gap: 30px;
-    margin-top: 15px;
-    flex-wrap: wrap;
-  }
-  .stat {
-    text-align: center;
-  }
-  .stat .num {
-    font-size: 24px;
-    font-weight: bold;
-    color: #22c55e;
-  }
-  .stat .label {
+    border-radius: 8px;
+    overflow: auto;
+    white-space: pre-wrap;
+    word-break: break-word;
     font-size: 13px;
-    color: #94a3b8;
-    margin-top: 4px;
+    line-height: 1.6;
   }
-  .live-indicator {
-    display: inline-block;
-    width: 10px;
-    height: 10px;
-    background: #ef4444;
-    border-radius: 50%;
-    margin-left: 6px;
-    animation: pulse 1.5s infinite;
-  }
-  @keyframes pulse {
-    0%, 100% { opacity: 1; }
-    50% { opacity: 0.4; }
-  }
-  .competition {
-    margin-bottom: 20px;
-    background: #1e293b;
-    border-radius: 12px;
-    overflow: hidden;
-    border: 1px solid #334155;
-  }
-  .comp-header {
-    display: flex;
-    align-items: center;
-    gap: 12px;
-    padding: 15px;
-    background: #334155;
-  }
-  .comp-header img {
-    width: 32px;
-    height: 32px;
-    object-fit: contain;
-  }
-  .comp-header h2 { font-size: 18px; color: #f1f5f9; }
-  .match {
-    display: grid;
-    grid-template-columns: 1fr auto 1fr;
-    align-items: center;
-    gap: 15px;
-    padding: 15px;
-    border-top: 1px solid #334155;
-  }
-  .team {
-    display: flex;
-    align-items: center;
-    gap: 10px;
-  }
-  .team.away { flex-direction: row-reverse; text-align: left; }
-  .team img { width: 28px; height: 28px; object-fit: contain; }
-  .team .name { font-size: 14px; }
-  .score {
-    display: flex;
-    gap: 10px;
-    font-size: 20px;
-    font-weight: bold;
-    color: #fbbf24;
-  }
-  .status {
-    font-size: 12px;
-    padding: 4px 10px;
-    border-radius: 6px;
+  .loading {
+    color: #58a6ff;
+    padding: 20px;
     text-align: center;
-    margin-top: 6px;
-  }
-  .status.live {
-    background: #ef4444;
-    color: white;
-    animation: pulse 1.5s infinite;
-  }
-  .status.finished { background: #475569; color: #cbd5e1; }
-  .status.upcoming { background: #3b82f6; color: white; }
-  .status.postponed { background: #78350f; color: #fbbf24; }
-  .center-col { text-align: center; }
-  .updated {
-    text-align: center;
-    color: #64748b;
-    font-size: 12px;
-    margin-top: 20px;
+    font-size: 16px;
   }
   .error {
-    background: #7f1d1d;
+    color: #f85149;
+    background: #2d1618;
     padding: 15px;
     border-radius: 8px;
-    text-align: center;
-    color: #fecaca;
+    margin: 10px 0;
   }
 </style>
 </head>
 <body>
-
-<header>
-  <h1>⚽ مباريات اليوم <span class="live-indicator" id="liveDot" style="display:none"></span></h1>
-  <div class="stats">
-    <div class="stat">
-      <div class="num" id="totalMatches">-</div>
-      <div class="label">مباراة</div>
-    </div>
-    <div class="stat">
-      <div class="num" id="totalComps">-</div>
-      <div class="label">دوري</div>
-    </div>
-    <div class="stat">
-      <div class="num" id="liveCount" style="color:#ef4444">-</div>
-      <div class="label">مباراة مباشرة</div>
-    </div>
-  </div>
-</header>
-
-<main id="matches"></main>
-
-<div class="updated" id="updated"></div>
+<div id="output"><div class="loading">⏳ جارٍ تحميل البيانات...</div></div>
 
 <script>
-const API_URL = "https://phantom-pro-theme.malik-web.net/inc/modules/loaders/PX01MA/";
-const API_ORIGIN = "https://phantom-pro-theme.malik-web.net";
-const REFRESH_INTERVAL = 1000; // كل ثانية
-
-async function fetchMatches() {
+(async function() {
+  const output = document.getElementById('output');
+  
   try {
-    const response = await fetch(API_URL, {
-      headers: { "Accept": "application/json" }
+    // ====== قراءة معاملات الرابط ======
+    const params = new URLSearchParams(window.location.search);
+    let date = params.get('date');
+    let lang = params.get('lang') || '27';
+    let time = params.get('time');
+    
+    // إذا لم يُحدد تاريخ، استخدم تاريخ اليوم
+    if (!date) {
+      const now = new Date();
+      const y = now.getFullYear();
+      const m = String(now.getMonth() + 1).padStart(2, '0');
+      const d = String(now.getDate()).padStart(2, '0');
+      date = `${y}-${m}-${d}`;
+    }
+    
+    // إذا لم يُحدد time، احسبه من توقيت المتصفح
+    if (!time) {
+      const offset = -new Date().getTimezoneOffset();
+      const sign = offset >= 0 ? '+' : '-';
+      const abs = Math.abs(offset);
+      const hh = String(Math.floor(abs / 60)).padStart(2, '0');
+      const mm = String(abs % 60).padStart(2, '0');
+      time = `${sign}${hh}:${mm}`;
+    }
+    
+    // ====== بناء رابط المصدر ======
+    const SOURCE = 'https://www.messisporat.com/matches/npm/';
+    const fullUrl = `${SOURCE}?date=${encodeURIComponent(date)}&lang=${encodeURIComponent(lang)}&time=${encodeURIComponent(time)}`;
+    
+    // ====== جلب البيانات ======
+    const response = await fetch(fullUrl, {
+      headers: {
+        'Accept': 'application/json, text/plain, */*',
+        'Accept-Language': 'ar,en-US;q=0.9,en;q=0.8'
+      }
     });
+    
+    if (!response.ok) {
+      throw new Error(`HTTP ${response.status}: ${response.statusText}`);
+    }
+    
     const data = await response.json();
-    render(data);
+    
+    // ====== عرض البيانات كـ JSON ======
+    output.innerHTML = '<pre>' + JSON.stringify(data, null, 2) + '</pre>';
+    
   } catch (err) {
-    document.getElementById("matches").innerHTML = 
-      '<div class="error">⚠️ تعذر الاتصال بالمصدر. سيُعاد المحاولة خلال ثانية.</div>';
+    output.innerHTML = '<div class="error">❌ خطأ: ' + err.message + '</div>' +
+      '<div style="margin-top:15px;color:#8b949e">' +
+      'تأكد من صحة المعاملات. مثال:<br>' +
+      '<code>?date=2026-10-16&lang=27&time=+03:00</code>' +
+      '</div>';
   }
-}
-
-function render(data) {
-  const matchesContainer = document.getElementById("matches");
-  const competitions = data.competitions || [];
-  
-  // إحصائيات
-  let totalMatches = 0;
-  let liveCount = 0;
-  competitions.forEach(c => {
-    totalMatches += (c.matches || []).length;
-    (c.matches || []).forEach(m => {
-      if (m.status_class === "live") liveCount++;
-    });
-  });
-  
-  document.getElementById("totalMatches").textContent = totalMatches;
-  document.getElementById("totalComps").textContent = competitions.length;
-  document.getElementById("liveCount").textContent = liveCount;
-  document.getElementById("liveDot").style.display = liveCount > 0 ? "inline-block" : "none";
-  
-  // بناء HTML
-  let html = "";
-  competitions.forEach(comp => {
-    const compLogo = comp.competition_img 
-      ? API_ORIGIN + comp.competition_img 
-      : "";
-    
-    html += '<div class="competition">';
-    html += '<div class="comp-header">';
-    if (compLogo) html += `<img src="${compLogo}" alt="" onerror="this.style.display='none'">`;
-    html += `<h2>${comp.competition_name}</h2>`;
-    html += '</div>';
-    
-    (comp.matches || []).forEach(m => {
-      const statusClass = m.status_class || "upcoming";
-      const statusText = m.match_status || "";
-      const homeLogo = m.team1_img ? API_ORIGIN + m.team1_img : "";
-      const awayLogo = m.team2_img ? API_ORIGIN + m.team2_img : "";
-      
-      html += '<div class="match">';
-      
-      // الفريق المضيف
-      html += '<div class="team">';
-      if (homeLogo) html += `<img src="${homeLogo}" alt="" onerror="this.style.display='none'">`;
-      html += `<div class="name">${m.team1_name || ""}</div>`;
-      html += '</div>';
-      
-      // النتيجة والحالة
-      html += '<div class="center-col">';
-      html += `<div class="score">${m.team1_score ?? 0} - ${m.team2_score ?? 0}</div>`;
-      html += `<div class="status ${statusClass}">${statusText}</div>`;
-      html += '</div>';
-      
-      // الفريق الضيف
-      html += '<div class="team away">';
-      if (awayLogo) html += `<img src="${awayLogo}" alt="" onerror="this.style.display='none'">`;
-      html += `<div class="name">${m.team2_name || ""}</div>`;
-      html += '</div>';
-      
-      html += '</div>';
-    });
-    
-    html += '</div>';
-  });
-  
-  matchesContainer.innerHTML = html;
-  
-  // وقت التحديث
-  const now = new Date();
-  document.getElementById("updated").textContent = 
-    "آخر تحديث: " + now.toLocaleTimeString("ar-EG");
-}
-
-// جلب أول مرة
-fetchMatches();
-
-// التحديث كل ثانية
-setInterval(fetchMatches, REFRESH_INTERVAL);
+})();
 </script>
-
 </body>
 </html>
