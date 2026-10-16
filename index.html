@@ -44,13 +44,11 @@
   const output = document.getElementById('output');
   
   try {
-    // ====== قراءة معاملات الرابط ======
     const params = new URLSearchParams(window.location.search);
     let date = params.get('date');
     let lang = params.get('lang') || '27';
     let time = params.get('time');
     
-    // إذا لم يُحدد تاريخ، استخدم تاريخ اليوم
     if (!date) {
       const now = new Date();
       const y = now.getFullYear();
@@ -59,7 +57,6 @@
       date = `${y}-${m}-${d}`;
     }
     
-    // إذا لم يُحدد time، احسبه من توقيت المتصفح
     if (!time) {
       const offset = -new Date().getTimezoneOffset();
       const sign = offset >= 0 ? '+' : '-';
@@ -69,32 +66,42 @@
       time = `${sign}${hh}:${mm}`;
     }
     
-    // ====== بناء رابط المصدر ======
     const SOURCE = 'https://www.messisporat.com/matches/npm/';
     const fullUrl = `${SOURCE}?date=${encodeURIComponent(date)}&lang=${encodeURIComponent(lang)}&time=${encodeURIComponent(time)}`;
     
-    // ====== جلب البيانات ======
-    const response = await fetch(fullUrl, {
-      headers: {
-        'Accept': 'application/json, text/plain, */*',
-        'Accept-Language': 'ar,en-US;q=0.9,en;q=0.8'
-      }
-    });
+    // ====== استخدام CORS Proxy ======
+    const proxies = [
+      'https://corsproxy.io/?' + encodeURIComponent(fullUrl),
+      'https://api.allorigins.win/raw?url=' + encodeURIComponent(fullUrl),
+      'https://cors.eu.org/' + fullUrl,
+    ];
     
-    if (!response.ok) {
-      throw new Error(`HTTP ${response.status}: ${response.statusText}`);
+    let data = null;
+    let lastError = null;
+    
+    for (const proxyUrl of proxies) {
+      try {
+        const response = await fetch(proxyUrl);
+        if (!response.ok) throw new Error(`HTTP ${response.status}`);
+        const text = await response.text();
+        data = JSON.parse(text);
+        break;
+      } catch (err) {
+        lastError = err;
+        continue;
+      }
     }
     
-    const data = await response.json();
+    if (!data) {
+      throw new Error('فشلت جميع الوسائط: ' + (lastError?.message || 'unknown'));
+    }
     
-    // ====== عرض البيانات كـ JSON ======
     output.innerHTML = '<pre>' + JSON.stringify(data, null, 2) + '</pre>';
     
   } catch (err) {
     output.innerHTML = '<div class="error">❌ خطأ: ' + err.message + '</div>' +
       '<div style="margin-top:15px;color:#8b949e">' +
-      'تأكد من صحة المعاملات. مثال:<br>' +
-      '<code>?date=2026-10-16&lang=27&time=+03:00</code>' +
+      'حاول مرة أخرى بعد قليل، أو استخدم رابط raw.' +
       '</div>';
   }
 })();
