@@ -1,0 +1,221 @@
+{
+  "meta": {
+    "date": "2026-11-09",
+    "total_matches": 7,
+    "generated_at": "2026-11-09T20:38:36.128304+00:00",
+    "source": "messisporat.com",
+    "timezone": "+00:00"
+  },
+  "matches": [
+    {
+      "match_id": 4735621,
+      "competition": {
+        "id": 141,
+        "name": "الدوري المكسيكي الممتاز - Apertura",
+        "logo": "https://www.messisporat.com/assets/images/cup-logo/cup-logo.php?id=141"
+      },
+      "home_team": {
+        "name": "بويبلا",
+        "logo": "https://www.messisporat.com/assets/images/team-logo/team-logo.php?id=1252",
+        "color": "#FFFFFF",
+        "score": 2
+      },
+      "away_team": {
+        "name": "كويريتارو",
+        "logo": "https://www.messisporat.com/assets/images/team-logo/team-logo.php?id=5994",
+        "color": "#0A0D10",
+        "score": 0
+      },
+      "time": {
+        "start": "2026-11-09T00:00",
+        "end": "2026-11-09T02:00",
+        "current_minute": 90,
+        "timezone": "+00:00"
+      },
+      "status": {
+        "code": "FINISHED",
+        "text_ar": "انتهت"
+      }
+    },
+    {
+      "match_id": 4735618,
+      "competition": {
+        "id": 141,
+        "name": "الدوري المكسيكي الممتاز - Apertura",
+        "logo": "https://www.messisporat.com/assets/images/cup-logo/cup-logo.php?id=141"
+      },
+      "home_team": {
+        "name": "غوادالاهارا",
+        "logo": "https://www.messisporat.com/assets/images/team-logo/team-logo.php?id=1259",
+        "color": "#E4242A",
+        "score": 1
+      },
+      "away_team": {
+        "name": "نادي ليون",
+        "logo": "https://www.messisporat.com/assets/images/team-logo/team-logo.php?id=9339",
+        "color": "#126446",
+        "score": 1
+      },
+      "time": {
+        "start": "2026-11-09T02:10",
+        "end": "2026-11-09T04:10",
+        "current_minute": 90,
+        "timezone": "+00:00"
+      },
+      "status": {
+        "code": "FINISHED",
+        "text_ar": "انتهت"
+      }
+    },
+    {
+      "match_id": 4885545,
+      "competition": {
+        "id": 553,
+        "name": "كأس مصر - دور الـ 32",
+        "logo": "https://www.messisporat.com/assets/images/cup-logo/cup-logo.php?id=553"
+      },
+      "home_team": {
+        "name": "كهرباء الاسماعيلية",
+        "logo": "https://www.messisporat.com/assets/images/team-logo/team-logo.php?id=19506",
+        "color": "#F2FE48",
+        "score": 0
+      },
+      "away_team": {
+        "name": "وادي دجلة",
+        "logo": "https://www.messisporat.com/assets/images/team-logo/team-logo.php?id=8311",
+        "color": "#DED113",
+        "score": 0
+      },
+      "time": {
+        "start": "2026-11-09T12:30",
+        "end": "2026-11-09T14:30",
+        "current_minute": 120,
+        "timezone": "+00:00"
+      },
+      "status": {
+        "code": "بعد ركلات الترجيح",
+        "text_ar": "بعد ركلات الترجيح"
+      }
+    },
+    {
+      "match_id": 4885275,
+      "competition": {
+        "id": 553,
+        "name": "كأس مصر - دور الـ 32",
+        "logo": "https://www.messisporat.com/assets/images/cup-logo/cup-logo.php?id=553"
+      },
+      "home_team": {
+        "name": "سمنود",
+        "logo": "https://www.messisporat.com/assets/images/team-logo/team-logo.php?id=19503",
+        "color": "#c7d0d8",
+        "score": 1
+      },
+      "away_team": {
+        "name": "زد",
+        "logo": "https://www.messisporat.com/assets/images/team-logo/team-logo.php?id=29732",
+        "color": "#990000",
+        "score": 5
+      },
+      "time": {
+        "start": "2026-11-09T15:00",
+        "end": "2026-11-09T17:00",
+        "current_minute": 90,
+        "timezone": "+00:00"
+      },
+      "status": {
+        "code": "FINISHED",
+        "text_ar": "انتهت"
+      }
+    },
+    {
+      "match_id": 4751309,
+      "competition": {
+        "id": 12,
+        "name": "الدوري الاسباني الدرجة الثانية",
+        "logo": "https://www.messisporat.com/assets/images/cup-logo/cup-logo.php?id=12"
+      },
+      "home_team": {
+        "name": "إلدينسي",
+        "logo": "https://www.messisporat.com/assets/images/team-logo/team-logo.php?id=18086",
+        "color": "#141F69",
+        "score": 0
+      },
+      "away_team": {
+        "name": "لاس بالماس",
+        "logo": "https://www.messisporat.com/assets/images/team-logo/team-logo.php?id=167",
+        "color": "#FFFF00",
+        "score": 0
+      },
+      "time": {
+        "start": "2026-11-09T19:30",
+        "end": "2026-11-09T21:30",
+        "current_minute": 51,
+        "timezone": "+00:00"
+      },
+      "status": {
+        "code": "SECOND_HALF",
+        "text_ar": "الشوط الثاني"
+      }
+    },
+    {
+      "match_id": 4751310,
+      "competition": {
+        "id": 12,
+        "name": "الدوري الاسباني الدرجة الثانية",
+        "logo": "https://www.messisporat.com/assets/images/cup-logo/cup-logo.php?id=12"
+      },
+      "home_team": {
+        "name": "ريال سوسيداد ب",
+        "logo": "https://www.messisporat.com/assets/images/team-logo/team-logo.php?id=9255",
+        "color": "#FFFFFF",
+        "score": 0
+      },
+      "away_team": {
+        "name": "ساباديل",
+        "logo": "https://www.messisporat.com/assets/images/team-logo/team-logo.php?id=6160",
+        "color": "#0066FF",
+        "score": 0
+      },
+      "time": {
+        "start": "2026-11-09T19:30",
+        "end": "2026-11-09T21:30",
+        "current_minute": 47,
+        "timezone": "+00:00"
+      },
+      "status": {
+        "code": "SECOND_HALF",
+        "text_ar": "الشوط الثاني"
+      }
+    },
+    {
+      "match_id": 4882339,
+      "competition": {
+        "id": 8,
+        "name": "كاس الاتحاد الإنجليزي - الدور 1",
+        "logo": "https://www.messisporat.com/assets/images/cup-logo/cup-logo.php?id=8"
+      },
+      "home_team": {
+        "name": "بركهامستد",
+        "logo": "https://www.messisporat.com/assets/images/team-logo/team-logo.php?id=21418",
+        "color": "#c7d0d8",
+        "score": 1
+      },
+      "away_team": {
+        "name": "بليموث باركواي",
+        "logo": "https://www.messisporat.com/assets/images/team-logo/team-logo.php?id=21649",
+        "color": "#7f97ab",
+        "score": 0
+      },
+      "time": {
+        "start": "2026-11-09T19:30",
+        "end": "2026-11-09T21:30",
+        "current_minute": 52,
+        "timezone": "+00:00"
+      },
+      "status": {
+        "code": "SECOND_HALF",
+        "text_ar": "الشوط الثاني"
+      }
+    }
+  ]
+}
